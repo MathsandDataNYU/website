@@ -9,12 +9,35 @@
     <atom:link href="https://mathsanddatanyu.github.io/website/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>first</title>
+      <title>Phd Program in the Mad group </title>
+      <link>https://mathsanddatanyu.github.io/website/news/mediumarticle/</link>
+      <pubDate>Fri, 23 Dec 2016 11:01:01 -0500</pubDate>
+      
+      <guid>https://mathsanddatanyu.github.io/website/news/mediumarticle/</guid>
+      <description>&lt;p&gt;Check out these articles if you are interested in applying to our PhD program!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYUDataScience/ph-d-in-data-science-the-math-data-group-f055b52c3826#.1e0bbwrvb&#34;&gt;PhD in Data Science : The MaD Group&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYUDataScience/phd-in-data-science-application-tips-875750c6ac87#.ee228cxwu&#34;&gt;PhD Application tips!&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Mad site!</title>
       <link>https://mathsanddatanyu.github.io/website/news/first/</link>
       <pubDate>Thu, 22 Dec 2016 14:51:18 -0500</pubDate>
       
       <guid>https://mathsanddatanyu.github.io/website/news/first/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
+Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
+Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
+
+&lt;p&gt;We are always in the lookout for highly motivated students interested
+in understanding and developing the fundamental mathematical structures underpinning
+modern data analysis.&lt;/p&gt;
+</description>
     </item>
     
     <item>
