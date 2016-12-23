@@ -105,14 +105,107 @@ The seminar runs on Thursdays at the Center for Data Science, 60 5th ave.&lt;/p&
 
 &lt;h3 id=&#34;tentative-schedule-with-confirmed-speakers&#34;&gt;Tentative Schedule with Confirmed Speakers&lt;/h3&gt;
 
-&lt;p&gt;| Date        | Speaker                   | Title |
-| &amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; |:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-:| &amp;mdash;&amp;ndash; |
-| Jan 26      | Dave Donoho, Stanford     | TBA   |
-| Feb 2       | Andrew Gelman, Columbia   |       |
-| Feb 9       |                           |       |
-| Feb 16      |                           |       |
-| Feb 23      | John Wright, Columbia     |       |
-| Mar 2       | Gitta Kutyniok, TU Berlin |       |&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Institution&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 26&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dave Donoho&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Stanford&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Andrew Gelman&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Columbia&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 9&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 23&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;John Wright&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Columbia&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Gitta Kutyniok&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TU Berlin&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 9&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SPRING BREAK&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 23&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Stephane Mallat&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ENS Ulm&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 6&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ben Recht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;UC Berkeley&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 13&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 20&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Andrea Montanari&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Stanford&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 27&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Joel Tropp&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Caltech&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;May 4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Thomas Strohmer&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;UC Davis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
