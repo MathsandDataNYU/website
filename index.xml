@@ -130,26 +130,94 @@ Room and final schedule TBA&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Jan 26&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://statweb.stanford.edu/~donoho/&#34;&gt;Dave Donoho&lt;/a&gt; (Stanford)&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[Optimal Shrinkage of Covariance Matrices&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;#donoho&#34;&gt;Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.stat.columbia.edu/~gelman/&#34;&gt;Andrew Gelman&lt;/a&gt; (Columbia)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 9&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.nyu.edu/faculty/greengar/&#34;&gt;Leslie Greengard&lt;/a&gt; (Courant)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://cpsc.yale.edu/people/ronald-coifman&#34;&gt;Ronald Coifman&lt;/a&gt; (Yale)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 23&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.columbia.edu/~jw2966/&#34;&gt;John Wright&lt;/a&gt; (Columbia)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.tu-berlin.de/?108957&#34;&gt;Gitta Kutyniok&lt;/a&gt; (TU Berlin)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 9&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www-math.mit.edu/~rigollet/&#34;&gt;Philippe Rigolet&lt;/a&gt; (MIT)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;SPRING BREAK&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 23&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://web.math.princeton.edu/~amits/&#34;&gt;Amit Singer&lt;/a&gt; (Princeton)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.di.ens.fr/~mallat/&#34;&gt;Stephane Mallat&lt;/a&gt; (ENS Ulm)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 6&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~brecht/&#34;&gt;Ben Recht&lt;/a&gt; (UC Berkeley)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 13&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.rci.rutgers.edu/~wub1/&#34;&gt;Waheed Bajwa&lt;/a&gt; (Rutgers)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 20&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://web.stanford.edu/~montanar/&#34;&gt;Andrea Montanari&lt;/a&gt; (Stanford)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 27&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://users.cms.caltech.edu/~jtropp/&#34;&gt;Joel Tropp&lt;/a&gt;  (Caltech)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;May 4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.math.ucdavis.edu/~strohmer/?p=home&#34;&gt;Thomas Strohmer&lt;/a&gt; (UC Davis)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TBA&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;p&gt;in light of the spiked covariance model](#donoho) |
-| Feb 2      | &lt;a href=&#34;http://www.stat.columbia.edu/~gelman/&#34;&gt;Andrew Gelman&lt;/a&gt; (Columbia) | TBA    |
-| Feb 9 |  &lt;a href=&#34;http://www.math.nyu.edu/faculty/greengar/&#34;&gt;Leslie Greengard&lt;/a&gt; (Courant)    | TBA |
-| Feb 16 | &lt;a href=&#34;http://cpsc.yale.edu/people/ronald-coifman&#34;&gt;Ronald Coifman&lt;/a&gt; (Yale)     | TBA |
-| Feb 23 | &lt;a href=&#34;http://www.columbia.edu/~jw2966/&#34;&gt;John Wright&lt;/a&gt; (Columbia)     | TBA |
-| Mar 2 |  &lt;a href=&#34;http://www.tu-berlin.de/?108957&#34;&gt;Gitta Kutyniok&lt;/a&gt; (TU Berlin)  | TBA |
-| Mar 9 |  &lt;a href=&#34;http://www-math.mit.edu/~rigollet/&#34;&gt;Philippe Rigolet&lt;/a&gt; (MIT)      | TBA   |
-| Mar 16 | &lt;strong&gt;SPRING BREAK&lt;/strong&gt;      |
-| Mar 23 | &lt;a href=&#34;https://web.math.princeton.edu/~amits/&#34;&gt;Amit Singer&lt;/a&gt; (Princeton)      | TBA |
-| Mar 30 | &lt;a href=&#34;https://www.di.ens.fr/~mallat/&#34;&gt;Stephane Mallat&lt;/a&gt; (ENS Ulm)  | TBA |
-| Apr 6 | &lt;a href=&#34;https://people.eecs.berkeley.edu/~brecht/&#34;&gt;Ben Recht&lt;/a&gt; (UC Berkeley)     |  TBA |
-| Apr 13 | &lt;a href=&#34;http://www.rci.rutgers.edu/~wub1/&#34;&gt;Waheed Bajwa&lt;/a&gt; (Rutgers)      | TBA |
-| Apr 20 | &lt;a href=&#34;http://web.stanford.edu/~montanar/&#34;&gt;Andrea Montanari&lt;/a&gt; (Stanford)  | TBA |
-| Apr 27 | &lt;a href=&#34;http://users.cms.caltech.edu/~jtropp/&#34;&gt;Joel Tropp&lt;/a&gt;  (Caltech)    | TBA |
-| May 4 | &lt;a href=&#34;https://www.math.ucdavis.edu/~strohmer/?p=home&#34;&gt;Thomas Strohmer&lt;/a&gt; (UC Davis) | TBA |&lt;/p&gt;
 
 &lt;hr /&gt;
 
