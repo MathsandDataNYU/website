@@ -9,6 +9,35 @@
     <atom:link href="https://mathsanddatanyu.github.io/website/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>reading</title>
+      <link>https://mathsanddatanyu.github.io/website/news/reading/</link>
+      <pubDate>Tue, 24 Jan 2017 15:40:00 -0500</pubDate>
+      
+      <guid>https://mathsanddatanyu.github.io/website/news/reading/</guid>
+      <description>&lt;p&gt;This week we are starting two weekly reading groups.
+One will study &lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;topics on high-dimensional Probability&lt;/a&gt;,
+whereas the other will focus on selected &lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;topics on Statistical Physics&lt;/a&gt;. You can check present and past reading groups in the corresponding &lt;a href=&#34;reading&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading Groups</title>
+      <link>https://mathsanddatanyu.github.io/website/reading/</link>
+      <pubDate>Tue, 24 Jan 2017 15:36:26 -0500</pubDate>
+      
+      <guid>https://mathsanddatanyu.github.io/website/reading/</guid>
+      <description>
+
+&lt;p&gt;The Mad group hosts semester-long thematic reading groups.
+Publicly accessible here.&lt;/p&gt;
+
+&lt;h4 id=&#34;high-dimensional-probability-https-github-com-mathsanddatanyu-highdimproba-spring17&#34;&gt;&lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;High Dimensional Probability&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;statistical-physics-https-github-com-mathsanddatanyu-statphysics-spring17&#34;&gt;&lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;Statistical Physics&lt;/a&gt;&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Phd Program in the Mad group </title>
       <link>https://mathsanddatanyu.github.io/website/news/mediumarticle/</link>
       <pubDate>Fri, 23 Dec 2016 11:01:01 -0500</pubDate>
