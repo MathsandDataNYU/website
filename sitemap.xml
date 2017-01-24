@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mathsanddatanyu.github.io/website/</loc>
-    <lastmod>2017-01-24T15:40:00-05:00</lastmod>
+    <loc>https://mathsanddatanyu.github.io/website/news/test/</loc>
+    <lastmod>2017-01-24T17:35:29-05:00</lastmod>
   </url>
   
   <url>
@@ -44,6 +44,52 @@
   <url>
     <loc>https://mathsanddatanyu.github.io/website/about/</loc>
     <lastmod>2016-12-22T14:29:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/tags/development/</loc>
+    <lastmod>2017-01-24T17:35:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/categories/development/</loc>
+    <lastmod>2017-01-24T17:35:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/tags/golang/</loc>
+    <lastmod>2017-01-24T17:35:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/categories/golang/</loc>
+    <lastmod>2017-01-24T17:35:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/</loc>
+    <lastmod>2017-01-24T17:35:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/news/</loc>
+    <lastmod>2017-01-24T17:35:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

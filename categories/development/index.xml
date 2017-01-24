@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math and Data</title>
+    <title>Development on Math and Data</title>
     <link>https://mathsanddatanyu.github.io/website/categories/development/index.xml</link>
-    <description>Recent content on Math and Data</description>
+    <description>Recent content in Development on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://mathsanddatanyu.github.io/website/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>https://mathsanddatanyu.github.io/website/news/test/</link>
+      <pubDate>Tue, 24 Jan 2017 17:35:29 -0500</pubDate>
+      
+      <guid>https://mathsanddatanyu.github.io/website/news/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>reading</title>
