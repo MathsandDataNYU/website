@@ -194,7 +194,7 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Feb 9&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.nyu.edu/faculty/greengar/&#34;&gt;Leslie Greengard&lt;/a&gt; (Courant)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;TBA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#greengard&#34;&gt;Inverse problems in acoustic scattering and cryo-electron microscopy&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -290,6 +290,12 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;h4 id=&#34;a-name-gelman-a-andrew-gelman-taking-bayesian-inference-seriously&#34;&gt;&lt;a name=&#34;gelman&#34;&gt;&lt;/a&gt; Andrew Gelman: Taking Bayesian Inference Seriously&lt;/h4&gt;
 
 &lt;p&gt;Over the years I have been moving toward the use of informative priors in more and more of my applications. I will discuss several examples from theory, application, and computing where traditional noninformative priors lead to disaster, but a little bit of prior information can make everything work out. Informative priors also can resolve some of the questions of replication and multiple comparisons that have recently shook the world of science. It’s funny for me to say this, after having practiced Bayesian statistics for nearly thirty years, but I’m only now realizing the true value of the prior distribution.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-greengard-a-leslie-greengard-inverse-problems-in-acoustic-scattering-and-cryo-electron-microscopy&#34;&gt;&lt;a name=&#34;greengard&#34;&gt;&lt;/a&gt; Leslie Greengard: Inverse problems in acoustic scattering and cryo-electron microscopy&lt;/h4&gt;
+
+&lt;p&gt;A variety of problems in image reconstruction give rise to large-scale, nonlinear and non-convex optimization problems. We will show how recursive linearization combined with suitable fast solvers are bringing such problems within practical reach, with an emphasis on acoustic scattering and protein structure determination via cryo-electron microscopy.&lt;/p&gt;
 </description>
     </item>
     
