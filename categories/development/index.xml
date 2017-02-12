@@ -192,7 +192,7 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Feb 9&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Feb 9&lt;/del&gt; Mar 20&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.nyu.edu/faculty/greengar/&#34;&gt;Leslie Greengard&lt;/a&gt; (Courant)&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#greengard&#34;&gt;Inverse problems in acoustic scattering and cryo-electron microscopy&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -200,7 +200,7 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Feb 16&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://cpsc.yale.edu/people/ronald-coifman&#34;&gt;Ronald Coifman&lt;/a&gt; (Yale)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;TBA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#coifman&#34;&gt;Organization and Analysis on data tensors&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -296,6 +296,16 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;h4 id=&#34;a-name-greengard-a-leslie-greengard-inverse-problems-in-acoustic-scattering-and-cryo-electron-microscopy&#34;&gt;&lt;a name=&#34;greengard&#34;&gt;&lt;/a&gt; Leslie Greengard: Inverse problems in acoustic scattering and cryo-electron microscopy&lt;/h4&gt;
 
 &lt;p&gt;A variety of problems in image reconstruction give rise to large-scale, nonlinear and non-convex optimization problems. We will show how recursive linearization combined with suitable fast solvers are bringing such problems within practical reach, with an emphasis on acoustic scattering and protein structure determination via cryo-electron microscopy.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-coifman-a-ronald-coifman-organization-and-analysis-on-data-tensors&#34;&gt;&lt;a name=&#34;coifman&#34;&gt;&lt;/a&gt; Ronald Coifman: Organization and Analysis on data tensors&lt;/h4&gt;
+
+&lt;p&gt;Our goal is to illustrate and give an overview of various emerging methodologies to geometrize tensor data and build analytics on that foundation.&lt;/p&gt;
+
+&lt;p&gt;Starting with conventional data bases given as matrices , where we organize simultaneously rows and columns , viewed as functions of each other . We extend the  process  to higher order tensors,on which we build joint geometries.&lt;/p&gt;
+
+&lt;p&gt;We will describe various applications to the study of questionnaires , medical and genetic data , neuronal dynamics in various regimes. In particular we will discuss a useful integration of these analytic tools with deep nets and the features they reveal.&lt;/p&gt;
 </description>
     </item>
     
