@@ -212,7 +212,7 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Mar 2&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.tu-berlin.de/?108957&#34;&gt;Gitta Kutyniok&lt;/a&gt; (TU Berlin)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;TBA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#gitta&#34;&gt;Optimal Approximation with Sparse Deep Neural Networks&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -316,6 +316,22 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;p&gt;In this talk, I will discuss examples of nonconvex optimization problems that can be solved to global optimality using simple iterative methods, which succeed independent of initialization. These include variants of the sparse dictionary learning problem, image recovery from certain types of phaseless measurements, and variants of the sparse blind deconvolution problem. These problems possess a characteristic structure, in which (i) all local minima are global, and (ii) the energy landscape does not have any “flat” saddle points. For each of the aforementioned problems, this geometric structure allows us to obtain new types of performance guarantees. I will motivate these problems from applications in imaging and computer vision, and describe how this viewpoint leads to new approaches to analyzing electron microscopy data.&lt;/p&gt;
 
 &lt;p&gt;Joint work with Ju Sun (Stanford), Qing Qu (Columbia), Yuqian Zhang (Columbia), Yenson Lau (Columbia) Sky Cheung, (Columbia), Abhay Pasupathy (Columbia)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-gitta-a-gitta-kutyniok&#34;&gt;&lt;a name=&#34;gitta&#34;&gt;&lt;/a&gt; Gitta Kutyniok&lt;/h4&gt;
+
+&lt;p&gt;Deep neural networks show impressive results in a variety of real-world applications. One central task of them
+is to approximate a function, which for instance encodes a classification problem. In this talk, we will be concerned with
+the question, how well a function can be approximated by a deep neural network with sparse connectivity, i.e., with a
+minimal number of edges. Using methods from approximation theory and applied harmonic analysis, we will first prove a fundamental
+lower bound on the sparsity of a neural network if certain approximation properties are required. By explicitly
+constructing neural networks based on certain representation systems, so-called $\alpha$-shearlets, we will then demonstrate that
+this lower bound can in fact be attained. Finally, given a fixed network topology with sparse connectivity, we present numerical
+experiments, which show that already the standard backpropagation algorithm generates a deep neural network obeying
+those optimal approximation rates. Interestingly, our experiments also show that restricting to subnetworks, the learning
+procedure even yields $\alpha$-shearlet-like functions. This is joint work with H. B\&amp;ldquo;olcskei (ETH Zurich), P. Grohs
+(Uni Vienna), and P. Petersen (TU Berlin).&lt;/p&gt;
 </description>
     </item>
     
