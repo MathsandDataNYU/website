@@ -219,7 +219,7 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Mar 9&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www-math.mit.edu/~rigollet/&#34;&gt;Philippe Rigollet&lt;/a&gt; (MIT)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;TBA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#rigollet&#34;&gt;Learning determinantal point processes&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -333,6 +333,17 @@ experiments, which show that already the standard backpropagation algorithm gene
 those optimal approximation rates. Interestingly, our experiments also show that restricting to subnetworks, the learning
 procedure even yields $\alpha$-shearlet-like functions. This is joint work with H. B\&amp;ldquo;olcskei (ETH Zurich), P. Grohs
 (Uni Vienna), and P. Petersen (TU Berlin).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-rigollet-a-philippe-rigollet-learning-determinantal-point-processes&#34;&gt;&lt;a name=&#34;rigollet&#34;&gt;&lt;/a&gt; Philippe Rigollet: Learning Determinantal Point Processes&lt;/h4&gt;
+
+&lt;p&gt;Determinantal Point Processes (DPPs) are a family of probabilistic models that have a repulsive behavior, and lend themselves naturally to many tasks in machine learning where returning a diverse set of objects is important. While there are fast algorithms for sampling, marginalization and conditioning, much less is known about learning the parameters of a DPP. In this talk, I will present recent results related to this problem, specifically
+(i) Rates of convergence for the maximum likelihood estimator: by studying the local and global geometry of the expected log-likelihood function we are able to rates of convergence for the MLE and give a complete characterization of the case where these are parametric. We also give a partial description of the critical points for the expected log-likelihood.
+(ii) Optimal rates of convergence for this problem: these are achievable by the method of moments and are governed by a combinatorial parameter, which we call the cycle sparsity.
+(iii) Fast combinatorial algorithm to implement the method of moments efficiently.
+No prior knowledge on DPPs is required.
+[Based on joint work with Victor-Emmanuel Brunel, Ankur Moitra and John Urschel (MIT)]&lt;/p&gt;
 </description>
     </item>
     
