@@ -9,6 +9,56 @@
     <atom:link href="https://mathsanddatanyu.github.io/website/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>the MIC Seminar</title>
+      <link>https://mathsanddatanyu.github.io/website/micsem/</link>
+      <pubDate>Wed, 15 Mar 2017 22:37:44 -0400</pubDate>
+      
+      <guid>https://mathsanddatanyu.github.io/website/micsem/</guid>
+      <description>
+
+&lt;p&gt;The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Room:&lt;/strong&gt; Center for Data Science, NYU, 60 5th ave, room 650&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2:30pm-3:30pm.&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 21&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www-personal.umich.edu/~erebrova/index.html&#34;&gt;Liza Rebrova&lt;/a&gt; (U Michigan)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#rebrova&#34;&gt;Local and global obstructions for the random matrix norm regularization&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-rebrova-a-liza-rebrova-local-and-global-obstructions-for-the-random-matrix-norm-regularization&#34;&gt;&lt;a name=&#34;rebrova&#34;&gt;&lt;/a&gt; Liza Rebrova: Local and Global obstructions for the random matrix norm regularization&lt;/h4&gt;
+
+&lt;p&gt;We study large n by n random matrices A with i.i.d. entries. If the distribution of the entries have mean zero and at least gaussian decay, then the operator norm ||A|| is at most of order sqrt(n) with high probability. However, for the distributions with heavier tails we cannot expect the same norm bound any more. So, we are motivated by the question: under what conditions operator norm of a heavy-tailed matrix can be improved by modifying just a small fraction of its entries (a small sub-matrix of A)? I will explain why this happens exactly when the entries of A have zero mean and bounded variance. I will also discuss the almost optimal dependence between the size of the removed sub-matrix and the resulting operator norm that we&amp;rsquo;ve obtained. This is a joint work with Roman Vershynin, inspired by the methods developed recently by Can Le and R. Vershynin and in our joint work with Konstantin Tikhomirov.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>reading</title>
       <link>https://mathsanddatanyu.github.io/website/news/reading/</link>
       <pubDate>Tue, 24 Jan 2017 15:40:00 -0500</pubDate>
