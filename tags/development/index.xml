@@ -281,7 +281,7 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Mar 23&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://web.math.princeton.edu/~amits/&#34;&gt;Amit Singer&lt;/a&gt; (Princeton)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;TBA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#singer&#34;&gt;PCA from noisy linearly transformed measurements&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -394,6 +394,19 @@ procedure even yields $\alpha$-shearlet-like functions. This is joint work with 
 (iii) Fast combinatorial algorithm to implement the method of moments efficiently.
 No prior knowledge on DPPs is required.
 [Based on joint work with Victor-Emmanuel Brunel, Ankur Moitra and John Urschel (MIT)]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-singer-a-amit-singer-pca-from-noisy-linearly-transformed-measurements&#34;&gt;&lt;a name=&#34;singer&#34;&gt;&lt;/a&gt; Amit Singer: PCA from noisy linearly transformed measurements&lt;/h4&gt;
+
+&lt;p&gt;We consider the problem of estimating the covariance of X from
+measurements of the form &amp;lsquo;y_i = A_i x_i + e_i&amp;rsquo; (for &amp;lsquo;i = 1, &amp;hellip; , n&amp;rsquo; ) where &amp;lsquo;x_i&amp;rsquo; are
+i.i.d. unobserved samples of X, A_i are given linear operators, and e_i
+represent noise. Our estimator is constructed efficiently via a simple
+linear inversion using conjugate gradient performed after eigenvalue
+shrinkage motivated by the spiked model in high dimensional PCA.
+Applications to low-rank matrix completion, 2D image denoising, 3D ab-initio modelling, and 3D structure classification in
+single particle cryo-electron microscopy will be discussed.&lt;/p&gt;
 </description>
     </item>
     
