@@ -401,8 +401,8 @@ No prior knowledge on DPPs is required.
 &lt;h4 id=&#34;a-name-singer-a-amit-singer-pca-from-noisy-linearly-transformed-measurements&#34;&gt;&lt;a name=&#34;singer&#34;&gt;&lt;/a&gt; Amit Singer: PCA from noisy linearly transformed measurements&lt;/h4&gt;
 
 &lt;p&gt;We consider the problem of estimating the covariance of X from
-measurements of the form &amp;lsquo;y_i = A_i x_i + e_i&amp;rsquo; (for &amp;lsquo;i = 1, &amp;hellip; , n&amp;rsquo; ) where &amp;lsquo;x_i&amp;rsquo; are
-i.i.d. unobserved samples of X, A_i are given linear operators, and e_i
+measurements of the form &lt;code&gt;y_i = A_i x_i + e_i (for &#39;i = 1, . . . , n&#39; )&lt;/code&gt; where &lt;code&gt;x_i&lt;/code&gt; are
+i.i.d. unobserved samples of &lt;code&gt;X&lt;/code&gt;, &lt;code&gt;A_i&lt;/code&gt; are given linear operators, and &lt;code&gt;e_i&lt;/code&gt;
 represent noise. Our estimator is constructed efficiently via a simple
 linear inversion using conjugate gradient performed after eigenvalue
 shrinkage motivated by the spiked model in high dimensional PCA.
