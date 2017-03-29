@@ -292,9 +292,9 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Apr 6&lt;/td&gt;
+&lt;td&gt;Apr 6 &lt;strong&gt;11am, 12 Waverly pl, L120&lt;/strong&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~brecht/&#34;&gt;Ben Recht&lt;/a&gt; (UC Berkeley)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;TBA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#recht&#34;&gt;Optimization Challenges in Deep Learning&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -438,6 +438,16 @@ physics processes such as Ising and turublence. For supervised learning,
 we consider progressively more complex image classificaiton problems,
 and regressions of quantum molecular energies from chemical data bases.
 Open mathematical questions will be discussed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-recht-a-ben-recht-optimization-challenges-in-deep-learning&#34;&gt;&lt;a name=&#34;recht&#34;&gt;&lt;/a&gt; Ben Recht: Optimization Challenges in Deep Learning&lt;/h4&gt;
+
+&lt;p&gt;When training large-scale deep neural networks for pattern recognition, hundreds of hours on clusters of GPUs are required to achieve state-of-the-art performance. Improved optimization algorithms could potentially enable faster industrial prototyping and make training contemporary models more accessible.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will attempt to distill the key difficulties in optimizing large, deep neural networks for pattern recognition. In particular, I will emphasize that many of the popularized notions of what make these problems “hard” are not true impediments at all. I will show that it is not only easy to globally optimize neural networks, but that such global optimization remains easy when fitting completely random data.&lt;/p&gt;
+
+&lt;p&gt;I will argue instead that the source of difficulty in deep learning is a lack of understanding of generalization. I will provide empirical evidence of high-dimensional function classes that are able to achieve state-of-the-art performance on several benchmarks without any obvious forms of regularization or capacity control.  These findings reveal that traditional learning theory fails to explain why large neural networks generalize.  I will close by discussing possible mechanisms to explain generalization in such large models, appealing to insights from linear predictors.&lt;/p&gt;
 </description>
     </item>
     
