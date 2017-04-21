@@ -320,7 +320,7 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Apr 27&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://users.cms.caltech.edu/~jtropp/&#34;&gt;Joel Tropp&lt;/a&gt;  (Caltech)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;TBA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#tropp&#34;&gt;Sketchy Decisions: Low-rank matrix optimization with optimal storage&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -477,6 +477,14 @@ optimization algorithms can only be guaranteed to produce an (approximate) local
 optima are close in value to the global optimum.
 Finally I will contrast these with problems in which the effects of non-convexity are more dramatic.
 [Based on joint work with Yu Bai, Song Mei, Theodor Misiakiewicz and Roberto Oliveira]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-tropp-a-joel-tropp-sketchy-decisions-low-rank-matrix-optimization-with-optimal-storage&#34;&gt;&lt;a name=&#34;tropp&#34;&gt;&lt;/a&gt; Joel Tropp: Sketchy Decisions: Low-rank matrix optimization with optimal storage&lt;/h4&gt;
+
+&lt;p&gt;onvex matrix optimization problems with low-rank solutions play a fundamental role in signal processing, statistics, and related disciplines. These problems are difficult to solve because of the cost of maintaining the matrix decision variable, even though the low-rank solution has few degrees of freedom. This talk presents the first algorithm that provably solves these problems using optimal storage. The algorithm produces high-quality solutions to large problem instances that, previously, were intractable.&lt;/p&gt;
+
+&lt;p&gt;Joint with Volkan Cevher, Roarke Horstmeyer, Quoc Tran-Dinh, Madeleine Udell, and Alp Yurtsever.&lt;/p&gt;
 </description>
     </item>
     
