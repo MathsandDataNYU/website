@@ -58,25 +58,25 @@
   </url>
   
   <url>
-    <loc>https://mathsanddatanyu.github.io/website/tags/development/</loc>
-    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mathsanddatanyu.github.io/website/categories/development/</loc>
     <lastmod>2017-03-15T22:37:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mathsanddatanyu.github.io/website/tags/golang/</loc>
+    <loc>https://mathsanddatanyu.github.io/website/tags/development/</loc>
     <lastmod>2017-03-15T22:37:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mathsanddatanyu.github.io/website/categories/golang/</loc>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mathsanddatanyu.github.io/website/tags/golang/</loc>
     <lastmod>2017-03-15T22:37:44-04:00</lastmod>
     <priority>0</priority>
   </url>
