@@ -246,7 +246,7 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Sep 14&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.cs.princeton.edu/~ysinger/&#34;&gt;Yoram Singer&lt;/a&gt; (Princeton)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#yoram&#34;&gt;Adaptive Regularization&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -330,6 +330,12 @@ of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-yoram-a-yoram-singer-adaptive-regularization&#34;&gt;&lt;a name=&#34;yoram&#34;&gt;&lt;/a&gt; Yoram Singer: Adaptive Regularization&lt;/h4&gt;
+
+&lt;p&gt;We describe a framework for deriving and analyzing online optimization algorithms that incorporate adaptive, data dependent regularization, also termed preconditioning. Such algorithms have been proven useful in stochastic optimization by reshaping the gradients according to the geometry of the data. Our framework captures and unifies much of the existing literature on adaptive online methods, including the AdaGrad and Online Newton Step algorithms as well as their diagonal versions. As a result, we obtain new convergence proofs for these algorithms that are substantially simpler than previous analyses. Our framework also exposes the rationale for the different preconditioned updates used in common stochastic optimization methods.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Tomer Koren and Vineet Gupta (Google)&lt;/p&gt;
 </description>
     </item>
     
