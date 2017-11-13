@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math and Data</title>
-    <link>http://mathsanddatanyu.github.io/tags/development/index.xml</link>
+    <link>http://mathsanddatanyu.github.io/website/tags/development/index.xml</link>
     <description>Recent content on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://mathsanddatanyu.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mathsanddatanyu.github.io/website/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>the MIC Seminar</title>
-      <link>http://mathsanddatanyu.github.io/micsem/</link>
+      <link>http://mathsanddatanyu.github.io/website/micsem/</link>
       <pubDate>Wed, 15 Mar 2017 22:37:44 -0400</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/micsem/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/micsem/</guid>
       <description>
 
 &lt;p&gt;The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.&lt;/p&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>reading</title>
-      <link>http://mathsanddatanyu.github.io/news/reading/</link>
+      <link>http://mathsanddatanyu.github.io/website/news/reading/</link>
       <pubDate>Tue, 24 Jan 2017 15:40:00 -0500</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/news/reading/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/news/reading/</guid>
       <description>&lt;p&gt;This week we are starting two weekly reading groups.
 One will study &lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;topics on high-dimensional Probability&lt;/a&gt;,
 whereas the other will focus on selected &lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;topics on Statistical Physics&lt;/a&gt;. You can check present and past reading groups in the corresponding &lt;a href=&#34;reading&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
@@ -73,10 +73,10 @@ whereas the other will focus on selected &lt;a href=&#34;https://github.com/Math
     
     <item>
       <title>Reading Groups</title>
-      <link>http://mathsanddatanyu.github.io/reading/</link>
+      <link>http://mathsanddatanyu.github.io/website/reading/</link>
       <pubDate>Tue, 24 Jan 2017 15:36:26 -0500</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/reading/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/reading/</guid>
       <description>
 
 &lt;p&gt;The Mad group hosts semester-long thematic reading groups.
@@ -90,10 +90,10 @@ Publicly accessible here.&lt;/p&gt;
     
     <item>
       <title>Phd Program in the Mad group </title>
-      <link>http://mathsanddatanyu.github.io/news/mediumarticle/</link>
+      <link>http://mathsanddatanyu.github.io/website/news/mediumarticle/</link>
       <pubDate>Fri, 23 Dec 2016 11:01:01 -0500</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/news/mediumarticle/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/news/mediumarticle/</guid>
       <description>&lt;p&gt;Check out these articles if you are interested in applying to our PhD program!&lt;/p&gt;
 
 &lt;ul&gt;
@@ -106,10 +106,10 @@ Publicly accessible here.&lt;/p&gt;
     
     <item>
       <title>Welcome to the Mad site!</title>
-      <link>http://mathsanddatanyu.github.io/news/first/</link>
+      <link>http://mathsanddatanyu.github.io/website/news/first/</link>
       <pubDate>Thu, 22 Dec 2016 14:51:18 -0500</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/news/first/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/news/first/</guid>
       <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
 Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
 Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
@@ -122,10 +122,10 @@ modern data analysis.&lt;/p&gt;
     
     <item>
       <title>Students and Visitors</title>
-      <link>http://mathsanddatanyu.github.io/studentsvisitors/</link>
+      <link>http://mathsanddatanyu.github.io/website/studentsvisitors/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:53 -0500</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/studentsvisitors/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/studentsvisitors/</guid>
       <description>
 
 &lt;h4 id=&#34;soledad-villar-http-www-cims-nyu-edu-villar-jun-2017&#34;&gt;&lt;a href=&#34;http://www.cims.nyu.edu/~villar/&#34;&gt;Soledad Villar&lt;/a&gt; (jun 2017 - )&lt;/h4&gt;
@@ -148,10 +148,10 @@ modern data analysis.&lt;/p&gt;
     
     <item>
       <title>Faculty</title>
-      <link>http://mathsanddatanyu.github.io/faculty/</link>
+      <link>http://mathsanddatanyu.github.io/website/faculty/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/faculty/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/faculty/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -215,10 +215,10 @@ Investigator, Howard Hughes Medical Institute.&lt;/p&gt;
     
     <item>
       <title>the MaD Seminar</title>
-      <link>http://mathsanddatanyu.github.io/seminar/</link>
+      <link>http://mathsanddatanyu.github.io/website/seminar/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/seminar/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/seminar/</guid>
       <description>
 
 &lt;p&gt;The MaD seminar features leading specialists at the interface
@@ -378,10 +378,10 @@ Joint work will Alessandro Rudi, Silvia Villa, Junhong Lin, Luigi Carratino.&lt;
     
     <item>
       <title>the MaD Seminar Spring 2017</title>
-      <link>http://mathsanddatanyu.github.io/seminar_spring2017/</link>
+      <link>http://mathsanddatanyu.github.io/website/seminar_spring2017/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mathsanddatanyu.github.io/seminar_spring2017/</guid>
+      <guid>http://mathsanddatanyu.github.io/website/seminar_spring2017/</guid>
       <description>
 
 &lt;p&gt;The MaD seminar features leading specialists at the interface
