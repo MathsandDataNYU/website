@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Math and Data</title>
-    <link>https://mathsanddatanyu.github.io/website/categories/</link>
+    <link>http://mad.cds.nyu.edu/categories/</link>
     <description>Recent content in Categories on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://mathsanddatanyu.github.io/website/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mad.cds.nyu.edu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://mathsanddatanyu.github.io/website/categories/development/</link>
+      <link>http://mad.cds.nyu.edu/categories/development/</link>
       <pubDate>Wed, 15 Mar 2017 22:37:44 -0400</pubDate>
       
-      <guid>https://mathsanddatanyu.github.io/website/categories/development/</guid>
+      <guid>http://mad.cds.nyu.edu/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://mathsanddatanyu.github.io/website/categories/golang/</link>
+      <link>http://mad.cds.nyu.edu/categories/golang/</link>
       <pubDate>Wed, 15 Mar 2017 22:37:44 -0400</pubDate>
       
-      <guid>https://mathsanddatanyu.github.io/website/categories/golang/</guid>
+      <guid>http://mad.cds.nyu.edu/categories/golang/</guid>
       <description></description>
     </item>
     

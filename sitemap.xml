@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://mad.cds.nyu.edu/</loc>
-    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://mad.cds.nyu.edu/micsem/</loc>
@@ -32,12 +28,7 @@
   </url>
   
   <url>
-    <loc>http://mad.cds.nyu.edu/studentsvisitors/</loc>
-    <lastmod>2016-12-22T14:48:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mad.cds.nyu.edu/faculty/</loc>
+    <loc>http://mad.cds.nyu.edu/people/</loc>
     <lastmod>2016-12-22T14:48:45-05:00</lastmod>
   </url>
   
@@ -54,6 +45,53 @@
   <url>
     <loc>http://mad.cds.nyu.edu/about/</loc>
     <lastmod>2016-12-22T14:29:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/tags/development/</loc>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/categories/development/</loc>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/tags/golang/</loc>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/categories/golang/</loc>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/</loc>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/news/</loc>
+    <lastmod>2017-01-24T15:40:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/tags/</loc>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

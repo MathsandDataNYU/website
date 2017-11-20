@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News-rsses on Math and Data</title>
-    <link>http://mad.cds.nyu.edu/news/index.xml</link>
-    <description>Recent content in News-rsses on Math and Data</description>
+    <title>News on Math and Data</title>
+    <link>http://mad.cds.nyu.edu/news/</link>
+    <description>Recent content in News on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jan 2017 15:40:00 -0500</lastBuildDate>
-    <atom:link href="http://mad.cds.nyu.edu/news/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://mad.cds.nyu.edu/news/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>reading</title>
@@ -15,10 +17,7 @@
       <pubDate>Tue, 24 Jan 2017 15:40:00 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/news/reading/</guid>
-      <description>&lt;p&gt;This week we are starting two weekly reading groups.
-One will study &lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;topics on high-dimensional Probability&lt;/a&gt;,
-whereas the other will focus on selected &lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;topics on Statistical Physics&lt;/a&gt;. You can check present and past reading groups in the corresponding &lt;a href=&#34;reading&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>This week we are starting two weekly reading groups. One will study topics on high-dimensional Probability, whereas the other will focus on selected topics on Statistical Physics. You can check present and past reading groups in the corresponding page.</description>
     </item>
     
     <item>
@@ -27,14 +26,10 @@ whereas the other will focus on selected &lt;a href=&#34;https://github.com/Math
       <pubDate>Fri, 23 Dec 2016 11:01:01 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/news/mediumarticle/</guid>
-      <description>&lt;p&gt;Check out these articles if you are interested in applying to our PhD program!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYUDataScience/ph-d-in-data-science-the-math-data-group-f055b52c3826#.1e0bbwrvb&#34;&gt;PhD in Data Science : The MaD Group&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYUDataScience/phd-in-data-science-application-tips-875750c6ac87#.ee228cxwu&#34;&gt;PhD Application tips!&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Check out these articles if you are interested in applying to our PhD program!
+ PhD in Data Science : The MaD Group
+ PhD Application tips!
+  </description>
     </item>
     
     <item>
@@ -43,14 +38,8 @@ whereas the other will focus on selected &lt;a href=&#34;https://github.com/Math
       <pubDate>Thu, 22 Dec 2016 14:51:18 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/news/first/</guid>
-      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
-Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
-Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
-
-&lt;p&gt;We are always in the lookout for highly motivated students interested
-in understanding and developing the fundamental mathematical structures underpinning
-modern data analysis.&lt;/p&gt;
-</description>
+      <description>The Mad (Math and Data) group was created in fall 2016 by Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant Professors at Courant Institute and the Center for Data Science.
+We are always in the lookout for highly motivated students interested in understanding and developing the fundamental mathematical structures underpinning modern data analysis.</description>
     </item>
     
   </channel>
