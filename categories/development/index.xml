@@ -18,7 +18,7 @@
       
       <guid>http://mad.cds.nyu.edu/micsem/</guid>
       <description>The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
-Schedule Spring 18    Date &amp;amp; Time Speaker Title Room     Jan 31, 10:15am Mariano Tepper (Simons Foundation) Clustering is semidefinitely not that hard WWH 905   Feb 7, 10:15am Luca Venturi (NYU) Connectivity of Neural Networks Optimization Landscapes WWH 905   Feb 21, 10:15am Joao Pereira Estimation in multireference alignment and generalizations.</description>
+Schedule Spring 17    Date &amp;amp; Time Speaker Title Room     Mar 21, 2:30pm Liza Rebrova (U Michigan) Local and global obstructions for the random matrix norm regularization CDS 650          Abstracts  Liza Rebrova: Local and Global obstructions for the random matrix norm regularization We study large n by n random matrices A with i.</description>
     </item>
     
     <item>
@@ -85,21 +85,7 @@ Soledad Villar (Jun 2017 - ) Moore-Sloan Research Fellow; optimization, probabil
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm, Reception will follow.
 Subscribe to the Seminar Mailing list here
-Note special time and location of the first talk by Sebastien Bubeck
-Schedule with Confirmed Speakers    Date Speaker Title     Jan 30, 3:45pm-5:00pm, WWH 1302 Sebastien Bubeck (Microsoft Research) k-server and metrical task systems on trees   Feb 8 David Rothschild (Microsoft Research) Public Opinion during the 2020 election   Feb 15, 3-4pm, CDS 150 Rachel Ward (UT Austin) Autotuning the learning rate in stochastic gradient methods   Feb 22 Zhou Fan (Stanford) Eigenvalues in multivariate random effects models   Mar 1 Thomas Pock (TU Graz)    Mar 8 Amir Ali Ahmadi (Princeton)    Mar 15 SPRING BREAK    Mar 22 Mahdi Soltanolkotabi (USC)    Mar 29 Alejandro Ribeiro (UPenn)    Apr 5 Justin Romberg (Georgia Tech)    Apr 12 Wotao Yin (UCLA)    Apr 19 Rene Vidal (Johns Hopkins)    Apr 26 Ankur Moitra (MIT)     Schedule Fall 2017</description>
-    </item>
-    
-    <item>
-      <title>the MaD Seminar Fall 2017</title>
-      <link>http://mad.cds.nyu.edu/seminar_fall2017/</link>
-      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/seminar_fall2017/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     Sep 14 Yoram Singer (Princeton) Adaptive Regularization   Sep 21 Esteban Tabak (NYU) Conditional Density Estimation through Optimal Transport   Sep 28 Laurent Demanet (MIT) Extrapolation from sparsity   Oct 5 Dustin Mixon (Ohio State) A semidefinite relaxation of k-means clustering   Oct 12 Lorenzo Rosasco (MIT) (un)conventional regularization for efficient large scale machine learning   Oct 19 Francis Bach (INRIA, ENS) Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains   Oct 26 Rachel Ward (UT Austin)    Nov 2 Ivan Selesnick (NYU)    Nov 9 Mauro Maggioni (John Hopkins) Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets   Nov 16 Emmanuel Abbe (Princeton) Graph Powering: mixing Bayesian and spectral methods   Nov 23 THANKSGIVING    Nov 30 Guillermo Sapiro (Duke) Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems   Dec 7 Alexandre d&amp;rsquo;Aspremont (ENS)     Abstracts  Yoram Singer: Adaptive Regularization We describe a framework for deriving and analyzing online optimization algorithms that incorporate adaptive, data dependent regularization, also termed preconditioning.</description>
+Schedule with Confirmed Speakers    Date Speaker Title     Sep 14 Yoram Singer (Princeton) Adaptive Regularization   Sep 21 Esteban Tabak (NYU) Conditional Density Estimation through Optimal Transport   Sep 28 Laurent Demanet (MIT) Extrapolation from sparsity   Oct 5 Dustin Mixon (Ohio State) A semidefinite relaxation of k-means clustering   Oct 12 Lorenzo Rosasco (MIT) (un)conventional regularization for efficient large scale machine learning   Oct 19 Francis Bach (INRIA, ENS) Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains   Oct 26 Rachel Ward (UT Austin)    Nov 2 Ivan Selesnick (NYU)    Nov 9 Mauro Maggioni (John Hopkins) Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets   Nov 16 Emmanuel Abbe (Princeton) Graph Powering: mixing Bayesian and spectral methods   Nov 23 THANKSGIVING    Nov 30 Guillermo Sapiro (Duke)    Dec 7 Alexandre d&amp;rsquo;Aspremont (ENS)     Schedule Spring 2017</description>
     </item>
     
     <item>
