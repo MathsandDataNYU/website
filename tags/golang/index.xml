@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Math and Data</title>
-    <link>http://mad.cds.nyu.edu/tags/golang/</link>
-    <description>Recent content in Golang on Math and Data</description>
+    <title>Math and Data</title>
+    <link>http://mad.cds.nyu.edu/tags/golang/index.xml</link>
+    <description>Recent content on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2017 22:37:44 -0400</lastBuildDate>
-    
-	<atom:link href="http://mad.cds.nyu.edu/tags/golang/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://mad.cds.nyu.edu/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>the MIC Seminar</title>
@@ -17,9 +14,294 @@
       <pubDate>Wed, 15 Mar 2017 22:37:44 -0400</pubDate>
       
       <guid>http://mad.cds.nyu.edu/micsem/</guid>
-      <description>The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
-Schedule Fall 18 During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p.
-   Date Speaker Title Room     Oct 16, 6p David Shirokoff (NJIT) Convex relaxations for variational problems arising from models of self-assembly WWH 312   Oct 23, 6p Didier Henrion (CNRS) Solving nonlinear PDEs with the Lasserre hierarchy WWH 312   Nov 2, 1:30p Anna Seigal (Berkeley) Structured Tensors and the Geometry of Data WWH 202   Nov 12, 12:15p Marylou Gabrie (ENS) Entropy and mutual information in models of deep neural networks CDS 650   Nov 13, 6:00p Aukosh Jagannath (Harvard) Algorithmic thresholds for tensor principle component analysis WWH 312    Abstracts  Aukosh Jagannath: Algorithmic thresholds for tensor principle component analysis Consider the problem of recovering a rank 1 tensor of order k that has been subject to Gaussian noise.</description>
+      <description>
+
+&lt;p&gt;The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-fall-18&#34;&gt;Schedule Fall 18&lt;/h3&gt;
+
+&lt;p&gt;During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Room&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Oct 16, 6p&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://web.njit.edu/~shirokof/&#34;&gt;David Shirokoff&lt;/a&gt; (NJIT)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#david&#34;&gt;Convex relaxations for variational problems arising from models of self-assembly&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 312&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 23, 6p&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://homepages.laas.fr/henrion/&#34;&gt;Didier Henrion&lt;/a&gt; (CNRS)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Solving nonlinear PDEs with the Lasserre hierarchy&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 312&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 2, 1:30p&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://math.berkeley.edu/~seigal/&#34;&gt;Anna Seigal&lt;/a&gt; (Berkeley)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#anna&#34;&gt;Structured Tensors and the Geometry of Data&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 202&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 12, 12:15p&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Marylou Gabrie (ENS)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#marylou&#34;&gt;Entropy and mutual information in models of deep neural networks&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;CDS 650&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 13, 6:00p&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Aukosh Jagannath (Harvard)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#aukosh&#34;&gt;Algorithmic thresholds for tensor principle component analysis&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 312&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-marylou-a-aukosh-jagannath-algorithmic-thresholds-for-tensor-principle-component-analysis&#34;&gt;&lt;a name=&#34;marylou&#34;&gt;&lt;/a&gt; Aukosh Jagannath: Algorithmic thresholds for tensor principle component analysis&lt;/h4&gt;
+
+&lt;p&gt;Consider the problem of recovering a rank 1 tensor of order k that has been subject to Gaussian noise. The log-likelihood for this problem is highly non-convex. It is information theoretically possible to recover the tensor with a finite number of samples via maximum likelihood estimation, however, it is expected that one needs a polynomially diverging number of samples to efficiently recover it. What is the cause of this large statistical–to–algorithmic gap? To study this question, we investigate the thresholds for efficient recovery for a simple family of algorithms, Langevin dynamics and gradient descent. We view this problem as a member of a broader class of problems which correspond to recovering a signal from a non-linear observation that has been perturbed by isotropic Gaussian noise. We propose a mechanism for success/failure of recovery of such algorithms in terms of the strength of the signal on the high entropy region of the initialization. Joint work with G. Ben Arous (NYU) and R. Gheissari (NYU).&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-marylou-a-marylou-gabrie-entropy-and-mutual-information-in-models-of-deep-neural-networks&#34;&gt;&lt;a name=&#34;marylou&#34;&gt;&lt;/a&gt; Marylou Gabrie: Entropy and mutual information in models of deep neural networks&lt;/h4&gt;
+
+&lt;p&gt;The successes and the multitude of applications of deep learning methods have spurred efforts towards quantitative modeling of the performance of deep neural networks. In particular, an information-theoretic approach linking generalization capabilities to compression has been receiving increasing interest. Nevertheless, it is in practice computationally intractable to compute entropies and mutual informations in industry-sized neural networks. In this talk, we will consider instead a class of models of deep neural networks, for which an expression for these information-theoretic quantities can be derived from the replica method. We will examine how mutual informations between hidden and input variables can be reported along the training of such neural networks on synthetic datasets.
+This work was done in collaboration with Andre Manoel (Owkin), Clément Luneau (EPFL), Jean Barbier (EPFL), Nicolas Macris (EPFL), Florent Krzakala (LPS ENS) and Lenka Zdeborova (IPHT CEA).&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-anna-a-anna-seigal-structured-tensors-and-the-geometry-of-data&#34;&gt;&lt;a name=&#34;anna&#34;&gt;&lt;/a&gt; Anna Seigal: Structured Tensors and the Geometry of Data&lt;/h4&gt;
+
+&lt;p&gt;Abstract: Tensors are higher dimensional analogues of matrices; they are used to record data with multiple changing variables. Interpreting tensor data requires finding low rank structure, and the structure depends on the application or context. In this talk, we describe four projects in the study of structured tensors. Often tensors of interest define semi-algebraic sets, given by polynomial equations and inequalities. We give a characterization of the set of tensors of real rank two, and answer questions about statistical models using probability tensors and semi-algebraic statistics. We also study cubic surfaces as symmetric tensors, and describe work on learning a path from its three dimensional signature tensor. This talk is based on joint work with Guido Montúfar, Max Pfeffer, and Bernd Sturmfels.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-david-a-david-shirokoff-convex-relaxations-for-variational-problems-arising-from-models-of-self-assembly&#34;&gt;&lt;a name=&#34;david&#34;&gt;&lt;/a&gt;  David Shirokoff: Convex relaxations for variational problems arising from models of self-assembly&lt;/h4&gt;
+
+&lt;p&gt;We examine the problem of minimizing a class of nonlocal, nonconvex variational problems that arise from modeling a large number of pairwise interacting particles in the presence of thermal noise (i.e. molecular dynamics). Although finding and verifying local minima to these functionals is relatively straightforward, computing and verifying global minima is much more difficult. Global minima (ground states) are important as they characterize the structure of matter in models of self-assembly. We discuss how minimizing the functionals can be viewed as testing whether an associated bilinear form is co-positive. We then develop sufficient conditions for global optimality (which in some cases are provably sharp) obtained through a convex relaxation related to the cone of co-positive functionals.  The resulting convex relaxation results in a conic variational problem with an infinite number of Fourier constraints, and leads to a variety of computational challenges.  Pending time, we provide details on matrix-free interior point algorithms that alleviate some of the computational difficulties (i.e. solutions may be Dirac masses) associated with the large-scale problems.&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-summer-18&#34;&gt;Schedule Summer 18&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date &amp;amp; Time&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Room&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;May 30, 10:15am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://yuguangwang.com/&#34;&gt;Yu Guang Wang&lt;/a&gt; (ICERM and The University of New South Wales, Sydney)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#yu&#34;&gt;Tight framelets and fast framelet filter bank transforms on manifolds&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 317&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;June 6, 10:30am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.math.uci.edu/~rvershyn/index.html&#34;&gt;Roman Vershynin&lt;/a&gt; (UCI)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#roman&#34;&gt;From number theory to machine learning: a hunt for smooth Boolean functions&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 317&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;June 13, 11:00am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://sites.google.com/site/aidakhajavirad/&#34;&gt;Aida Khajavirad&lt;/a&gt; (CMU and NYU)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#aida&#34;&gt;The multilinear polytope for acyclic Hypergraphs&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 317&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;July 3, 10:30am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Chiheon Kim (MIT)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#kim&#34;&gt;Statistical Limits of Graphical Channel Models&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 317&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;abstracts-1&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-yu-a-yu-guang-wang-tight-framelets-and-fast-framelet-filter-bank-transforms-on-manifolds&#34;&gt;&lt;a name=&#34;yu&#34;&gt;&lt;/a&gt;  Yu Guang Wang: Tight framelets and fast framelet filter bank transforms on manifolds&lt;/h4&gt;
+
+&lt;p&gt;Data in practical application with some structure can be viewed as sampled
+from a manifold, for instance, data on a graph and in astrophysics. A smooth and
+compact Riemannian manifold M, including examples of spheres, tori, cubes and
+graphs, is an important geometric struncture. In this work, we construct a type of
+tight framelets using quadrature rules on M to represent the data (or a function)
+and to exploit the derived framelets to process the data (for example, image and
+signal processing on the sphere or graphs).&lt;/p&gt;
+
+&lt;p&gt;One critical computation for framelets is to compute, from the framelet coefficients for the input data (which are assumed at the highest level), the framelet coefficients at lower levels, and also to evaluate the function values at new nodes using the framelet representation. We design an efficient computational strategy, which we call fast framelet filter bank transform (FMT), to compute the framelet
+coefficients and to recover the function. Assuming the fast Fourier transform (FFT) and using quadrature rules on the manifold M, the FMT has the same computational complexity as the FFT. Numerical examples illustrate the efficiency and accuracy of the algorithm for the framelets.
+This is joint work with Q. T. Le Gia, Ian Sloan and Rob Womersley (UNSW Sydney), Houying Zhu (University of Melbourne) and Xiaosheng Zhuang (City University of Hong Kong).&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-roman-a-roman-vershynin-from-number-theory-to-machine-learning-a-hunt-for-smooth-boolean-functions&#34;&gt;&lt;a name=&#34;roman&#34;&gt;&lt;/a&gt;  Roman Vershynin: From number theory to machine learning: a hunt for smooth Boolean functions&lt;/h4&gt;
+
+&lt;p&gt;The most fundamental kind of functions studied in computer science are Boolean functions. They take n bits as an input and return one bit as an output. Most Boolean functions oscillate a lot, which is analogous to the fact that &amp;ldquo;most&amp;rdquo; continuous functions on R are nowhere differentiable. If we want to generate a &amp;ldquo;smooth&amp;rdquo; Boolean function, we can take the sign of some polynomial of low degree in n variables. Such functions are called polynomial threshold functions, and they are widely used in machine learning as classification devices. Surprisingly, we do not know how many polynomial threshold functions there are with a given degree! Even an approximate answer to this question has been known only for polynomials of degree 1, i.e. for linear functions. In a very recent joint work with Pierre Baldi, we found a way to approximately count polynomial threshold functions of any fixed degree. This solves a problem of M. Saks that goes back to 1993 and earlier. Our argument draws ideas from analytical number theory, additive combinatorics, enumerative combinatorics, probability and discrete geometry. I will describe some of these connections, focusing particularly on a beautiful interplay of zeta and Mobius funcitons in number theory, hyperplane arrangements in enumerative combinatorics and random tensors in probability theory.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-yu-a-aida-khajavirad-the-multilinear-polytope-for-acyclic-hypergraphs&#34;&gt;&lt;a name=&#34;yu&#34;&gt;&lt;/a&gt;  Aida Khajavirad: The multilinear polytope for acyclic Hypergraphs&lt;/h4&gt;
+
+&lt;p&gt;We consider the multilinear polytope defined as the convex hull of the set of binary points satisfying a collection of multilinear equations. Such sets are of fundamental importance in many types of mixed-integer nonlinear optimization problems, such as binary polynomial optimization. Utilizing an equivalent hypergraph representation, we study the facial structure of the multilinear polytope in conjunction with the acyclicity degree of the underlying hypergraph. We derive various types of facet-defining inequalities and provide explicit characterizations for the multilinear polytope of Berge-acylic and gamma-acyclic hypergraphs. As an important byproduct, we present a new class of cutting planes for constructing stronger polyhedral relaxations of mixed-integer nonlinear optimization problems with multilinear sub-expressions.  Finally, we detail on the complexity of corresponding separation problems and embed the proposed cut generation algorithm at every node of the branch-and-reduce global solver BARON.  Extensive computational results will be presented.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-kim-a-chiheon-kim-statistical-limits-of-graphical-channel-models&#34;&gt;&lt;a name=&#34;kim&#34;&gt;&lt;/a&gt;  Chiheon Kim: Statistical Limits of Graphical Channel Models&lt;/h4&gt;
+
+&lt;p&gt;We investigate the exact recovery problem in graphical channel
+models. Graphical channel model is defined as following: given a
+hypergraph H=(V,E) and a hidden labeling x of V, we observe mutually
+independent random values {y_e: e in E} where y_e is generated from a
+distribution which only depends on the labels {x_u: u in e}. This model
+encompasses many statistical models such as the stochastic block model,
+spiked Gaussian tensor model, and sparse graph codes. We consider the
+problem of exactly recovering the ground truth x from a sample y, and
+prove that under mild conditions on the channel, it exhibits a sharp
+phase transition behavior. Precisely, we find the explicit constant I
+(depending on the channel) such that the exact recovery is achievable
+w.h.p. if I &amp;gt; 1 and it is not achievable if I &amp;lt; 1. Joint work with
+Afonso S. Bandeira and Michel X. Goemans.&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-spring-18&#34;&gt;Schedule Spring 18&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date &amp;amp; Time&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Room&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 31, 10:15am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.simonsfoundation.org/team/mariano-tepper/&#34;&gt;Mariano Tepper&lt;/a&gt; (Simons Foundation)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#tepper&#34;&gt;Clustering is semidefinitely not that hard&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 905&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 7, 10:15am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cims.nyu.edu/~venturi/&#34;&gt;Luca Venturi&lt;/a&gt; (NYU)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#venturi&#34;&gt;Connectivity of Neural Networks Optimization Landscapes&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 905&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 21, 10:15am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://web.math.princeton.edu/~jpereira/&#34;&gt;Joao Pereira&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#morais&#34;&gt;Estimation in multireference alignment and generalizations.&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 905&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 7 11 am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://cims.nyu.edu/~sagun/&#34;&gt;Levent Sagun&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Comparing Dynamics: Deep Neural Networks versus Glassy Systems&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 905&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 27 1 pm&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.math.u-psud.fr/~lavenant/&#34;&gt;Hugo Lavenant&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#lavenant&#34;&gt;Harmonic mappings valued in the Wasserstein space&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;CDS C15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 30 11 am&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.mathc.rwth-aachen.de/en/~bouchot/&#34;&gt;Jean-Luc Bouchot&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#bouchot&#34;&gt;Compressed sensing Petrov-Galerkin: When data science helps solve problem in applied mathematics&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;WWH 202&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;abstracts-2&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-bouchot-a-jean-luc-bouchot-compressed-sensing-petrov-galerkin-when-data-science-helps-solve-problem-in-applied-mathematics&#34;&gt;&lt;a name=&#34;bouchot&#34;&gt;&lt;/a&gt;  Jean-Luc Bouchot: Compressed sensing Petrov-Galerkin: When data science helps solve problem in applied mathematics&lt;/h4&gt;
+
+&lt;p&gt;Motivated by problems in uncertainty quantification, we introduce a scheme for the uniform approximation of high-dimensional parametric PDEs. Exploiting an analytic dependence of certain PDEs in the parameters, allows to show some convergence rates for non-linear approximation.
+Building on this remark, one computes (or has access to) independent snapshots of solutions for random parameters and use them in a weighted sparse recovery framework. This allows to approximate the solution map in a polynomial chaos in a number of snapshots that scales optimally (up to log factors) with the intrinsic sparsity of the solution. A further extension based on multi-level decomposition allows for efficient computation and can be shown to deliver uniform approximation (in the parameter space) in a computing time in the order of the approximation of a single solution.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-lavenant-a-hugo-lavenant-harmonic-mappings-valued-in-the-wasserstein-space&#34;&gt;&lt;a name=&#34;lavenant&#34;&gt;&lt;/a&gt;  Hugo Lavenant: Harmonic mappings valued in the Wasserstein space&lt;/h4&gt;
+
+&lt;p&gt;The Wasserstein space, which is the space of probability measures endowed with the so-called (quadratic) Wasserstein distance coming from optimal transport, can formally be seen as a Riemannian manifold of infinite dimension. We propose, through a variational approach, a definition of harmonic mappings defined over a domain of R^n and valued in the Wasserstein space. We will show how one can build a fairly satisfying theory which captures some key features of harmonicity and how it is related to the concepts of geodesics (the so-called McCann&amp;rsquo;s interpolation) and barycenters in the Wasserstein space. Other than a better understanding of the Wasserstein space, the motivation of such a study can be found in geometric data analysis.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-morais-a-joao-pereira-estimation-in-multireference-alignment-and-generalizations&#34;&gt;&lt;a name=&#34;morais&#34;&gt;&lt;/a&gt; Joao Pereira: Estimation in multireference alignment and generalizations&lt;/h4&gt;
+
+&lt;p&gt;In the multireference alignment model, a signal is observed by the action of a random circular translation and the addition of Gaussian noise. Of particular interest is the sample complexity, i.e., the number of observations/samples needed in terms of the signal-to-noise ratio (SNR), the signal energy divided by the noise variance, in order to drive the mean-square error to zero. Previous work showed that if the translations are drawn from the uniform distribution, then, in the low SNR regime, the sample complexity of the problem scales as $\omega(1/\SNR^3)$.  We show, that if however the translation distribution is aperiodic, the sample complexity in the same regime drops down to $\omega(1/\SNR^2)$. This rate is achieved by a simple spectral algorithm. The lower bound follows from a generalization of the Chapman-Robbins bound for orbits and an expansion of the $\chi^2$ divergence at low SNR, and can be generalized for general group actions and projections. This suggests the method of moments is optimal in the low SNR regime.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Emmanuel Abbe, Tamir Bendory, William Leeb, Nir Sharon and Amit Singer.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-venturi-a-luca-venturi-connectivity-of-neural-networks-optimization-landscapes&#34;&gt;&lt;a name=&#34;venturi&#34;&gt;&lt;/a&gt; Luca Venturi: Connectivity of Neural Networks Optimization Landscapes&lt;/h4&gt;
+
+&lt;p&gt;We study connectivity of sub-level sets of the square loss function of two-layers neural networks. This property implies abscence of poor local minima.
+In particular, we explore the hypothesis that overparametrisation convexifies the functional space of neural network architectures.
+I will start by extending the existing results about non-existence of bad local minima in the optimization of linear neural networks.
+We then move to study non-linear activations using Reproducing Kernel Hilbert Spaces, deriving general results that include Empirical Risk Minimization.&lt;br /&gt;
+In the rest of the talk, I will focus on quadratic activations, and I will show how we can significatively improve the general RKHS bounds by exploiting the particular geometry of positive semidefinite matrices.
+I will conclude by discussing some directions of possible future exploration.
+Joint work with: A. Bandeira, J. Bruna.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-tepper-a-mariano-tepper-clustering-is-semidefinitely-not-that-hard&#34;&gt;&lt;a name=&#34;tepper&#34;&gt;&lt;/a&gt; Mariano Tepper: Clustering is semidefinitely not that hard&lt;/h4&gt;
+
+&lt;p&gt;In recent years, semidefinite programs (SDP) have been the subject of interesting research in the field of clustering. In many cases, these convex programs deliver the same answers as non-convex alternatives and come with a guarantee of optimality.
+In this talk, I will argue that SDP-KM, a popular semidefinite relaxation of K-means, can learn manifolds present in the data, something not possible with the original K-means formulation. To build an intuitive understanding of SDP-KM&amp;rsquo;s manifold learning capabilities, I will present a theoretical analysis on an idealized dataset. Additionally, SDP-KM even segregates linearly non-separable manifolds. As generic SDP solvers are slow on large datasets, I will present a new, convex and yet efficient, solver for SDP-KM. Our results render SDP-KM a versatile, understandable, and powerful tool for manifold learning.&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-spring-17&#34;&gt;Schedule Spring 17&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date &amp;amp; Time&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Room&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mar 21, 2:30pm&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www-personal.umich.edu/~erebrova/index.html&#34;&gt;Liza Rebrova&lt;/a&gt; (U Michigan)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#rebrova&#34;&gt;Local and global obstructions for the random matrix norm regularization&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;CDS 650&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;abstracts-3&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-rebrova-a-liza-rebrova-local-and-global-obstructions-for-the-random-matrix-norm-regularization&#34;&gt;&lt;a name=&#34;rebrova&#34;&gt;&lt;/a&gt; Liza Rebrova: Local and Global obstructions for the random matrix norm regularization&lt;/h4&gt;
+
+&lt;p&gt;We study large n by n random matrices A with i.i.d. entries. If the distribution of the entries have mean zero and at least gaussian decay, then the operator norm ||A|| is at most of order sqrt(n) with high probability. However, for the distributions with heavier tails we cannot expect the same norm bound any more. So, we are motivated by the question: under what conditions operator norm of a heavy-tailed matrix can be improved by modifying just a small fraction of its entries (a small sub-matrix of A)? I will explain why this happens exactly when the entries of A have zero mean and bounded variance. I will also discuss the almost optimal dependence between the size of the removed sub-matrix and the resulting operator norm that we&amp;rsquo;ve obtained. This is a joint work with Roman Vershynin, inspired by the methods developed recently by Can Le and R. Vershynin and in our joint work with Konstantin Tikhomirov.
+&lt;strong&gt;Room:&lt;/strong&gt; Center for Data Science, NYU, 60 5th ave, room 650
+&lt;strong&gt;Time:&lt;/strong&gt; 2:30pm-3:30pm.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,7 +310,10 @@ Schedule Fall 18 During the Fall the MIC Seminar will usually be in room 312 Tue
       <pubDate>Tue, 24 Jan 2017 15:40:00 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/news/reading/</guid>
-      <description>This week we are starting two weekly reading groups. One will study topics on high-dimensional Probability, whereas the other will focus on selected topics on Statistical Physics. You can check present and past reading groups in the corresponding page.</description>
+      <description>&lt;p&gt;This week we are starting two weekly reading groups.
+One will study &lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;topics on high-dimensional Probability&lt;/a&gt;,
+whereas the other will focus on selected &lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;topics on Statistical Physics&lt;/a&gt;. You can check present and past reading groups in the corresponding &lt;a href=&#34;reading&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -37,8 +322,17 @@ Schedule Fall 18 During the Fall the MIC Seminar will usually be in room 312 Tue
       <pubDate>Tue, 24 Jan 2017 15:36:26 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/reading/</guid>
-      <description> The Mad group hosts semester-long thematic reading groups. Publicly accessible here.
-Fall 2018 working group schedule High Dimensional Probability Statistical Physics </description>
+      <description>
+
+&lt;p&gt;The Mad group hosts semester-long thematic reading groups.
+Publicly accessible here.&lt;/p&gt;
+
+&lt;h4 id=&#34;fall-2018-working-group-schedule-https-docs-google-com-spreadsheets-d-1zvjnx3ynn7wunc4dx-wu1ujgruvep97jtundpzyr0ss-edit-usp-sharing&#34;&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1zvJnx3ynN7wuNc4dX-wu1ujGruVEP97jtuNdpZyR0Ss/edit?usp=sharing&#34;&gt;Fall 2018 working group schedule&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;high-dimensional-probability-https-github-com-mathsanddatanyu-highdimproba-spring17&#34;&gt;&lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;High Dimensional Probability&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&#34;statistical-physics-https-github-com-mathsanddatanyu-statphysics-spring17&#34;&gt;&lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;Statistical Physics&lt;/a&gt;&lt;/h4&gt;
+</description>
     </item>
     
     <item>
@@ -47,10 +341,14 @@ Fall 2018 working group schedule High Dimensional Probability Statistical Physic
       <pubDate>Fri, 23 Dec 2016 11:01:01 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/news/mediumarticle/</guid>
-      <description>Check out these articles if you are interested in applying to our PhD program!
- PhD in Data Science : The MaD Group
- PhD Application tips!
-  </description>
+      <description>&lt;p&gt;Check out these articles if you are interested in applying to our PhD program!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYUDataScience/ph-d-in-data-science-the-math-data-group-f055b52c3826#.1e0bbwrvb&#34;&gt;PhD in Data Science : The MaD Group&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYUDataScience/phd-in-data-science-application-tips-875750c6ac87#.ee228cxwu&#34;&gt;PhD Application tips!&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -59,8 +357,14 @@ Fall 2018 working group schedule High Dimensional Probability Statistical Physic
       <pubDate>Thu, 22 Dec 2016 14:51:18 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/news/first/</guid>
-      <description>The Mad (Math and Data) group was created in fall 2016 by Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant Professors at Courant Institute and the Center for Data Science.
-We are always in the lookout for highly motivated students interested in understanding and developing the fundamental mathematical structures underpinning modern data analysis.</description>
+      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
+Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
+Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
+
+&lt;p&gt;We are always in the lookout for highly motivated students interested
+in understanding and developing the fundamental mathematical structures underpinning
+modern data analysis.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -69,11 +373,105 @@ We are always in the lookout for highly motivated students interested in underst
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/people/</guid>
-      <description>Core faculty Afonso S. Bandeira Assistant Professor, Department of Mathematics and Center for Data Science. 
-Joan Bruna Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).
-Carlos Fernandez-Granda Assistant Professor, Department of Mathematics and Center for Data Science.
-Postdocs Shuyang Ling (Aug 2017 - ) Courant Instructor; compressive sensing, convex optimization, computational harmonic analysis
-Soledad Villar (Jun 2017 - ) Moore-Sloan Research Fellow; optimization, probability, topology and data.</description>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;core-faculty&#34;&gt;Core faculty&lt;/h2&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;../img/afonso.jpg&#34; width=&#34;80&#34; style=&#34;border:10px solid white;&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;afonso-s-bandeira-http-www-cims-nyu-edu-bandeira&#34;&gt;&lt;a href=&#34;http://www.cims.nyu.edu/~bandeira/&#34;&gt;Afonso S. Bandeira&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Assistant Professor, Department of Mathematics and Center for Data Science.  &lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;../img/joan.png&#34; width=&#34;80&#34; style=&#34;border:10px solid white;&#34;&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;joan-bruna-http-www-cims-nyu-edu-bruna&#34;&gt;&lt;a href=&#34;http://www.cims.nyu.edu/~bruna/&#34;&gt;Joan Bruna&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;../img/carlos.jpg&#34; width=&#34;80&#34; style=&#34;border:10px solid white;&#34;&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;carlos-fernandez-granda-http-www-cims-nyu-edu-cfgranda&#34;&gt;&lt;a href=&#34;http://www.cims.nyu.edu/~cfgranda/&#34;&gt;Carlos Fernandez-Granda&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Assistant Professor, Department of Mathematics and Center for Data Science.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;postdocs&#34;&gt;Postdocs&lt;/h2&gt;
+
+&lt;p&gt;&lt;img  align=&#34;left&#34; src=&#34;../img/shuyang.png&#34; width=&#34;80&#34; style=&#34;border:10px solid white;&#34;&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;shuyang-ling-https-cims-nyu-edu-sling-aug-2017&#34;&gt;&lt;a href=&#34;https://cims.nyu.edu/~sling/&#34;&gt;Shuyang Ling&lt;/a&gt; (Aug 2017 - )&lt;/h4&gt;
+
+&lt;p&gt;Courant Instructor; compressive sensing, convex optimization, computational harmonic analysis&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;../img/soledad.png&#34; width=&#34;80&#34; style=&#34;border:10px solid white;&#34;&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;soledad-villar-http-www-cims-nyu-edu-villar-jun-2017&#34;&gt;&lt;a href=&#34;http://www.cims.nyu.edu/~villar/&#34;&gt;Soledad Villar&lt;/a&gt; (Jun 2017 - )&lt;/h4&gt;
+
+&lt;p&gt;Moore-Sloan Research Fellow; optimization, probability, topology and data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;../img/augustin.jpg&#34; width=&#34;80&#34; style=&#34;border:10px solid white;&#34;&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;augustin-cosse-http-www-augustincosse-com-oct-2016-sep-2017&#34;&gt;&lt;a href=&#34;http://www.augustincosse.com&#34;&gt;Augustin Cosse&lt;/a&gt; (Oct 2016 - Sep 2017)&lt;/h4&gt;
+
+&lt;p&gt;Postdoc; Tensor methods, inverse problems.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
+
+&lt;h4 id=&#34;alex-nowak-sep-2016-aug-2017&#34;&gt;Alex Nowak (Sep 2016 - Aug 2017 )&lt;/h4&gt;
+
+&lt;p&gt;Visiting Student; deep learning, harmonic analysis.&lt;/p&gt;
+
+&lt;h4 id=&#34;thomas-moreau-jan-2017-mar-2017&#34;&gt;Thomas Moreau (Jan 2017 - Mar 2017)&lt;/h4&gt;
+
+&lt;p&gt;Visiting Student; high-dimensional statistics, machine learning.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;affiliated-faculty&#34;&gt;Affiliated faculty&lt;/h2&gt;
+
+&lt;h5 id=&#34;gerard-ben-arous-http-www-cims-nyu-edu-benarous&#34;&gt;&lt;a href=&#34;http://www.cims.nyu.edu/~benarous/&#34;&gt;Gerard Ben Arous&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Professor, Mathematics, Courant Institute.&lt;/p&gt;
+
+&lt;h5 id=&#34;xi-chen-http-people-stern-nyu-edu-xchen3&#34;&gt;&lt;a href=&#34;http://people.stern.nyu.edu/xchen3/&#34;&gt;Xi Chen&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Assistant Professor, IOMS, Stern School.&lt;/p&gt;
+
+&lt;h5 id=&#34;sinan-gunturk-https-www-cims-nyu-edu-gunturk&#34;&gt;&lt;a href=&#34;https://www.cims.nyu.edu/~gunturk/&#34;&gt;Sinan Gunturk&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Professor, Department of Mathematics, Courant Institute.&lt;/p&gt;
+
+&lt;h5 id=&#34;eyal-lubetzky-http-cims-nyu-edu-eyal&#34;&gt;&lt;a href=&#34;http://cims.nyu.edu/~eyal/&#34;&gt;Eyal Lubetzky&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Associate Professor, Mathematics, Courant Institute.&lt;/p&gt;
+
+&lt;h5 id=&#34;andy-majda-http-www-math-nyu-edu-faculty-majda&#34;&gt;&lt;a href=&#34;http://www.math.nyu.edu/faculty/majda/&#34;&gt;Andy Majda&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Professor, Department of Mathematics and Climate, Atmosphere and Ocean Science, Courant Institute.&lt;/p&gt;
+
+&lt;h5 id=&#34;adi-rangan-http-www-cims-nyu-edu-rangan&#34;&gt;&lt;a href=&#34;http://www.cims.nyu.edu/~rangan/&#34;&gt;Adi Rangan&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Associate Professor, Department of Mathematics, Courant Institute.&lt;/p&gt;
+
+&lt;h5 id=&#34;eero-simoncelli-http-www-cns-nyu-edu-eero&#34;&gt;&lt;a href=&#34;http://www.cns.nyu.edu/~eero/&#34;&gt;Eero Simoncelli&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Silver Professor, Neural Science, Mathematics and Psychology;&lt;br /&gt;
+Investigator, Howard Hughes Medical Institute.&lt;/p&gt;
+
+&lt;h5 id=&#34;esteban-tabak-http-www-math-nyu-edu-faculty-tabak&#34;&gt;&lt;a href=&#34;http://www.math.nyu.edu/faculty/tabak/&#34;&gt;Esteban Tabak&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Professor, Department of Mathematics, Courant Institute.&lt;/p&gt;
+
+&lt;h5 id=&#34;eric-vanden-eijnden-http-www-cims-nyu-edu-eve2&#34;&gt;&lt;a href=&#34;http://www.cims.nyu.edu/~eve2/&#34;&gt;Eric Vanden-Eijnden&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Professor, Department of Mathematics, Courant Institute.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -82,11 +480,289 @@ Soledad Villar (Jun 2017 - ) Moore-Sloan Research Fellow; optimization, probabil
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/seminar/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     Sep 13 Nate Silver Forecasting the midterm elections   Sep 20 Ivan Selesnick (NYU Tandon) Sparse Regularization via Convex Analysis   Sep 27 Cristopher Moore (Santa Fe Institute) Statistical physics, statistical inference, and community detection in networks   Oct 4 Andrew Blumberg (UT Austin) Topological data analysis for scientific inference   Oct 11 Venkat Chandrasekaran (Caltech) Learning Regularizers from Data   Oct 18 Cathy O&amp;rsquo;Neil Big data, inequality, and democracy: what can mathematics offer?</description>
+      <description>
+
+&lt;p&gt;The MaD seminar features leading specialists at the interface
+of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Room:&lt;/strong&gt; Auditorium Hall 150, Center for Data Science, NYU, &lt;a href=&#34;https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.9969907,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802&#34;&gt;60 5th ave&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2:00pm-3:00pm, Reception will follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subscribe to the Seminar Mailing list &lt;a href=&#34;http://cims.nyu.edu/mailman/listinfo/mad&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-with-confirmed-speakers&#34;&gt;Schedule with Confirmed Speakers&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb 21&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=cn_FoswAAAAJ&amp;amp;hl=en&#34;&gt;Jeffrey Pennington (Google)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#jeffrey&#34;&gt;Dynamical Isometry and a Mean Field Theory of Signal Propagation in Deep Neural Networks&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 28&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 7&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 14&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 21&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 28&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 11&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 18&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 25&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;May 1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;May 8&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_fall2018/&#34;&gt;Schedule Fall 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_spring2018/&#34;&gt;Schedule Spring 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_fall2017/&#34;&gt;Schedule Fall 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_spring2017/&#34;&gt;Schedule Spring 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-jeffrey-a-jeffrey-pennington-dynamical-isometry-and-a-mean-field-theory-of-signal-propagation-in-deep-neural-networks&#34;&gt;&lt;a name=&#34;jeffrey&#34;&gt;&lt;/a&gt; Jeffrey Pennington: Dynamical Isometry and a Mean Field Theory of Signal Propagation in Deep Neural Networks&lt;/h4&gt;
+
+&lt;p&gt;In recent years, many state-of-the-art models in deep learning have utilized increasingly deep architectures, with some successful models like deep residual networks employing hundreds or even thousands of layers. In sequence modeling, recurrent neural networks are often trained over a similarly large number of time steps. Yet despite their widespread use, deep neural networks remain notoriously difficult to train. In this talk, I will develop a theory of signal propagation in deep networks and argue that training is feasible precisely when signals can propagate without attenuation or distortion. I will provide a theoretical characterization of these conditions, which amounts to an architecture-dependent initialization scheme. Using this type of initialization, I will show that it is possible to train vanilla convolutional networks with over 10,000 layers and that convergence rates for recurrent networks can be improved by orders of magnitude.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>the MaD Seminar</title>
+      <link>http://mad.cds.nyu.edu/seminar_fall2018/</link>
+      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
+      
+      <guid>http://mad.cds.nyu.edu/seminar_fall2018/</guid>
+      <description>
+
+&lt;p&gt;The MaD seminar features leading specialists at the interface
+of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Room:&lt;/strong&gt; Auditorium Hall 150, Center for Data Science, NYU, &lt;a href=&#34;https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.9969907,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802&#34;&gt;60 5th ave&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2:00pm-3:00pm, Reception will follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subscribe to the Seminar Mailing list &lt;a href=&#34;http://cims.nyu.edu/mailman/listinfo/mad&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-with-confirmed-speakers&#34;&gt;Schedule with Confirmed Speakers&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Sep 13&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://fivethirtyeight.com/&#34;&gt;Nate Silver&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Forecasting the midterm elections&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sep 20&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://eeweb.poly.edu/iselesni/&#34;&gt;Ivan Selesnick&lt;/a&gt; (NYU Tandon)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#ivan&#34;&gt;Sparse Regularization via Convex Analysis&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sep 27&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://tuvalu.santafe.edu/~moore/&#34;&gt;Cristopher Moore&lt;/a&gt; (Santa Fe Institute)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#cris&#34;&gt;Statistical physics, statistical inference, and community detection in networks&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://web.ma.utexas.edu/users/blumberg/&#34;&gt;Andrew Blumberg&lt;/a&gt; (UT Austin)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#bl&#34;&gt;Topological data analysis for scientific inference&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 11&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://users.cms.caltech.edu/~venkatc/&#34;&gt;Venkat Chandrasekaran&lt;/a&gt; (Caltech)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#venkat&#34;&gt;Learning Regularizers from Data&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 18&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://mathbabe.org&#34;&gt;Cathy O&amp;rsquo;Neil&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#cathy&#34;&gt;Big data, inequality, and democracy: what can mathematics offer?&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 25&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.cs.rutgers.edu/~pa336/&#34;&gt;Pranjal Awasthi&lt;/a&gt; (Rutgers)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#pranjal&#34;&gt;Semi-random models for Clustering and Sparse Coding&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://homepages.laas.fr/lasserre/&#34;&gt;Jean Bernard Lasserre&lt;/a&gt; (LAAS-CNRS)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#lasserre&#34;&gt;The Moment-SOS hierarchy&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 8&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.princeton.edu/~yc5/&#34;&gt;Yuxin Chen&lt;/a&gt; (Princeton)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#chen&#34;&gt;Random initialization and implicit regularization in nonconvex statistical estimation&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://inside.mines.edu/~gtang/&#34;&gt;Gongguo Tang&lt;/a&gt; (Colorado School of Mines)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#tang&#34;&gt;Optimal Spectral Estimation via Atomic Norm Minimization&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 22&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;THANKSGIVING&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 29&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.stat.uchicago.edu/~weare/&#34;&gt;Jonathan Weare&lt;/a&gt;  (Chicago)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_spring2018/&#34;&gt;Schedule Spring 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_fall2017/&#34;&gt;Schedule Fall 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_spring2017/&#34;&gt;Schedule Spring 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-tang-a-gongguo-tang-optimal-spectral-estimation-via-atomic-norm-minimization&#34;&gt;&lt;a name=&#34;tang&#34;&gt;&lt;/a&gt; Gongguo Tang: Optimal Spectral Estimation via Atomic Norm Minimization&lt;/h4&gt;
+
+&lt;p&gt;Abstract: Atomic norm minimization is a convex relaxation framework that generalizes l1 norm for compressed sensing and nuclear norm for matrix completion. In particular, it allows one to construct convex regularizers for signals that have sparse representations with respect to continuously parameterized dictionaries. In this talk, the speaker will focus on the application of this framework to line spectral estimation, which can be viewed as a sparse recovery problem whose atoms are indexed by the continuous frequency variable. In particular, the method’s accuracy in inferring the frequencies and complex magnitudes from noisy observations of a mixture of complex sinusoids will be analyzed. When the Signal-to-Noise Ratio is reasonably high and the true frequencies are well-separated, the atomic norm estimator is shown to localize the correct number of frequencies, each within a neighborhood of one of the true frequencies, whose size matches the Cramér–Rao lower bound up to a logarithmic factor. The analysis is based on a primal–dual witness construction procedure.  The analysis also reveals that the atomic norm minimization can be viewed as a convex way to solve a l1-norm regularized, nonlinear and nonconvex least-squares problem to global optimality.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-chen-a-yuxin-chen-random-initialization-and-implicit-regularization-in-nonconvex-statistical-estimation&#34;&gt;&lt;a name=&#34;chen&#34;&gt;&lt;/a&gt; Yuxin Chen: Random initialization and implicit regularization in nonconvex statistical estimation&lt;/h4&gt;
+
+&lt;p&gt;Recent years have seen a flurry of activities in designing provably efficient nonconvex procedures for solving statistical estimation / learning problems. Due to the highly nonconvex nature of the empirical loss, state-of-the-art procedures often require suitable initialization and proper regularization (e.g. trimming, regularized cost, projection) in order to guarantee fast convergence. For vanilla procedures such as gradient descent, however, prior theory is often either far from optimal or completely lacks theoretical guarantees.
+This talk is concerned with a striking phenomenon arising in two nonconvex problems (i.e. phase retrieval and matrix completion): even in the absence of careful initialization, proper saddle escaping, and/or explicit regularization, gradient descent converges to the optimal solution within a logarithmic number of iterations, thus achieving near-optimal statistical and computational guarantees at once. All of this is achieved by exploiting the statistical models in analyzing optimization algorithms, via a leave-one-out approach that enables the decoupling of certain statistical dependency between the gradient descent iterates and the data. As a byproduct, for noisy matrix completion, we demonstrate that gradient descent achieves near-optimal entrywise error control.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-lasserre-a-jean-bernard-lasserre-the-moment-sos-hierarchy&#34;&gt;&lt;a name=&#34;lasserre&#34;&gt;&lt;/a&gt; Jean Bernard Lasserre: The Moment-SOS hierarchy&lt;/h4&gt;
+
+&lt;p&gt;The Moment-SOS hierarchy initially introduced in optimization in 2000, is based on the theory of the K-moment problem and its dual counterpart, polynomials that are positive on K. It turns out that this methodology can be also applied to solve problems with positivity constraints ” f (x) ≥ 0 for all x ∈ K ” and/or linear constraints on Borel measures. Such problems can be viewed as specific instances of the ” Generalized Problem of Moments ” (GPM) whose list of important applications in various domains is endless. In this talk we describe this methodology and outline some of its applications in various domains.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-pranjal-a-pranjal-awasthi-semi-random-models-for-clustering-and-sparse-coding&#34;&gt;&lt;a name=&#34;pranjal&#34;&gt;&lt;/a&gt; Pranjal Awasthi: Semi-random models for Clustering and Sparse Coding&lt;/h4&gt;
+
+&lt;p&gt;Traditionally machine learning problems are studied through the lens of probabilistic models that specify how the
+data is generated. For example, the Gaussian Mixture Model is the most popular framework to formally study the
+problem of clustering a data set. The study of such models has led to numerous algorithms that come with
+strong performance guarantees. However a common criticism of probabilistic modeling is that the
+theoretical guarantees strongly rely on the unrealistic assumption that the data is indeed generated from the model.&lt;/p&gt;
+
+&lt;p&gt;In this talk I will describe two recent efforts towards robust modeling of machine learning problems via the study of semi-random models. Such models provide a framework to study model misspecification by combining
+a set of adversarial choices in addition to the random choices of the probabilistic model, while generating the instance. I will describe how semi-random models can provide new insights and robust algorithms for two widely studied problems in machine learning: a) The problem of clustering data from a Gaussian mixture and, b) The problem of sparse coding that involves learning an overcomplete basis from sparse linear combinations of the basis elements.&lt;/p&gt;
+
+&lt;p&gt;Based on joint works with Aravindan Vijayaraghavan.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-bl-a-andrew-blumberg-topological-data-analysis-for-scientific-inference&#34;&gt;&lt;a name=&#34;bl&#34;&gt;&lt;/a&gt; Andrew Blumberg: Topological data analysis for scientific inference.&lt;/h4&gt;
+
+&lt;p&gt;This talk will aim to survey the on-going efforts to build mathematical foundations to support the use of techniques from the emerging area of &amp;ldquo;topological data analysis&amp;rdquo; (TDA) to analyze experimental data.  In particular, I will provide an overview of the interaction between TDA and statistics.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-cris-a-cristopher-moore-statistical-physics-statistical-inference-and-community-detection-in-networks&#34;&gt;&lt;a name=&#34;cris&#34;&gt;&lt;/a&gt; Cristopher Moore: Statistical physics, statistical inference, and community detection in networks.&lt;/h4&gt;
+
+&lt;p&gt;There is a deep analogy between statistical inference — where we try to fit a model to data, or (even better) understand the posterior distribution of models given the data — and statistical physics, where we define a probability distribution in terms of some energy function. Many concepts like energy landscapes, partition functions, free energy, the cavity method, and phase transitions can be usefully carried over from physics to machine learning and computer science. At the very least, these techniques are a source of conjectures that have stimulated new work in machine learning, computer science, and probability theory; at their best, they offer strong intuitions about the structure of the problem and its possible solutions.&lt;/p&gt;
+
+&lt;p&gt;One recent success of this flow of ideas is the discovery of a sharp phase transition in community detection in sparse graphs. Analogous transitions exist in many other inference problems, where our ability to find patterns in data jumps suddenly as a function of how noisy or how sparse they are. I will discuss why and how the detectability transition occurs, review what is now known rigorously, and present a number of open questions that cry out for proofs.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-ivan-a-ivan-selesnick-sparse-regularization-via-convex-analysis&#34;&gt;&lt;a name=&#34;ivan&#34;&gt;&lt;/a&gt; Ivan Selesnick: Sparse Regularization via Convex Analysis&lt;/h4&gt;
+
+&lt;p&gt;Sparse approximate solutions to linear equations are often obtained via L1 norm regularization, but the L1 norm tends to underestimate sparse solutions. We discuss a non-convex alternative to the L1 norm. Unlike other non-convex regularizers, the proposed regularizer maintains the convexity of the objective function to be minimized. This allows one to retain beneficial properties of both convex and non-convex regularization. Although the new regularizer is non-convex, it is defined using tools of convex analysis.  In particular, we define a generalized Huber function and a generalization of the Moreau envelope. The resulting optimization problem can be performed by proximal algorithms.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-venkat-a-venkat-chandrasekaran-learning-regularizers-from-data&#34;&gt;&lt;a name=&#34;venkat&#34;&gt;&lt;/a&gt; Venkat Chandrasekaran: Learning Regularizers from Data&lt;/h4&gt;
+
+&lt;p&gt;Regularization techniques are widely employed in the solution of inverse problems in data analysis and scientific computing due to their effectiveness in addressing difficulties due to ill-posedness. In their most common manifestation, these methods take the form of penalty functions added to the objective in optimization-based approaches for solving inverse problems. The purpose of the penalty function is to induce a desired structure in the solution, and these functions are specified based on prior domain-specific expertise.  We consider the problem of learning suitable regularization functions from data in settings in which precise domain knowledge is not directly available; the objective is to identify a regularizer to
+promote the type of structure contained in the data.  The regularizers obtained using our framework are specified as convex functions that can be computed efficiently via semidefinite programming.  Our approach for learning such semidefinite regularizers combines recent techniques for rank minimization problems along with the Operator Sinkhorn procedure. (Joint work with Yong Sheng Soh)&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-cathy-a-cathy-o-neil-big-data-inequality-and-democracy-what-can-mathematics-offer&#34;&gt;&lt;a name=&#34;cathy&#34;&gt;&lt;/a&gt; Cathy O&amp;rsquo;Neil: Big data, inequality, and democracy: what can mathematics offer?&lt;/h4&gt;
+
+&lt;p&gt;We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we get a job or a car loan, how much we pay for health insurance, what news we see on social media—are being made not by humans, but by mathematical models. The models being used today are opaque, unregulated, and uncontestable, even when they’re wrong.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s worse is they&amp;rsquo;re defended as fair and objective in the name of mathematics. What can a mathematician do to push back? Cathy will discuss the latest research that tries to address this urgent question.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -95,12 +771,195 @@ Schedule with Confirmed Speakers    Date Speaker Title     Sep 13 Nate Silver Fo
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/seminar_spring2018/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Note special time and location of the first talk by Sebastien Bubeck
-Schedule with Confirmed Speakers    Date Speaker Title     Jan 30, 3:45pm-5:00pm, WWH 1302 Sebastien Bubeck (Microsoft Research) k-server and metrical task systems on trees   Feb 8 David Rothschild (Microsoft Research) Public Opinion during the 2020 election   Feb 15, 3-4pm, CDS 150 Rachel Ward (UT Austin) Autotuning the learning rate in stochastic gradient methods   Feb 22 Zhou Fan (Stanford) Eigenvalues in multivariate random effects models   Mar 1 Thomas Pock (TU Graz) Learning better models for computer vision   Mar 8 Amir Ali Ahmadi (Princeton) Polynomial Optimization and Dynamical Systems   Mar 15 SPRING BREAK    Mar 22 Mahdi Soltanolkotabi (USC) Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization   Mar 29 Alejandro Ribeiro (UPenn) Convolutional Neural Networks Architectures for Signals Supported on Graphs   Apr 5 Justin Romberg (Georgia Tech) Solving Nonlinear Equations using Convex Programming   Apr 12 Wotao Yin (UCLA) Asynchronous Parallel Computing for Optimization   Apr 19 Anirvan Sengupta (Rutgers) Manifold Representation by an Unsupervised Neural Net: Biology, Mathematics and Computation   Apr 26 Ankur Moitra (MIT) Robustness Meets Algorithms   May 3 Rene Vidal (John Hopkins) Global Optimality in Matrix Factorization and Deep Learning    Schedule Fall 2017</description>
+      <description>
+
+&lt;p&gt;The MaD seminar features leading specialists at the interface
+of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Room:&lt;/strong&gt; Auditorium Hall 150, Center for Data Science, NYU, &lt;a href=&#34;https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.9969907,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802&#34;&gt;60 5th ave&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2:00pm-3:00pm, Reception will follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subscribe to the Seminar Mailing list &lt;a href=&#34;http://cims.nyu.edu/mailman/listinfo/mad&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note special time and location of the first talk by Sebastien Bubeck&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-with-confirmed-speakers&#34;&gt;Schedule with Confirmed Speakers&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 30, 3:45pm-5:00pm, WWH 1302&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/people/sebubeck/&#34;&gt;Sebastien Bubeck&lt;/a&gt; (Microsoft Research)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#bubeck&#34;&gt;k-server and metrical task systems on trees&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 8&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://researchdmr.com&#34;&gt;David Rothschild&lt;/a&gt; (Microsoft Research)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#roth&#34;&gt;Public Opinion during the 2020 election&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 15, 3-4pm, CDS 150&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.ma.utexas.edu/users/rachel/&#34;&gt;Rachel Ward&lt;/a&gt; (UT Austin)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#ward&#34;&gt;Autotuning the learning rate in stochastic gradient methods&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 22&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://web.stanford.edu/~zhoufan/&#34;&gt;Zhou Fan&lt;/a&gt; (Stanford)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#fan&#34;&gt;Eigenvalues in multivariate random effects models&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.tugraz.at/institute/icg/research/team-pock/&#34;&gt;Thomas Pock&lt;/a&gt; (TU Graz)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#pock&#34;&gt;Learning better models for computer vision&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 8&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://aaa.princeton.edu&#34;&gt;Amir Ali Ahmadi&lt;/a&gt; (Princeton)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#ali&#34;&gt;Polynomial Optimization and Dynamical Systems&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;SPRING BREAK&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 22&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www-bcf.usc.edu/~soltanol/&#34;&gt;Mahdi Soltanolkotabi&lt;/a&gt; (USC)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#mahdi&#34;&gt;Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 29&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://alliance.seas.upenn.edu/~aribeiro/wiki/&#34;&gt;Alejandro Ribeiro&lt;/a&gt; (UPenn)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#ribeiro&#34;&gt;Convolutional Neural Networks Architectures for Signals Supported on Graphs&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 5&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://jrom.ece.gatech.edu&#34;&gt;Justin Romberg&lt;/a&gt; (Georgia Tech)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#justin&#34;&gt;Solving Nonlinear Equations using Convex Programming&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 12&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.ucla.edu/~wotaoyin/&#34;&gt;Wotao Yin&lt;/a&gt; (UCLA)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#yin&#34;&gt;Asynchronous Parallel Computing for Optimization&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 19&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.physics.rutgers.edu/~anirvans/&#34;&gt;Anirvan Sengupta&lt;/a&gt; (Rutgers)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#anirvan&#34;&gt;Manifold Representation by an Unsupervised Neural Net: Biology, Mathematics and Computation&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 26&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://people.csail.mit.edu/moitra/&#34;&gt;Ankur Moitra&lt;/a&gt;  (MIT)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#ankur&#34;&gt;Robustness Meets Algorithms&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;May 3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://cis.jhu.edu/~rvidal/&#34;&gt;Rene Vidal&lt;/a&gt;  (John Hopkins)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#vidal&#34;&gt;Global Optimality in Matrix Factorization and Deep Learning&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_fall2017/&#34;&gt;Schedule Fall 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathsanddatanyu.github.io/website/seminar_spring2017/&#34;&gt;Schedule Spring 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-vidal-a-rene-vidal-global-optimality-in-matrix-factorization-and-deep-learning&#34;&gt;&lt;a name=&#34;vidal&#34;&gt;&lt;/a&gt; Rene Vidal: Global Optimality in Matrix Factorization and Deep Learning&lt;/h4&gt;
+
+&lt;p&gt;Abstract: The past few years have seen a dramatic increase in the performance of recognition systems thanks to the introduction of deep networks for representation learning. However, the mathematical reasons for this success remain elusive. A key issue is that the neural network training problem is non-convex, hence optimization algorithms may not return a global minima. Building on ideas from convex relaxations of matrix factorizations, this work proposes a general framework which allows for the analysis of a wide range of non-convex factorization problems – including matrix factorization, tensor factorization, and deep neural network training. The talk will describe sufficient conditions under which a local minimum of the non-convex optimization problem is a global minimum and show that if the size of the factorized variables is large enough then from any initialization it is possible to find a global minimizer using a local descent algorithm. Joint work with Ben Haeffele.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-ankur-a-ankur-moitra-robustness-meets-algorithms&#34;&gt;&lt;a name=&#34;ankur&#34;&gt;&lt;/a&gt; Ankur Moitra: Robustness Meets Algorithms&lt;/h4&gt;
+
+&lt;p&gt;In every corner of machine learning and statistics, there is a need for estimators that work not just in an idealized model but even when their assumptions are violated. Unfortunately in high-dimensions, being provably robust and efficiently computable are often at odds with each other. In this talk, we give the first efficient algorithm for estimating the parameters of a high-dimensional Gaussian which is able to tolerate a constant fraction of corruptions that is independent of the dimension. Prior to our work, all known estimators either needed time exponential in the dimension to compute, or could tolerate only an inverse polynomial fraction of corruptions. Not only does our algorithm bridge the gap between robustness and algorithms, it turns out to be highly practical in a variety of settings. Joint work with Ilias Diakonikolas, Gautam Kamath, Daniel Kane, Jerry Li and Alistair Stewart.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-anirvan-a-anirvan-sengupta-manifold-representation-by-an-unsupervised-neural-net-biology-mathematics-and-computation&#34;&gt;&lt;a name=&#34;anirvan&#34;&gt;&lt;/a&gt; Anirvan Sengupta: Manifold Representation by an Unsupervised Neural Net: Biology, Mathematics and Computation&lt;/h4&gt;
+
+&lt;p&gt;Abstract: We show how an unsupervised single-layer neuronal network with non-negativity constraint on activity, originally meant for clustering, is also capable of manifold representation. By starting with a constrained optimization problem, we derive an algorithm that can perform clustering, manifold learning or manifold disentangling, depending upon the nature of inputs. To build a deeper understanding of this neural network&amp;rsquo;s manifold learning capabilities, we analyze the solution of the optimization problem, and of a related semidefinite relaxation, on idealized datasets. Our theoretical and empirical results provide insights into formation of internal neural representations of continuous manifolds (e.g. location in space or orientation of body) in the biological setting.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-yin-a-wotao-yin-asynchronous-parallel-computing-for-optimization&#34;&gt;&lt;a name=&#34;yin&#34;&gt;&lt;/a&gt; Wotao Yin: Asynchronous Parallel Computing for Optimization&lt;/h4&gt;
+
+&lt;p&gt;The performance of the CPU core stopped improving around 2005. The Moore’s law, however, continues to apply &amp;ndash; not to the single-thread performance though &amp;ndash; but the number of cores in each computer. Today, at affordable prices, we can buy 64 CPU-cores workstations, thousand-core GPUs, and even eight-core cellphones. To take advantages of multiple cores, we must parallelize our algorithms &amp;ndash; otherwise, our algorithms won’t run any faster on newer computers. For iterative parallel algorithms to have the strong performance, asynchrony turns out to be critical. Removing the synchronizations among different cores will eliminate core idling and reduce memory-access and communication congestions. However, some cores now compute with out-of-date information.&lt;/p&gt;
+
+&lt;p&gt;We study different kinds of asynchronous algorithms: fixed-point iterations and coordinate descent methods, and show that they will converge to a solution provided that the step size is properly chosen. We present conditions when asynchronous algorithms are provably faster than other synchronous counterparts. As special cases, novel algorithms for linear equation systems, machine learning, distributed and decentralized optimization are introduced, and numerical performance will be presented for sparse logistic regression and others.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-justin-a-justin-romberg-solving-nonlinear-equations-using-convex-programming&#34;&gt;&lt;a name=&#34;justin&#34;&gt;&lt;/a&gt; Justin Romberg: Solving Nonlinear Equations using Convex Programming&lt;/h4&gt;
+
+&lt;p&gt;We consider the question of estimating a solution to a system of equations that involve convex nonlinearities, a problem that is common in machine learning and signal processing. Because of these nonlinearities, conventional estimators based on empirical risk minimization generally involve solving a non-convex optimization program. We propose a method (called “anchored regression”) that is based on convex programming and amounts to maximizing a linear functional (perhaps augmented by a regularizer) over a convex set.&lt;/p&gt;
+
+&lt;p&gt;The proposed convex program is formulated in the natural space of the problem, and avoids the introduction of auxiliary variables, making it computationally favorable. Working in the native space also provides us with the flexibility to incorporate structural priors (e.g., sparsity) on the solution.&lt;/p&gt;
+
+&lt;p&gt;For our analysis, we model the equations as being drawn from a fixed set according to a probability law.  Our main results provide guarantees on the accuracy of the estimator in terms of the number of equations we are solving, the amount of noise present, a measure of statistical complexity of the random equations, and the geometry of the regularizer at the true solution. We also provide recipes for constructing the anchor vector (that determines the linear functional to maximize) directly from the observed data.&lt;/p&gt;
+
+&lt;p&gt;We will discuss applications of this technique to nonlinear problems including phase retrieval, blind deconvolution, and inverting the action of a neural network.&lt;/p&gt;
+
+&lt;p&gt;This is joint work with Sohail Bahmani.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-ribeiro-a-alejandro-ribeiro-convolutional-neural-networks-architectures-for-signals-supported-on-graphs&#34;&gt;&lt;a name=&#34;ribeiro&#34;&gt;&lt;/a&gt; Alejandro Ribeiro: Convolutional Neural Networks Architectures for Signals Supported on Graphs&lt;/h4&gt;
+
+&lt;p&gt;We describe two architectures that generalize convolutional neural networks (CNNs) for the processing of signals supported on graphs. The selection Graph Neural Network (GNN) replaces linear time invariant filters with linear shift invariant graph filters to generate convolutional features and reinterprets pooling as a possibly nonlinear subsampling stage where nearby nodes pool their information in a set of preselected sample nodes. A key component of the architecture is to remember the position of sampled nodes to permit computation of convolutional features at deeper layers. The aggregation GNN diffuses the signal through the graph and stores the sequence of diffused components observed by a designated node. This procedure effectively aggregates all components into a stream of information having temporal structure to which the convolution and pooling stages of regular CNNs can be applied. A multi-node version of  aggregation CNNs is further introduced for operation in large scale graphs. An important property of selection and aggregation GNNs is that they reduce to conventional CNNs when particularized to time signals reinterpreted as graph signals in a circulant graph. Comparative numerical analyses are performed in a synthetic source localization application. Performance is evaluated for a text category classification problem using word proximity networks.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-mahdi-a-mahdi-soltanolkotabi-learning-via-nonconvex-optimization-relus-neural-nets-and-submodular-maximization&#34;&gt;&lt;a name=&#34;mahdi&#34;&gt;&lt;/a&gt; Mahdi Soltanolkotabi:  Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization&lt;/h4&gt;
+
+&lt;p&gt;Many problems of contemporary interest in signal processing and machine learning involve highly non-convex optimization formulations. While nonconvex problems are known to be intractable in general, simple local search heuristics such as (stochastic) gradient descent are often surprisingly effective at finding global/high quality optima on real or randomly generated data. In this talk I will discuss some results explaining the success of these heuristics focusing on two problems.
+The first problem is about learning the optimal weights of the shallowest of neural networks consisting of a single Rectified Linear Unit (ReLU). I will discuss this problem in the high-dimensional regime where the number of observations are fewer than the ReLU weights. I will show that projected gradient descent on a natural least-squares objective, when initialized at zero, converges at a linear rate to globally optimal weights with a number of samples that is optimal up to numerical constants. I will then discuss how this result can be generalized to single hidden layer networks in the over-parameterized regime. The second problem focuses on maximizing continuous submodular functions that emerge in a variety of areas in machine learning, including utility functions in matrix approximations and network inference. Despite the apparent lack of convexity/concavity in such functions, I will show that stochastic projected gradient methods can provide strong approximation guarantees for maximizing continuous submodular functions with convex constraints. In particular, this result allows us to approximately maximize discrete, monotone submodular optimization problems via projected gradient descent on a continuous relaxation, directly connecting the discrete and continuous domains.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-ali-a-amir-ali-ahmadix-polynomial-optimization-and-dynamical-systems&#34;&gt;&lt;a name=&#34;ali&#34;&gt;&lt;/a&gt; Amir Ali Ahmadix: Polynomial Optimization and Dynamical Systems&lt;/h4&gt;
+
+&lt;p&gt;In recent years, there has been a surge of exciting research activity at the interface of optimization (in particular polynomial, semidefinite, and sum of squares optimization) and the theory of dynamical systems. In this talk, we focus on two of our current research directions that are at this interface. In part (i), we propose more scalable alternatives to sum of squares optimization and show how they impact verification problems in control and robotics, as well as some classic questions in polynomial optimization and statistics. Our new algorithms do not rely on semidefinite programming, but instead use linear programming, or second-order cone programming, or are altogether free of optimization. In particular, we present the first Positivstellensatz that certifies infeasibility of a set of polynomial inequalities simply by multiplying certain fixed polynomials together and checking nonnegativity of the coefficients of the resulting product.&lt;/p&gt;
+
+&lt;p&gt;In part (ii), we introduce a new class of optimization problems whose constraints are imposed by trajectories of a dynamical system. As a concrete example, we consider the problem of optimizing a linear function over the set of initial conditions that forever remain inside a given polyhedron under the action of a linear, or a switched linear, dynamical system. We present a hierarchy of linear and semidefinite programs that respectively lower and upper bound the optimal value of such problems to arbitrary accuracy.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-pock-a-thomas-pock-learning-better-models-for-computer-vision&#34;&gt;&lt;a name=&#34;pock&#34;&gt;&lt;/a&gt; Thomas Pock: Learning better models for computer vision&lt;/h4&gt;
+
+&lt;p&gt;In this talk, I will present our recent activities in combining machine learning
+with classical energy minimization models for computer vision and image processing. In the first model we consider a classical (discrete) conditional random field model for stereo and motion estimation. We use a methodology similar to the structured output SVM to learn both the unary and binary weights computed from convolutional neural networks. In the second model we consider a continuous variational model for inverse problems in imaging. We learn the parameters of the model by first unrolling the iterations of a plain gradient descent algorithm and the allowing the model to change its parameters in each iteration. We  show  applications to  different  inverse  problems  in  imaging where  we put  a  particular focus on image reconstruction from undersampled MRI data.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-fan-a-zhou-fan-eigenvalues-in-multivariate-random-effects-models&#34;&gt;&lt;a name=&#34;fan&#34;&gt;&lt;/a&gt; Zhou Fan: Eigenvalues in multivariate random effects models&lt;/h4&gt;
+
+&lt;p&gt;Random effects models are commonly used to measure genetic variance-covariance matrices of quantitative phenotypic traits in a population. The eigenvalues of these matrices describe the evolutionary response of the population to selection. However, they may be difficult to estimate from limited samples when the number of traits is large. I will discuss several phenomena concerning the eigenvalues of classical MANOVA estimators in such high-dimensional settings, including dispersion of the bulk eigenvalue distribution, bias and aliasing of large &amp;ldquo;spike&amp;rdquo; eigenvalues, and Tracy-Widom limits at the spectral edges. I will then describe a new statistical procedure that uses these results to consistently estimate the large population eigenvalues in a high-dimensional regime. The proofs apply and extend techniques in random matrix theory and free probability, which I will also briefly describe. This is joint work with Iain M. Johnstone, Yi Sun, Mark W. Blows, and Emma Hine.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-ward-a-rachel-ward-autotuning-the-learning-rate-in-stochastic-gradient-methods&#34;&gt;&lt;a name=&#34;ward&#34;&gt;&lt;/a&gt; Rachel Ward: Autotuning the learning rate in stochastic gradient methods&lt;/h4&gt;
+
+&lt;p&gt;Choosing a proper learning rate in stochastic gradient methods can be difficult. If certain parameters of the problem are known, .e.g. Lipschitz smoothness or strong convexity parameters, are known a priori, optimal theoretical rates are known. However, in practice, these parameters are not known, and the loss function of interest is not convex, and only locally smooth. Thus, adjusting the learning rate is an important problem &amp;ndash; a learning rate that is too small leads to painfully slow convergence, while a learning rate that is too large can cause the loss function to fluctuate around the minimum or even to diverge. Several methods have been proposed in the last few years to adjust the learning rate according to gradient data that is received along the way. We review these methods, and propose a simple method, inspired by reparametrization of the loss function in polar coordinates. We prove that the proposed method achieves optimal convergence rates in batch and stochastic settings, without having to know parameters of the loss function in advance.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-roth-a-david-rothschild-public-opinion-during-the-2020-election&#34;&gt;&lt;a name=&#34;roth&#34;&gt;&lt;/a&gt; David Rothschild:  Public Opinion during the 2020 election&lt;/h4&gt;
+
+&lt;p&gt;Traditional data collection in the multi-billion dollar survey research field utilizes representative samples. It is expensive, slow, inflexible, and its accuracy is unproven; the 2016 election is crushing blow to its reputation (although, it did not do that bad!). Intelligence drawn from surveys of non-representative samples, both self-selected respondents and random, but non-representative respondents, is now cheaper, quicker, flexible, and adequately accurate. Along with cutting-edge data collection and analytics built around non-representative samples and large-scale behavioral data, will transform our understanding of public opinion.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-bubeck-a-sebastien-bubeck-k-server-and-metrical-task-systems-on-trees&#34;&gt;&lt;a name=&#34;bubeck&#34;&gt;&lt;/a&gt; Sebastien Bubeck: k-server and metrical task systems on trees&lt;/h4&gt;
+
+&lt;p&gt;In the last decade the mirror descent strategy of Nemirovski and Yudin has emerged as a powerful tool for online learning. I will argue that in fact the reach of this technique is far broader than expected, and that it can be useful for online computation problems in general. I will illustrate this on two classical problems in online decision making, the k-server problem and its generalization to metrical task systems. Both problems have long-standing conjectures about the optimal competitive ratio in arbitrary metric spaces, namely O(log(k)) for k-server and O(log(n)) for MTS. We will show that mirror descent, with a certain multiscale entropy regularization, yields respectively O(log^2(k)) and O(log(n)) for a very general class of metric spaces (namely hierarchically separated trees, which in particular implies the same bounds up to an additional log(n) factor for arbitrary metric spaces).&lt;/p&gt;
+
+&lt;p&gt;Joint work with Michael B. Cohen, James R. Lee, Yin Tat Lee, and Aleksander Madry.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -109,11 +968,169 @@ Schedule with Confirmed Speakers    Date Speaker Title     Jan 30, 3:45pm-5:00pm
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/seminar_fall2017/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     Sep 14 Yoram Singer (Princeton) Adaptive Regularization   Sep 21 Esteban Tabak (NYU) Conditional Density Estimation through Optimal Transport   Sep 28 Laurent Demanet (MIT) Extrapolation from sparsity   Oct 5 Dustin Mixon (Ohio State) A semidefinite relaxation of k-means clustering   Oct 12 Lorenzo Rosasco (MIT) (un)conventional regularization for efficient large scale machine learning   Oct 19 Francis Bach (INRIA, ENS) Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains   Oct 26 Rachel Ward (UT Austin)    Nov 2 Ivan Selesnick (NYU)    Nov 9 Mauro Maggioni (John Hopkins) Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets   Nov 16 Emmanuel Abbe (Princeton) Graph Powering: mixing Bayesian and spectral methods   Nov 23 THANKSGIVING    Nov 30 Guillermo Sapiro (Duke) Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems   Dec 7 Alexandre d&amp;rsquo;Aspremont (ENS)     Abstracts  Yoram Singer: Adaptive Regularization We describe a framework for deriving and analyzing online optimization algorithms that incorporate adaptive, data dependent regularization, also termed preconditioning.</description>
+      <description>
+
+&lt;p&gt;The MaD seminar features leading specialists at the interface
+of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Room:&lt;/strong&gt; Auditorium Hall 150, Center for Data Science, NYU, &lt;a href=&#34;https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.9969907,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802&#34;&gt;60 5th ave&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2:00pm-3:00pm, Reception will follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subscribe to the Seminar Mailing list &lt;a href=&#34;http://cims.nyu.edu/mailman/listinfo/mad&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-with-confirmed-speakers&#34;&gt;Schedule with Confirmed Speakers&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Sep 14&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.cs.princeton.edu/~ysinger/&#34;&gt;Yoram Singer&lt;/a&gt; (Princeton)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#yoram&#34;&gt;Adaptive Regularization&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sep 21&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.nyu.edu/faculty/tabak/&#34;&gt;Esteban Tabak&lt;/a&gt; (NYU)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#esteban&#34;&gt;Conditional Density Estimation through Optimal Transport&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sep 28&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://math.mit.edu/icg/people/laurent.html&#34;&gt;Laurent Demanet&lt;/a&gt; (MIT)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#laurent&#34;&gt;Extrapolation from sparsity&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 5&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://people.math.osu.edu/mixon.23/&#34;&gt;Dustin Mixon&lt;/a&gt; (Ohio State)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#dustin&#34;&gt;A semidefinite relaxation of k-means clustering&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 12&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://web.mit.edu/lrosasco/www/&#34;&gt;Lorenzo Rosasco&lt;/a&gt; (MIT)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#lorenzo&#34;&gt;(un)conventional regularization for efficient large scale machine learning&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 19&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.di.ens.fr/~fbach/&#34;&gt;Francis Bach&lt;/a&gt; (INRIA, ENS)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#bach&#34;&gt;Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Oct 26&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.ma.utexas.edu/users/rachel/&#34;&gt;Rachel Ward&lt;/a&gt; (UT Austin)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://eeweb.poly.edu/iselesni/&#34;&gt;Ivan Selesnick&lt;/a&gt; (NYU)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 9&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.jhu.edu/~mauro/&#34;&gt;Mauro Maggioni&lt;/a&gt; (John Hopkins)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#mauro&#34;&gt;Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ee.princeton.edu/research/eabbe/?q=node/1&#34;&gt;Emmanuel Abbe&lt;/a&gt; (Princeton)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#abbe&#34;&gt;Graph Powering: mixing Bayesian and spectral methods&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 23&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;THANKSGIVING&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://ece.duke.edu/faculty/guillermo-sapiro&#34;&gt;Guillermo Sapiro&lt;/a&gt;  (Duke)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#guillermo&#34;&gt;Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Dec 7&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.di.ens.fr/~aspremon/&#34;&gt;Alexandre d&amp;rsquo;Aspremont&lt;/a&gt; (ENS)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-yoram-a-yoram-singer-adaptive-regularization&#34;&gt;&lt;a name=&#34;yoram&#34;&gt;&lt;/a&gt; Yoram Singer: Adaptive Regularization&lt;/h4&gt;
+
+&lt;p&gt;We describe a framework for deriving and analyzing online optimization algorithms that incorporate adaptive, data dependent regularization, also termed preconditioning. Such algorithms have been proven useful in stochastic optimization by reshaping the gradients according to the geometry of the data. Our framework captures and unifies much of the existing literature on adaptive online methods, including the AdaGrad and Online Newton Step algorithms as well as their diagonal versions. As a result, we obtain new convergence proofs for these algorithms that are substantially simpler than previous analyses. Our framework also exposes the rationale for the different preconditioned updates used in common stochastic optimization methods.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Tomer Koren and Vineet Gupta (Google)&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-esteban-a-esteban-tabak-conditional-density-estimation-through-optimal-transport&#34;&gt;&lt;a name=&#34;esteban&#34;&gt;&lt;/a&gt; Esteban Tabak: Conditional Density Estimation through Optimal Transport&lt;/h4&gt;
+
+&lt;p&gt;Conditional probability estimation and simulation provides data-based answers to all kinds of critical questions, such as the response of specific patients to different medical treatments, the effect of political measures on the economy, and weather and climate forecasts. In the complex systems behind these examples, the outcome of a process depends on many and diverse factors and is probabilistic in nature, due in part to our ignorance of other relevant factors and to the chaotic nature of the underlying dynamics.&lt;/p&gt;
+
+&lt;p&gt;This talk will describe a general procedure for the estimation and simulation of conditional probabilities based on two complementary ideas: the removal of the effect of covariates through a data-based, generalized version of the optimal transport barycenter problem, and the reduction of complexity through a low-rank tensor factorization/separation of variables procedure extended to variables of any type.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-laurent-a-laurent-demanet-extrapolation-from-sparsity&#34;&gt;&lt;a name=&#34;laurent&#34;&gt;&lt;/a&gt; Laurent Demanet: Extrapolation from sparsity&lt;/h4&gt;
+
+&lt;p&gt;This talk considers the basic question of frequency extrapolation of sparse signals observed over some frequency band, such as scattered bandlimited waves. How far, and how stably can we extend? I will review recent progress on the mathematical aspects of this question, which are tied to the notion of super-resolution. I will also discuss the robust “phase tracking” algorithmic approach, which is suitable for imaging modalities where the bandlimiting model is far from accurately known. Joint work with Nam Nguyen and Yunyue Elita Li.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-dustin-a-dustin-mixon-a-semidefinite-relaxation-of-k-means-clustering&#34;&gt;&lt;a name=&#34;dustin&#34;&gt;&lt;/a&gt; Dustin Mixon: A semidefinite relaxation of k-means clustering&lt;/h4&gt;
+
+&lt;p&gt;Recently, Awasthi et al proved that a semidefinite relaxation of the
+k-means clustering problem is tight under a particular data model
+called the stochastic ball model. This result exhibits two
+shortcomings: (1) naive solvers of the semidefinite program are
+computationally slow, and (2) the stochastic ball model prevents
+outliers that occur, for example, in the Gaussian mixture model. This
+talk will cover recent work that tackles each of these shortcomings.
+First, I will discuss a new type of algorithm (introduced by Bandeira)
+that combines fast non-convex solvers with the optimality certificates
+provided by convex relaxations. Second, I will discuss how to analyze
+the semidefinite relaxation under the Gaussian mixture model. In this
+case, outliers in the data obstruct tightness in the relaxation, and
+so fundamentally different techniques are required. Several open
+problems will be posed throughout.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-lorenzo-a-lorenzo-rosasco-un-conventional-regularization-for-efficient-large-scale-machine-learning&#34;&gt;&lt;a name=&#34;lorenzo&#34;&gt;&lt;/a&gt; Lorenzo Rosasco: (Un)conventional regularization for efficient large scale machine learning&lt;/h4&gt;
+
+&lt;p&gt;Regularization is classically designed by  penalizing or imposing explicit constraints to an empirical objective function. This approach can be derived from different perspectives and has optimal statistical guarantees. However, it  postpones  computational  considerations to a separate analysis. In large scale scenarios, considering independently statistical and numerical  aspects often leads to prohibitive computational requirements.  It is then natural  to ask whether  different regularization principles exist or can be derived to encompass both aspects at once.
+In this talk, we  will present several ideas in this direction, showing how procedures typically  developed to perform efficient computations  can  often be seen as a form implicit regularization. We will discuss how iterative optimization of an empirical objective  leads to regularization, and analyze the effect of acceleration, preconditioning and stochastic approximations. We will further discuss the regularization effect of sketching/subsampling methods by drawing a connection to classical regularization projection methods common in inverse problems.
+We will show how  these form of  implicit regularization  can obtain  optimal statistical guarantees, with  dramatically reduced computational properties.
+Joint work will Alessandro Rudi, Silvia Villa, Junhong Lin, Luigi Carratino.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-bach-a-francis-bach-bridging-the-gap-between-constant-step-size-stochastic-gradient-descent-and-markov-chains&#34;&gt;&lt;a name=&#34;bach&#34;&gt;&lt;/a&gt; Francis Bach: Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains&lt;/h4&gt;
+
+&lt;p&gt;We consider the minimization of an objective function given access to unbiased estimates of its gradient through stochastic gradient descent (SGD) with constant step-size. While the detailed analysis was only performed for quadratic functions, we provide an explicit asymptotic expansion of the moments of the averaged SGD iterates that outlines the dependence on initial conditions, the effect of noise and the step-size, as well as the lack of convergence in the general (non-quadratic) case. For this analysis, we bring tools from Markov chain theory into the analysis of stochastic gradient and create new ones (similar but different from stochastic MCMC methods).  We then show that Richardson-Romberg extrapolation may be used to get closer to the global optimum and we show empirical improvements of the new extrapolation scheme. (joint work with Aymeric Dieuleveut and Alain Durmus).&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-mauro-a-mauro-maggioni-multiscale-methods-for-dictionary-learning-regression-measure-estimation-and-optimal-transport-for-data-near-low-dimensional-sets&#34;&gt;&lt;a name=&#34;mauro&#34;&gt;&lt;/a&gt; Mauro Maggioni: Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets&lt;/h4&gt;
+
+&lt;p&gt;We discuss a family of ideas, algorithms, and results for analyzing various new and classical problems in the analysis of high-dimensional data sets. These methods we discuss perform well when data is (nearly) intrinsically low-dimensional. They rely on the idea of performing suitable multiscale geometric decompositions of the data, and exploiting such decompositions to perform a variety of tasks in signal processing and statistical learning. In particular, we discuss the problem of dictionary learning, where one is interested in constructing, given a training set of signals, a set of vectors (dictionary) such that the signals admit a sparse representation in terms of the dictionary vectors. We then discuss the problem of regressing a function on a low-dimensional unknown manifold, and learning a probability measure with nearly low-dimensional support. For these problems we introduce multiscale estimators, fast algorithms for constructing them, and give finite sample guarantees for its performance, and discuss their optimality. Finally, we discuss an application of these multiscale decompositions to the fast calculation of optimal transportation plans, introduce a multiscale version of optimal transportation distances, and discuss preliminary applications. These are joint works with W. Liao, S. Vigogna and S. Gerber.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-abbe-a-emmanuel-abbe-graph-powering-mixing-bayesian-and-spectral-methods&#34;&gt;&lt;a name=&#34;abbe&#34;&gt;&lt;/a&gt; Emmanuel Abbe: Graph Powering: mixing Bayesian and Spectral Methods&lt;/h4&gt;
+
+&lt;p&gt;In clustering and other unsupervised tasks, one often seeks information about the data from the top eigenvectors of a graph-based operator. However, these may not always be the informative eigenvectors due to various outliers (e.g., high degree nodes, tangles, branches) that cut-based methods get distracted from. Graph powering is a technique that tries to modify the graph to suppress the effect of such outliers and bring back the informative eigenvectors at the top. It is motivated by a &amp;lsquo;Bayesian&amp;rsquo; rather than worst-case cut metric. We will argue that powering can handle both stochastic block models and some &amp;lsquo;geometric block models&amp;rsquo; where short loops are much more present. Joint work with C. Sandon and E. Boix.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-name-guillermo-a-guillermo-sapiro-learning-to-succeed-while-teaching-to-fail-privacy-in-machine-learning-systems&#34;&gt;&lt;a name=&#34;guillermo&#34;&gt;&lt;/a&gt; Guillermo Sapiro: Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems&lt;/h4&gt;
+
+&lt;p&gt;Security, privacy, and fairness have become critical in the era of data science and machine learning. More and more we see that achieving universally secure, private, and fair systems is practically impossible. We have seen for example how generative adversarial networks can be used to learn about the expected private training data; how the exploitation of additional data can reveal private information in the original one; and how what looks like unrelated features can teach us about each other. Confronted with this challenge, in this work we open a new line of research, where the security, privacy, and fairness is learned and used in a closed environment. The goal is to ensure that a given entity (e.g., the company or the government), trusted to infer certain information with our data, is blocked from inferring protected information from it. For example, a hospital might be allowed to produce diagnosis on the patient (the positive task), without being able to infer the gender of the subject (negative task). Similarly, a company can guarantee that internally it is not using the provided data for any undesired task, an important goal that is not contradicting the virtually impossible challenge of blocking everybody from the undesired task. We design a system that learns to succeed on the positive task while simultaneously fail at the negative one, and illustrate this with challenging cases where the positive task is actually harder than the negative one being blocked. Fairness, to the information in the negative task, is often automatically obtained as a result of this proposed approach. The particular framework and examples open the door to security, privacy, and fairness in very important closed scenarios, ranging from private data accumulation companies like social networks to law-enforcement and hospitals. The talk will present initial results, connect the mathematics of privacy with continuous learning and explainable AI, and open the discussion of this just starting paradigm in privacy and learning. Joint work with J. Sokolic, Q. Qiu, and M. Rodrigues.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -122,11 +1139,286 @@ Schedule with Confirmed Speakers    Date Speaker Title     Sep 14 Yoram Singer (
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/seminar_spring2017/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:30pm-3:30pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     Jan 26 Dave Donoho (Stanford) Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model   Feb 2 Andrew Gelman (Columbia) Taking Bayesian Inference Seriously   Feb 9 Mar 20 May 11 Leslie Greengard (Courant) Inverse problems in acoustic scattering and cryo-electron microscopy   Feb 16 Ronald Coifman (Yale) Organization and Analysis on data tensors   Feb 23 John Wright (Columbia) Nonconvex Recovery of Low-Complexity Models   Mar 2 Gitta Kutyniok (TU Berlin) Optimal Approximation with Sparse Deep Neural Networks   Mar 9 Philippe Rigollet (MIT) Learning determinantal point processes   Mar 16 SPRING BREAK    Mar 23 Amit Singer (Princeton) PCA from noisy linearly transformed measurements   Mar 30 Stephane Mallat (ENS Ulm) Mathematial Mysteries of Deep Convolutional Networks   Apr 6 11am, 12 Waverly pl, L120 Ben Recht (UC Berkeley) Optimization Challenges in Deep Learning   Apr 13 Waheed Bajwa (Rutgers) Collaborative Dictionary Learning from Big, Distributed Data   Apr 20 Andrea Montanari (Stanford) The Landscape of some Statistical Learning Problems   Apr 27 Joel Tropp (Caltech) Sketchy Decisions: Low-rank matrix optimization with optimal storage   May 4 Thomas Strohmer (UC Davis) Murder, Matrices, and Minima - Adventures in Blind Deconvolution   May 11 4pm Leslie Greengard (Courant) Inverse problems in acoustic scattering and cryo-electron microscopy    Abstracts  Dave Donoho: Optimal Shrinkage of Covariance Matrices in light of the Spiked Covariance Model (joint work with Behrooz Ghorbani, Stanford)</description>
+      <description>
+
+&lt;p&gt;The MaD seminar features leading specialists at the interface
+of Applied Mathematics, Statistics and Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Room:&lt;/strong&gt; Auditorium Hall 150, Center for Data Science, NYU, &lt;a href=&#34;https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.9969907,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802&#34;&gt;60 5th ave&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2:30pm-3:30pm, Reception will follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subscribe to the Seminar Mailing list &lt;a href=&#34;http://cims.nyu.edu/mailman/listinfo/mad&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;schedule-with-confirmed-speakers&#34;&gt;Schedule with Confirmed Speakers&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Speaker&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Jan 26&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://statweb.stanford.edu/~donoho/&#34;&gt;Dave Donoho&lt;/a&gt; (Stanford)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#donoho&#34;&gt;Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.stat.columbia.edu/~gelman/&#34;&gt;Andrew Gelman&lt;/a&gt; (Columbia)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#gelman&#34;&gt;Taking Bayesian Inference Seriously&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;del&gt;Feb 9&lt;/del&gt; &lt;del&gt;Mar 20&lt;/del&gt; May 11&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.nyu.edu/faculty/greengar/&#34;&gt;Leslie Greengard&lt;/a&gt; (Courant)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#greengard&#34;&gt;Inverse problems in acoustic scattering and cryo-electron microscopy&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://cpsc.yale.edu/people/ronald-coifman&#34;&gt;Ronald Coifman&lt;/a&gt; (Yale)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#coifman&#34;&gt;Organization and Analysis on data tensors&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Feb 23&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.columbia.edu/~jw2966/&#34;&gt;John Wright&lt;/a&gt; (Columbia)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#wright&#34;&gt;Nonconvex Recovery of Low-Complexity Models&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.tu-berlin.de/?108957&#34;&gt;Gitta Kutyniok&lt;/a&gt; (TU Berlin)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#gitta&#34;&gt;Optimal Approximation with Sparse Deep Neural Networks&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 9&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www-math.mit.edu/~rigollet/&#34;&gt;Philippe Rigollet&lt;/a&gt; (MIT)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#rigollet&#34;&gt;Learning determinantal point processes&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;SPRING BREAK&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 23&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://web.math.princeton.edu/~amits/&#34;&gt;Amit Singer&lt;/a&gt; (Princeton)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#singer&#34;&gt;PCA from noisy linearly transformed measurements&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mar 30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.di.ens.fr/~mallat/&#34;&gt;Stephane Mallat&lt;/a&gt; (ENS Ulm)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#mallat&#34;&gt;Mathematial Mysteries of Deep Convolutional Networks&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 6 &lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;11am, 12 Waverly pl, L120&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://people.eecs.berkeley.edu/~brecht/&#34;&gt;Ben Recht&lt;/a&gt; (UC Berkeley)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#recht&#34;&gt;Optimization Challenges in Deep Learning&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 13&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.rci.rutgers.edu/~wub1/&#34;&gt;Waheed Bajwa&lt;/a&gt; (Rutgers)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#bajwa&#34;&gt;Collaborative Dictionary Learning from Big, Distributed Data&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 20&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://web.stanford.edu/~montanar/&#34;&gt;Andrea Montanari&lt;/a&gt; (Stanford)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#montanari&#34;&gt;The Landscape of some Statistical Learning Problems&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Apr 27&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://users.cms.caltech.edu/~jtropp/&#34;&gt;Joel Tropp&lt;/a&gt;  (Caltech)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#tropp&#34;&gt;Sketchy Decisions: Low-rank matrix optimization with optimal storage&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;May 4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.math.ucdavis.edu/~strohmer/?p=home&#34;&gt;Thomas Strohmer&lt;/a&gt; (UC Davis)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#strohmer&#34;&gt;Murder, Matrices, and Minima  - Adventures in Blind Deconvolution&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;May 11 &lt;strong&gt;4pm&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.nyu.edu/faculty/greengar/&#34;&gt;Leslie Greengard&lt;/a&gt; (Courant)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#greengard&#34;&gt;Inverse problems in acoustic scattering and cryo-electron microscopy&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-donoho-a-dave-donoho-optimal-shrinkage-of-covariance-matrices-in-light-of-the-spiked-covariance-model&#34;&gt;&lt;a name=&#34;donoho&#34;&gt;&lt;/a&gt; Dave Donoho: Optimal Shrinkage of Covariance Matrices in light of the Spiked Covariance Model&lt;/h4&gt;
+
+&lt;p&gt;(joint work with Behrooz Ghorbani, Stanford)&lt;/p&gt;
+
+&lt;p&gt;In recent years, there has been a great deal of excitement about &amp;lsquo;big data&amp;rsquo; and about the new research problems posed by a world of vastly enlarged datasets. In response, the field of Mathematical Statistics increasingly studies problems where the number of variables measured is comparable to or even larger than the number of observations. Numerous fascinating mathematical phenomena arise in this regime; and in particular theorists discovered that the traditional approach to covariance estimation needs to be completely rethought, by appropriately shrinking the eigenvalues of the empirical covariance matrix.&lt;/p&gt;
+
+&lt;p&gt;This talk briefly reviews  advances by researchers in random matrix theory who in recent years solved completely the properties of eigenvalues and eigenvectors under the so-called spiked covariance model.   By applying these results it is now possible to obtain the exact optimal nonlinear shrinkage of eigenvalues for certain specific measures of performance, as has been shown in the case of Frobenius loss by Nobel and Shabalin, and for many other performance measures by Donoho, Gavish, and Johnstone.&lt;/p&gt;
+
+&lt;p&gt;In this talk, we focus on recent results of the author and Behrooz Ghorbani on optimal shrinkage for  the condition number of the relative error matrix; this presents new subtleties. The exact optimal solutions will be described, and stylized applications to Muti-User Covariance estimation and Multi-Task Discriminant Analysis will be developed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-gelman-a-andrew-gelman-taking-bayesian-inference-seriously&#34;&gt;&lt;a name=&#34;gelman&#34;&gt;&lt;/a&gt; Andrew Gelman: Taking Bayesian Inference Seriously&lt;/h4&gt;
+
+&lt;p&gt;Over the years I have been moving toward the use of informative priors in more and more of my applications. I will discuss several examples from theory, application, and computing where traditional noninformative priors lead to disaster, but a little bit of prior information can make everything work out. Informative priors also can resolve some of the questions of replication and multiple comparisons that have recently shook the world of science. It’s funny for me to say this, after having practiced Bayesian statistics for nearly thirty years, but I’m only now realizing the true value of the prior distribution.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-greengard-a-leslie-greengard-inverse-problems-in-acoustic-scattering-and-cryo-electron-microscopy&#34;&gt;&lt;a name=&#34;greengard&#34;&gt;&lt;/a&gt; Leslie Greengard: Inverse problems in acoustic scattering and cryo-electron microscopy&lt;/h4&gt;
+
+&lt;p&gt;A variety of problems in image reconstruction give rise to large-scale, nonlinear and non-convex optimization problems. We will show how recursive linearization combined with suitable fast solvers are bringing such problems within practical reach, with an emphasis on acoustic scattering and protein structure determination via cryo-electron microscopy.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-coifman-a-ronald-coifman-organization-and-analysis-on-data-tensors&#34;&gt;&lt;a name=&#34;coifman&#34;&gt;&lt;/a&gt; Ronald Coifman: Organization and Analysis on data tensors&lt;/h4&gt;
+
+&lt;p&gt;Our goal is to illustrate and give an overview of various emerging methodologies to geometrize tensor data and build analytics on that foundation.&lt;/p&gt;
+
+&lt;p&gt;Starting with conventional data bases given as matrices , where we organize simultaneously rows and columns , viewed as functions of each other . We extend the  process  to higher order tensors,on which we build joint geometries.&lt;/p&gt;
+
+&lt;p&gt;We will describe various applications to the study of questionnaires , medical and genetic data , neuronal dynamics in various regimes. In particular we will discuss a useful integration of these analytic tools with deep nets and the features they reveal.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-wright-a-john-wright-nonconvex-recovery-of-low-complexity-models&#34;&gt;&lt;a name=&#34;wright&#34;&gt;&lt;/a&gt; John Wright: Nonconvex Recovery of Low-Complexity Models&lt;/h4&gt;
+
+&lt;p&gt;Nonconvex optimization plays important role in wide range of areas of science and engineering — from learning feature representations for visual classification, to reconstructing images in biology, medicine and astronomy, to disentangling spikes from multiple neurons. The worst case theory for nonconvex optimization is dismal: in general, even guaranteeing a local minimum is NP hard. However, in these and other applications, very simple iterative methods such as gradient descent often perform surprisingly well.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will discuss examples of nonconvex optimization problems that can be solved to global optimality using simple iterative methods, which succeed independent of initialization. These include variants of the sparse dictionary learning problem, image recovery from certain types of phaseless measurements, and variants of the sparse blind deconvolution problem. These problems possess a characteristic structure, in which (i) all local minima are global, and (ii) the energy landscape does not have any “flat” saddle points. For each of the aforementioned problems, this geometric structure allows us to obtain new types of performance guarantees. I will motivate these problems from applications in imaging and computer vision, and describe how this viewpoint leads to new approaches to analyzing electron microscopy data.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Ju Sun (Stanford), Qing Qu (Columbia), Yuqian Zhang (Columbia), Yenson Lau (Columbia) Sky Cheung, (Columbia), Abhay Pasupathy (Columbia)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-gitta-a-gitta-kutyniok-optimal-approximation-with-sparse-deep-neural-networks&#34;&gt;&lt;a name=&#34;gitta&#34;&gt;&lt;/a&gt; Gitta Kutyniok: Optimal Approximation with Sparse Deep Neural Networks&lt;/h4&gt;
+
+&lt;p&gt;Deep neural networks show impressive results in a variety of real-world applications. One central task of them
+is to approximate a function, which for instance encodes a classification problem. In this talk, we will be concerned with
+the question, how well a function can be approximated by a deep neural network with sparse connectivity, i.e., with a
+minimal number of edges. Using methods from approximation theory and applied harmonic analysis, we will first prove a fundamental
+lower bound on the sparsity of a neural network if certain approximation properties are required. By explicitly
+constructing neural networks based on certain representation systems, so-called $\alpha$-shearlets, we will then demonstrate that
+this lower bound can in fact be attained. Finally, given a fixed network topology with sparse connectivity, we present numerical
+experiments, which show that already the standard backpropagation algorithm generates a deep neural network obeying
+those optimal approximation rates. Interestingly, our experiments also show that restricting to subnetworks, the learning
+procedure even yields $\alpha$-shearlet-like functions. This is joint work with H. B\&amp;ldquo;olcskei (ETH Zurich), P. Grohs
+(Uni Vienna), and P. Petersen (TU Berlin).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-rigollet-a-philippe-rigollet-learning-determinantal-point-processes&#34;&gt;&lt;a name=&#34;rigollet&#34;&gt;&lt;/a&gt; Philippe Rigollet: Learning Determinantal Point Processes&lt;/h4&gt;
+
+&lt;p&gt;Determinantal Point Processes (DPPs) are a family of probabilistic models that have a repulsive behavior, and lend themselves naturally to many tasks in machine learning where returning a diverse set of objects is important. While there are fast algorithms for sampling, marginalization and conditioning, much less is known about learning the parameters of a DPP. In this talk, I will present recent results related to this problem, specifically
+(i) Rates of convergence for the maximum likelihood estimator: by studying the local and global geometry of the expected log-likelihood function we are able to establish rates of convergence for the MLE and give a complete characterization of the cases where these are parametric. We also give a partial description of the critical points for the expected log-likelihood.
+(ii) Optimal rates of convergence for this problem: these are achievable by the method of moments and are governed by a combinatorial parameter, which we call the cycle sparsity.
+(iii) Fast combinatorial algorithm to implement the method of moments efficiently.
+No prior knowledge on DPPs is required.
+[Based on joint work with Victor-Emmanuel Brunel, Ankur Moitra and John Urschel (MIT)]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-singer-a-amit-singer-pca-from-noisy-linearly-transformed-measurements&#34;&gt;&lt;a name=&#34;singer&#34;&gt;&lt;/a&gt; Amit Singer: PCA from noisy linearly transformed measurements&lt;/h4&gt;
+
+&lt;p&gt;We consider the problem of estimating the covariance of X from
+measurements of the form &lt;code&gt;y_i = A_i x_i + e_i&lt;/code&gt; (for &lt;code&gt;i = 1,...,n&lt;/code&gt; ) where &lt;code&gt;x_i&lt;/code&gt; are
+i.i.d. unobserved samples of &lt;code&gt;X&lt;/code&gt;, &lt;code&gt;A_i&lt;/code&gt; are given linear operators, and &lt;code&gt;e_i&lt;/code&gt;
+represent noise. Our estimator is constructed efficiently via a simple
+linear inversion using conjugate gradient performed after eigenvalue
+shrinkage motivated by the spiked model in high dimensional PCA.
+Applications to low-rank matrix completion, 2D image denoising, 3D ab-initio modelling, and 3D structure classification in
+single particle cryo-electron microscopy will be discussed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-mallat-a-stephane-mallat-mathematial-mysteries-of-deep-convolutional-networks&#34;&gt;&lt;a name=&#34;mallat&#34;&gt;&lt;/a&gt; Stephane Mallat: Mathematial Mysteries of Deep Convolutional Networks&lt;/h4&gt;
+
+&lt;p&gt;Deep neural networks obtain spectacular classification and regression
+results over a wide range of data including images, audio signals,
+natural languages, biological or physical measurements. These
+architectures can thus approximate a wide range of &amp;ldquo;complex&amp;rdquo;
+high-dimensional functions. This lecture aims at discussing what we
+understand and do not understand about these networks, for unsupervised
+and supervised learning.&lt;/p&gt;
+
+&lt;p&gt;Dimension reduction in deep neural networks seem to partly rely on
+separation of scales and computation of invariants over groups of
+symmetries. Scattering transforms are simplified deep network
+architectures which compute such multiscale invariants with wavelet
+filters. For unsupervised learning, it provides  maximum entropy models
+of non-Gaussian processes.
+Applications are shown on image and audio textures and on statistical
+physics processes such as Ising and turublence. For supervised learning,
+we consider progressively more complex image classificaiton problems,
+and regressions of quantum molecular energies from chemical data bases.
+Open mathematical questions will be discussed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-recht-a-ben-recht-optimization-challenges-in-deep-learning&#34;&gt;&lt;a name=&#34;recht&#34;&gt;&lt;/a&gt; Ben Recht: Optimization Challenges in Deep Learning&lt;/h4&gt;
+
+&lt;p&gt;When training large-scale deep neural networks for pattern recognition, hundreds of hours on clusters of GPUs are required to achieve state-of-the-art performance. Improved optimization algorithms could potentially enable faster industrial prototyping and make training contemporary models more accessible.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will attempt to distill the key difficulties in optimizing large, deep neural networks for pattern recognition. In particular, I will emphasize that many of the popularized notions of what make these problems “hard” are not true impediments at all. I will show that it is not only easy to globally optimize neural networks, but that such global optimization remains easy when fitting completely random data.&lt;/p&gt;
+
+&lt;p&gt;I will argue instead that the source of difficulty in deep learning is a lack of understanding of generalization. I will provide empirical evidence of high-dimensional function classes that are able to achieve state-of-the-art performance on several benchmarks without any obvious forms of regularization or capacity control.  These findings reveal that traditional learning theory fails to explain why large neural networks generalize.  I will close by discussing possible mechanisms to explain generalization in such large models, appealing to insights from linear predictors.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-bajwa-a-waheed-bajwa-collaborative-dictionary-learning-from-big-distributed-data&#34;&gt;&lt;a name=&#34;bajwa&#34;&gt;&lt;/a&gt; Waheed Bajwa: Collaborative Dictionary Learning from Big, Distributed Data&lt;/h4&gt;
+
+&lt;p&gt;While distributed information processing has a rich history, relatively less attention has been paid to the problem of collaborative learning of nonlinear geometric structures underlying data distributed across sites that are connected to each other in an arbitrary topology. In this talk, we discuss this problem in the context of collaborative dictionary learning from big, distributed data. It is assumed that a number of geographically-distributed, interconnected sites have massive local data and they are interested in collaboratively learning a low-dimensional geometric structure underlying these data. In contrast to some of the previous works on subspace-based data representations, we focus on the geometric structure of a union of subspaces (UoS). In this regard, we propose a distributed algorithm, termed cloud K-SVD, for collaborative learning of a UoS structure underlying distributed data of interest. The goal of cloud K-SVD is to learn an overcomplete dictionary at each individual site such that every sample in the distributed data can be represented through a small number of atoms of the learned dictionary. Cloud K-SVD accomplishes this goal without requiring communication of individual data samples between different sites. In this talk, we also theoretically characterize deviations of the dictionaries learned at individual sites by cloud K-SVD from a centralized solution. Finally, we numerically illustrate the efficacy of cloud K-SVD in the context of supervised training of nonlinear classsifiers from distributed, labaled training data.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-montanari-a-andrea-montanari-the-landscape-of-some-statistical-learning-problems&#34;&gt;&lt;a name=&#34;montanari&#34;&gt;&lt;/a&gt; Andrea Montanari: The Landscape of Some Statistical Learning Problems&lt;/h4&gt;
+
+&lt;p&gt;Most high-dimensional estimation and prediction methods propose to minimize a cost function
+(empirical risk) that is written as a sum of losses associated to each data point (each example).
+Studying the landscape of the empirical risk is useful to understand the computational complexity
+of these statistical problems. I will discuss some generic features that can be used to prove that the
+global minimizer can be computed efficiently even if the loss in non-convex.
+A different mechanism arises in some rank-constrained semidefinite programming problems. In this case,
+optimization algorithms can only be guaranteed to produce an (approximate) local optimum, but all local
+optima are close in value to the global optimum.
+Finally I will contrast these with problems in which the effects of non-convexity are more dramatic.
+[Based on joint work with Yu Bai, Song Mei, Theodor Misiakiewicz and Roberto Oliveira]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-tropp-a-joel-tropp-sketchy-decisions-low-rank-matrix-optimization-with-optimal-storage&#34;&gt;&lt;a name=&#34;tropp&#34;&gt;&lt;/a&gt; Joel Tropp: Sketchy Decisions: Low-rank matrix optimization with optimal storage&lt;/h4&gt;
+
+&lt;p&gt;Convex matrix optimization problems with low-rank solutions play a fundamental role in signal processing, statistics, and related disciplines. These problems are difficult to solve because of the cost of maintaining the matrix decision variable, even though the low-rank solution has few degrees of freedom. This talk presents the first algorithm that provably solves these problems using optimal storage. The algorithm produces high-quality solutions to large problem instances that, previously, were intractable.&lt;/p&gt;
+
+&lt;p&gt;Joint with Volkan Cevher, Roarke Horstmeyer, Quoc Tran-Dinh, Madeleine Udell, and Alp Yurtsever.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;a-name-strohmer-a-thomas-strohmer-murder-matrices-and-minima-adventures-in-blind-deconvolution&#34;&gt;&lt;a name=&#34;strohmer&#34;&gt;&lt;/a&gt; Thomas Strohmer: Murder, Matrices, and Minima  - Adventures in Blind Deconvolution&lt;/h4&gt;
+
+&lt;p&gt;I will first describe how I once failed to catch a murderer (dubbed the &amp;ldquo;graveyard murderer&amp;rdquo; by the media), because I failed in solving a blind deconvolution problem. Here, blind deconvolution refers to the following problem: Assume we are given a function y which arises as the convolution of two unknown functions g and h. When and how is it possible to recover g and h from the knowledge of y? Blind deconvolution is a topic that pervades many areas of science and technology, including geophysics, astronomy, medical imaging, optics, and communications. Blind deconvolution is obviously ill-posed and even under additional assumptions this is a very difficult non-convex optimization problem which is full of undesirable local minima. I will present a host of new algorithms, accompanied with rigorous theory, that can efficiently solve the blind deconvolution problem in a range of different circumstances. The algorithms will include convex and non-convex algorithms, and even a suprisingly simple linear least squares
+approach. The mathematical framework behind our algorithms builds on tools from random matrix theory combined with recent advances in convex and non-convex optimization.&lt;/p&gt;
+
+&lt;p&gt;Applications in image processing and the future Internet-of-Things will be described.
+Thus, while the graveyard murderer is still on the loose, recent progress in blind deconvolution may at least have positive impact on the Internet-of-Things.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
