@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development on Math and Data</title>
+    <title>Math and Data</title>
     <link>http://mad.cds.nyu.edu/tags/development/index.xml</link>
-    <description>Recent content in Development on Math and Data</description>
+    <description>Recent content on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://mad.cds.nyu.edu/tags/development/index.xml" rel="self" type="application/rss+xml" />
@@ -523,8 +523,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 &lt;tr&gt;
 &lt;td&gt;Mar 7&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Florent Krzakala (ENS)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://krzakala.org&#34;&gt;Florent Krzakala (ENS)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#florent&#34;&gt;Passed &amp;amp; Spurious: Descent algorithms and local minima in a spiked matrix-tensor model&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -596,6 +596,12 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 &lt;hr /&gt;
 
 &lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-florent-a-florent-krzakala-passed-spurious-descent-algorithms-and-local-minima-in-a-spiked-matrix-tensor-model&#34;&gt;&lt;a name=&#34;florent&#34;&gt;&lt;/a&gt; Florent Krzakala: Passed &amp;amp; Spurious: Descent algorithms and local minima in a spiked matrix-tensor model&lt;/h4&gt;
+
+&lt;p&gt;Gradient-descent-based algorithms and their stochastic versions &amp;ldquo;with temperature&amp;rdquo; have widespread applications in machine learning and statistical inference. In this talk I will discuss the interplay between the loss landscape and the performances of these algorithms in a prototypical learning problem, the spiked matrix-tensor model, where precise quantitative computations can be performed. In particular, I will discuss the Kac-Rice characterization of the landscape, the role of the minima, and the comparaison with message-passing algorithms.&lt;/p&gt;
+
+&lt;p&gt;Based on joint works with G. Biroli, C. Chammarota, S. Sarao, P. Urbani and L. Zdeborova: arXiv:1812.09066 &amp;amp; arXiv:1902.00139&lt;/p&gt;
 
 &lt;h4 id=&#34;a-name-ahmed-a-ahmed-el-alaoui-efficient-z-q-synchronization-on-the-square-lattice&#34;&gt;&lt;a name=&#34;ahmed&#34;&gt;&lt;/a&gt; Ahmed El Alaoui: Efficient Z_q synchronization on the square lattice&lt;/h4&gt;
 
