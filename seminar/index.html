@@ -3,7 +3,7 @@
 <head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="generator" content="Hugo 0.17" />
+  <meta name="generator" content="Hugo 0.18.1" />
 
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -106,7 +106,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 <tr>
 <td>Mar 14</td>
-<td align="center"><a href="https://www.stat.uchicago.edu/~rina/">Rina Foygel Barber (Chicago)</td>
+<td align="center"><a href="https://www.stat.uchicago.edu/~rina/">Rina Foygel Barber (Chicago)</a></td>
 <td align="center"><a href="#rina">Distribution free prediction: Is conditional inference possible?</a></td>
 </tr>
 
@@ -118,8 +118,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 <tr>
 <td>Mar 28</td>
-<td align="center">Victor Preciado (UPenn)</td>
-<td align="center"></td>
+<td align="center"><a href="https://sites.google.com/site/victormpreciado/">Victor Preciado (UPenn)</a></td>
+<td align="center"><a href="#victor">From Local Network Structure to Global Graph Spectrum</a></td>
 </tr>
 
 <tr>
@@ -130,7 +130,13 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 <tr>
 <td>Apr 11</td>
-<td align="center">Sam Hopkins (UC Berkeley)</td>
+<td align="center"><a href="https://www.samuelbhopkins.com/">Sam Hopkins (UC Berkeley)</a></td>
+<td align="center">[Mean Estimation with Sub-Gaussian Rates in Polynomial Time</td>
+</tr>
+
+<tr>
+<td>](#sam)</td>
+<td align="center"></td>
 <td align="center"></td>
 </tr>
 
@@ -174,10 +180,20 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 <h3 id="abstracts">Abstracts</h3>
 
-<h4 id="a-name-rina-a-foygel-barber-distribution-free-prediction-is-conditional-inference-possible"><a name="rina"></a> Rina Foygel Barber: Distribution free prediction: Is conditional inference possible?</h4>
+<h4 id="a-name-sam-a-sam-hopkins-mean-estimation-with-sub-gaussian-rates-in-polynomial-time"><a name="sam"></a> Sam Hopkins: Mean Estimation with Sub-Gaussian Rates in Polynomial Time</h4>
 
-<p>We consider the problem of distribution-free predictive inference, with the goal of producing predictive coverage guarantees that hold conditionally rather than marginally. Existing methods such as conformal prediction offer marginal coverage guarantees, where predictive coverage holds on average over all possible test points, but this is not sufficient for many practical applications where we would like to know that our predictions are valid for a given individual, not merely on average over a population. On the other hand, exact conditional inference guarantees are known to be impossible without imposing assumptions on the underlying distribution. In this work we aim to explore the space in between these two, and examine what types of relaxations of the conditional coverage property would alleviate some of the practical concerns with marginal coverage guarantees while still being possible to achieve in a distribution-free setting.
-This work is joint with Emmanuel Candes, Aaditya Ramdas, and Ryan Tibshirani.</p>
+<p>We study polynomial time algorithms for estimating the mean of a multivariate random vector under very mild assumptions: we assume only that the random vector X has finite mean and covariance. This allows for X to be heavy-tailed. In this setting, the radius of confidence intervals achieved by the empirical mean are exponentially larger in the case that X is Gaussian or sub-Gaussian. That is, the empirical mean is poorly concentrated.
+We offer the first polynomial time algorithm to estimate the mean of X with sub-Gaussian-size confidence intervals under such mild assumptions. That is, our estimators are exponentially better-concentrated than the empirical mean. Our algorithm is based on a new semidefinite programming relaxation of a high-dimensional median. Previous estimators which assumed only existence of finitely-many moments of X either sacrifice sub-Gaussian performance or are only known to be computable via brute-force search procedures requiring time exponential in the dimension.</p>
+
+<p>Based on <a href="https://arxiv.org/abs/1809.07425">https://arxiv.org/abs/1809.07425</a> to appear in Annals of Statistics</p>
+
+<h4 id="a-name-victor-a-victor-preciado-from-local-network-structure-to-global-graph-spectrum"><a name="victor"></a> Victor Preciado: From Local Network Structure to Global Graph Spectrum</h4>
+
+<p>Using methods from algebraic graph theory and convex optimization we study the relationship between local structural features of a network and global spectral properties. In particular, we derive expressions for the so-called spectral moments of  a graph in terms of local structural measurements, such as subgraph densities. Furthermore, we propose a series of semidefinite programs to compute bounds on the spectral radius, and other spectral properties, from a truncated sequence of spectral moments. Using our tools, we illustrate how important spectral properties of real-world networks are strongly constrained by local structural features.</p>
+
+<h4 id="a-name-rina-a-rina-foygel-barber-distribution-free-prediction-is-conditional-inference-possible"><a name="rina"></a> Rina Foygel Barber: Distribution free prediction: Is conditional inference possible?</h4>
+
+<p>We consider the problem of distribution-free predictive inference, with the goal of producing predictive coverage guarantees that hold conditionally rather than marginally. Existing methods such as conformal prediction offer marginal coverage guarantees, where predictive coverage holds on average over all possible test points, but this is not sufficient for many practical applications where we would like to know that our predictions are valid for a given individual, not merely on average over a population. On the other hand, exact conditional inference guarantees are known to be impossible without imposing assumptions on the underlying distribution. In this work we aim to explore the space in between these two, and examine what types of relaxations of the conditional coverage property would alleviate some of the practical concerns with marginal coverage guarantees while still being possible to achieve in a distribution-free setting. This work is joint with Emmanuel Candes, Aaditya Ramdas, and Ryan Tibshirani.</p>
 
 <h4 id="a-name-florent-a-florent-krzakala-passed-spurious-descent-algorithms-and-local-minima-in-a-spiked-matrix-tensor-model"><a name="florent"></a> Florent Krzakala: Passed &amp; Spurious: Descent algorithms and local minima in a spiked matrix-tensor model</h4>
 
