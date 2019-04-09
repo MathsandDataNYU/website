@@ -67,6 +67,75 @@
 
 <p>The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.</p>
 
+<h3 id="schedule-spring-19">Schedule Spring 19</h3>
+
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th align="center">Speaker</th>
+<th align="center">Title</th>
+<th align="left">Room</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Feb 8, 2pm</td>
+<td align="center"><a href="http://www.mit.edu/~izadik/">Ilias Zadik</a> (MIT)</td>
+<td align="center"><a href="#ilias">Algorithms and Algorithmic Intractability in High Dimensional Linear Regression</a></td>
+<td align="left">WWH 1314</td>
+</tr>
+
+<tr>
+<td>Feb 11, 1pm</td>
+<td align="center"><a href="http://www.math.tamu.edu/~bhanin/">Boris Hanin</a> (Texas A&amp;M)</td>
+<td align="center"><a href="#boris">Complexity of Linear Regions in Deep Networks</a></td>
+<td align="left">WWH 705</td>
+</tr>
+
+<tr>
+<td>Apr 3, 2pm</td>
+<td align="center"><a href="http://www.princeton.edu/~congm/">Cong Ma</a> (Princeton)</td>
+<td align="center"><a href="#cong">Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization</a></td>
+<td align="left">WWH 1314</td>
+</tr>
+
+<tr>
+<td>Apr 9, 1pm</td>
+<td align="center"><a href="http://www.cs.cornell.edu/~jshi/">Jonathan Shi</a> (Cornell)</td>
+<td align="center"><a href="#jonathan">The &ldquo;Method of Pseudo-Moments&rdquo;: Tensor Decomposition for Mixture Models</a></td>
+<td align="left">WWH 705</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="abstracts">Abstracts</h3>
+
+<h4 id="a-name-jonathan-a-jonathan-shi-the-method-of-pseudo-moments-tensor-decomposition-for-mixture-models"><a name="jonathan"></a> Jonathan Shi: The &ldquo;Method of Pseudo-Moments&rdquo;: Tensor Decomposition for Mixture Models</h4>
+
+<h4 id="a-name-cong-a-cong-ma-noisy-matrix-completion-understanding-statistical-guarantees-for-convex-relaxation-via-nonconvex-optimization"><a name="cong"></a> Cong Ma: Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization</h4>
+
+<p>This talk is concerned with noisy low-rank matrix completion: given partial and corrupted entries of a large low-rank matrix, the goal is to estimate the underlying matrix faithfully and efficiently. Arguably one of the most popular paradigms to tackle this problem is convex relaxation, which achieves remarkable efficacy in practice. However, the theoretical support of this approach is still far from optimal in the noisy setting, falling short of explaining the empirical success. We make progress towards demystifying the practical efficacy of convex relaxation vis-à-vis random noise. When the rank of the unknown matrix is a constant, we demonstrate that the convex programming approach achieves near-optimal estimation errors — in terms of the Euclidean loss, the entrywise loss, and the spectral norm loss — for a wide range of noise levels. All of this is enabled by bridging convex relaxation with the nonconvex Burer–Monteiro approach, a seemingly distinct algorithmic paradigm that is provably robust against noise. More specifically, we show that an approximate critical point of the nonconvex formulation serves as an extremely tight approximation of the convex solution, allowing us to transfer the desired statistical guarantees of the nonconvex approach to its convex counterpart.</p>
+
+<h4 id="a-name-boris-a-boris-hanin-complexity-of-linear-regions-in-deep-networks"><a name="boris"></a> Boris Hanin: Complexity of Linear Regions in Deep Networks</h4>
+
+<p>I will present several new results, joint with David Rolnick, about the number of linear regions and the sizes of the boundaries of linear regions in a network N with piecewise linear activations and random weights/biases.</p>
+
+<p>I will discuss a new formula for the average complexity of linear regions that holds even for highly correlated weights and biases, and hence is valid throughout training. It shows, for example, that at initialization, the number of regions along any 1D line grows like the number of neurons in N. In particular, perhaps surprisingly, it is this number is not exponential in the depth of the network.</p>
+
+<p>I will explain the analog of this result for higher input dimension and will report on a number of experiments, which demonstrate empirically that our precise theorems at initialization can be expected to hold qualitatively throughout training.</p>
+
+<p>Bio: Boris Hanin is a mathematician work on deep learning and mathematical physics. Before joining the faculty in the Math Department at Texas A&amp;M in 2017, he was an NSF Postdoc in Math at MIT. He is currently a Visiting Scientist at Facebook AI Research in NYC.</p>
+
+<h4 id="a-name-ilias-a-ilias-zadik-algorithms-and-algorithmic-intractability-in-high-dimensional-linear-regression"><a name="ilias"></a> Ilias Zadik: Algorithms and Algorithmic Intractability in High Dimensional Linear Regression</h4>
+
+<p>In this talk we will focus on the high dimensional linear regression problem. The goal is to recover a hidden k-sparse binary vector \beta under n noisy linear observations Y=X\beta+W where X is an n \times p matrix with iid N(0,1) entries and W is an n-dimensional vector with iid N(0,\sigma^2) entries. In the literature of the problem, an apparent asymptotic gap is observed between the optimal sample size for information-theoretic recovery, call it n*, and for computationally efficient recovery, call it n_alg.</p>
+
+<p>We will discuss several new contributions on studying this gap. We first identify tightly the information limit of the problem using a novel analysis of the Maximum Likelihood Estimator (MLE) performance. Furthermore, we establish that the algorithmic barrier n_alg coincides with the phase transition point for the appearance of a certain Overlap Gap Property (OGP) over the space of k-sparse binary vectors. The presence of such an Overlap Gap Property phase transition, which originates in spin glass theory, is known to provide evidence of an algorithmic hardness. Finally, we show that in the extreme case where the noise level is zero, i.e. \sigma=0, the computational-statistical gap closes by proposing an optimal polynomial-time algorithm using the Lenstra-Lenstra-Lov\&lsquo;asz lattice basis reduction algorithm.</p>
+
+<p>This is joint work with David Gamarnik.</p>
+
 <h3 id="schedule-fall-18">Schedule Fall 18</h3>
 
 <p>During the Fall the MIC Seminar will usually be in room 312 Tuesdays 6-7p.</p>
@@ -119,9 +188,9 @@
 </tbody>
 </table>
 
-<h3 id="abstracts">Abstracts</h3>
+<h3 id="abstracts-1">Abstracts</h3>
 
-<h4 id="a-name-marylou-a-aukosh-jagannath-algorithmic-thresholds-for-tensor-principle-component-analysis"><a name="marylou"></a> Aukosh Jagannath: Algorithmic thresholds for tensor principle component analysis</h4>
+<h4 id="a-name-aukosh-a-aukosh-jagannath-algorithmic-thresholds-for-tensor-principle-component-analysis"><a name="aukosh"></a> Aukosh Jagannath: Algorithmic thresholds for tensor principle component analysis</h4>
 
 <p>Consider the problem of recovering a rank 1 tensor of order k that has been subject to Gaussian noise. The log-likelihood for this problem is highly non-convex. It is information theoretically possible to recover the tensor with a finite number of samples via maximum likelihood estimation, however, it is expected that one needs a polynomially diverging number of samples to efficiently recover it. What is the cause of this large statistical–to–algorithmic gap? To study this question, we investigate the thresholds for efficient recovery for a simple family of algorithms, Langevin dynamics and gradient descent. We view this problem as a member of a broader class of problems which correspond to recovering a signal from a non-linear observation that has been perturbed by isotropic Gaussian noise. We propose a mechanism for success/failure of recovery of such algorithms in terms of the strength of the signal on the high entropy region of the initialization. Joint work with G. Ben Arous (NYU) and R. Gheissari (NYU).</p>
 
@@ -181,7 +250,7 @@ This work was done in collaboration with Andre Manoel (Owkin), Clément Luneau (
 </tbody>
 </table>
 
-<h3 id="abstracts-1">Abstracts</h3>
+<h3 id="abstracts-2">Abstracts</h3>
 
 <h4 id="a-name-yu-a-yu-guang-wang-tight-framelets-and-fast-framelet-filter-bank-transforms-on-manifolds"><a name="yu"></a>  Yu Guang Wang: Tight framelets and fast framelet filter bank transforms on manifolds</h4>
 
@@ -280,7 +349,7 @@ Afonso S. Bandeira and Michel X. Goemans.</p>
 
 <hr />
 
-<h3 id="abstracts-2">Abstracts</h3>
+<h3 id="abstracts-3">Abstracts</h3>
 
 <h4 id="a-name-bouchot-a-jean-luc-bouchot-compressed-sensing-petrov-galerkin-when-data-science-helps-solve-problem-in-applied-mathematics"><a name="bouchot"></a>  Jean-Luc Bouchot: Compressed sensing Petrov-Galerkin: When data science helps solve problem in applied mathematics</h4>
 
@@ -343,7 +412,7 @@ In this talk, I will argue that SDP-KM, a popular semidefinite relaxation of K-m
 
 <hr />
 
-<h3 id="abstracts-3">Abstracts</h3>
+<h3 id="abstracts-4">Abstracts</h3>
 
 <h4 id="a-name-rebrova-a-liza-rebrova-local-and-global-obstructions-for-the-random-matrix-norm-regularization"><a name="rebrova"></a> Liza Rebrova: Local and Global obstructions for the random matrix norm regularization</h4>
 
