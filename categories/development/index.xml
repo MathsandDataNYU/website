@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math and Data</title>
+    <title>Development on Math and Data</title>
     <link>http://mad.cds.nyu.edu/categories/development/index.xml</link>
-    <description>Recent content on Math and Data</description>
+    <description>Recent content in Development on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://mad.cds.nyu.edu/categories/development/index.xml" rel="self" type="application/rss+xml" />
@@ -634,7 +634,7 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 &lt;tr&gt;
 &lt;td&gt;Apr 18&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.cs.princeton.edu/~arora/&#34;&gt;Sanjeev Arora (Princeton and IAS&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.cs.princeton.edu/~arora/&#34;&gt;Sanjeev Arora (Princeton and IAS)&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#arora&#34;&gt;A theory for representation learning via contrastive objectives&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -646,8 +646,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 &lt;tr&gt;
 &lt;td&gt;May 2&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rayan Saab (UC San Diego)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.math.ucsd.edu/~rsaab/&#34;&gt;Rayan Saab (UC San Diego)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#rayan&#34;&gt;New and Improved Binary Embeddings of Data&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -671,6 +671,10 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 &lt;hr /&gt;
 
 &lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-rayan-a-rayan-saab-new-and-improved-binary-embeddings-of-data&#34;&gt;&lt;a name=&#34;rayan&#34;&gt;&lt;/a&gt; Rayan Saab: New and Improved Binary Embeddings of Data&lt;/h4&gt;
+
+&lt;p&gt;We discuss two related problems that arise in the acquisition and processing of high-dimensional data. First, we consider distance-preserving fast binary embeddings. Here we propose fast methods to replace points from a subset of RN with points in a lower-dimensional cube {±1}m, which we endow with an appropriate function to approximate Euclidean distances in the original space. Second, we consider a problem in the quantization (i.e., digitization) of compressed sensing measurements. Here, we deal with measurements of approximately sparse signals as well as with measurements of manifold valued data. Our results apply not only to Gaussian measurement matrices but also to those drawn from bounded orthonormal systems and partial circulant ensembles, both of which arise naturally in applications and admit fast transforms. In all these problems we show state-of-the art error bounds, and to our knowledge, some of our results are the first of their kind.&lt;/p&gt;
 
 &lt;h4 id=&#34;a-name-arora-a-sanjeev-arora-a-theory-for-representation-learning-via-contrastive-objectives&#34;&gt;&lt;a name=&#34;arora&#34;&gt;&lt;/a&gt; Sanjeev Arora: A theory for representation learning via contrastive objectives&lt;/h4&gt;
 
