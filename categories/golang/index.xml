@@ -652,8 +652,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 
 &lt;tr&gt;
 &lt;td&gt;May 9&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://satijalab.org/&#34;&gt;Rahul Satija (NY Genome Center)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#rahul&#34;&gt;Modeling and integration of single-cell sequencing data&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -671,6 +671,10 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 &lt;hr /&gt;
 
 &lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+
+&lt;h4 id=&#34;a-name-rahul-a-rahul-satija-modeling-and-integration-of-single-cell-sequencing-data&#34;&gt;&lt;a name=&#34;rahul&#34;&gt;&lt;/a&gt; Rahul Satija: Modeling and integration of single-cell sequencing data&lt;/h4&gt;
+
+&lt;p&gt;New technologies for single-cell sequencing are giving rise to datasets that will define a ‘parts list’ of cell types for human beings, yet are characterized by extensive noise and sparse measurements. I will discuss two statistical learning methods for the analysis and interpretation of these data. We propose a regularization procedure to fit models of technical variation that can be applied to generalized linear models, factor analysis, or nonlinear autoencoders. In addition, we develop a procedure based on diagonalized canonical correlation analysis to identify correspondences across different experiments, enabling us to ‘align’ and compare datasets from different laboratories, technologies, and species.&lt;/p&gt;
 
 &lt;h4 id=&#34;a-name-rayan-a-rayan-saab-new-and-improved-binary-embeddings-of-data&#34;&gt;&lt;a name=&#34;rayan&#34;&gt;&lt;/a&gt; Rayan Saab: New and Improved Binary Embeddings of Data&lt;/h4&gt;
 
