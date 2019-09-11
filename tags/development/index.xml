@@ -466,6 +466,22 @@ Publicly accessible here.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Welcome to the Mad site!</title>
+      <link>http://mad.cds.nyu.edu/news/first/</link>
+      <pubDate>Thu, 22 Dec 2016 14:51:18 -0500</pubDate>
+      
+      <guid>http://mad.cds.nyu.edu/news/first/</guid>
+      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
+Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
+Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
+
+&lt;p&gt;We are always in the lookout for highly motivated students interested
+in understanding and developing the fundamental mathematical structures underpinning
+modern data analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>People</title>
       <link>http://mad.cds.nyu.edu/people/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
@@ -1701,22 +1717,6 @@ with classical energy minimization models for computer vision and image processi
 &lt;p&gt;In the last decade the mirror descent strategy of Nemirovski and Yudin has emerged as a powerful tool for online learning. I will argue that in fact the reach of this technique is far broader than expected, and that it can be useful for online computation problems in general. I will illustrate this on two classical problems in online decision making, the k-server problem and its generalization to metrical task systems. Both problems have long-standing conjectures about the optimal competitive ratio in arbitrary metric spaces, namely O(log(k)) for k-server and O(log(n)) for MTS. We will show that mirror descent, with a certain multiscale entropy regularization, yields respectively O(log^2(k)) and O(log(n)) for a very general class of metric spaces (namely hierarchically separated trees, which in particular implies the same bounds up to an additional log(n) factor for arbitrary metric spaces).&lt;/p&gt;
 
 &lt;p&gt;Joint work with Michael B. Cohen, James R. Lee, Yin Tat Lee, and Aleksander Madry.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to the Mad site!</title>
-      <link>http://mad.cds.nyu.edu/news/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/news/first/</guid>
-      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
-Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
-Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
-
-&lt;p&gt;We are always in the lookout for highly motivated students interested
-in understanding and developing the fundamental mathematical structures underpinning
-modern data analysis.&lt;/p&gt;
 </description>
     </item>
     
