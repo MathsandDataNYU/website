@@ -6,8 +6,24 @@
     <description>Recent content on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2017 22:37:44 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 14:51:18 -0500</lastBuildDate>
     <atom:link href="http://mad.cds.nyu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to the Mad site!</title>
+      <link>http://mad.cds.nyu.edu/news/first/</link>
+      <pubDate>Sat, 09 Nov 2019 14:51:18 -0500</pubDate>
+      
+      <guid>http://mad.cds.nyu.edu/news/first/</guid>
+      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
+Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
+Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
+
+&lt;p&gt;We are always in the lookout for highly motivated students interested
+in understanding and developing the fundamental mathematical structures underpinning
+modern data analysis.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>the MIC Seminar</title>
@@ -463,22 +479,6 @@ Publicly accessible here.&lt;/p&gt;
 &lt;h4 id=&#34;high-dimensional-probability-https-github-com-mathsanddatanyu-highdimproba-spring17&#34;&gt;&lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;High Dimensional Probability&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h4 id=&#34;statistical-physics-https-github-com-mathsanddatanyu-statphysics-spring17&#34;&gt;&lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;Statistical Physics&lt;/a&gt;&lt;/h4&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to the Mad site!</title>
-      <link>http://mad.cds.nyu.edu/news/first/</link>
-      <pubDate>Thu, 22 Dec 2016 14:51:18 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/news/first/</guid>
-      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
-Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
-Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
-
-&lt;p&gt;We are always in the lookout for highly motivated students interested
-in understanding and developing the fundamental mathematical structures underpinning
-modern data analysis.&lt;/p&gt;
 </description>
     </item>
     
