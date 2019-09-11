@@ -7,23 +7,8 @@
   </url>
   
   <url>
-    <loc>http://mad.cds.nyu.edu/news/reading/</loc>
-    <lastmod>2017-01-24T15:40:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mad.cds.nyu.edu/reading/</loc>
     <lastmod>2017-01-24T15:36:26-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mad.cds.nyu.edu/news/mediumarticle/</loc>
-    <lastmod>2016-12-23T11:01:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mad.cds.nyu.edu/news/first/</loc>
-    <lastmod>2016-12-22T14:51:18-05:00</lastmod>
   </url>
   
   <url>
@@ -103,13 +88,16 @@
   
   <url>
     <loc>http://mad.cds.nyu.edu/news/</loc>
-    <lastmod>2017-01-24T15:40:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mad.cds.nyu.edu/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/news/first/</loc>
   </url>
   
 </urlset>

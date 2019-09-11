@@ -445,18 +445,6 @@ In this talk, I will argue that SDP-KM, a popular semidefinite relaxation of K-m
     </item>
     
     <item>
-      <title>reading</title>
-      <link>http://mad.cds.nyu.edu/news/reading/</link>
-      <pubDate>Tue, 24 Jan 2017 15:40:00 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/news/reading/</guid>
-      <description>&lt;p&gt;This week we are starting two weekly reading groups.
-One will study &lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;topics on high-dimensional Probability&lt;/a&gt;,
-whereas the other will focus on selected &lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;topics on Statistical Physics&lt;/a&gt;. You can check present and past reading groups in the corresponding &lt;a href=&#34;reading&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Reading Groups</title>
       <link>http://mad.cds.nyu.edu/reading/</link>
       <pubDate>Tue, 24 Jan 2017 15:36:26 -0500</pubDate>
@@ -474,38 +462,6 @@ Publicly accessible here.&lt;/p&gt;
 &lt;h4 id=&#34;high-dimensional-probability-https-github-com-mathsanddatanyu-highdimproba-spring17&#34;&gt;&lt;a href=&#34;https://github.com/MathsandDataNYU/HighDimProba_spring17&#34;&gt;High Dimensional Probability&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h4 id=&#34;statistical-physics-https-github-com-mathsanddatanyu-statphysics-spring17&#34;&gt;&lt;a href=&#34;https://github.com/MathsandDataNYU/StatPhysics_spring17&#34;&gt;Statistical Physics&lt;/a&gt;&lt;/h4&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Phd Program in the Mad group </title>
-      <link>http://mad.cds.nyu.edu/news/mediumarticle/</link>
-      <pubDate>Fri, 23 Dec 2016 11:01:01 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/news/mediumarticle/</guid>
-      <description>&lt;p&gt;Check out these articles if you are interested in applying to our PhD program!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYUDataScience/ph-d-in-data-science-the-math-data-group-f055b52c3826#.1e0bbwrvb&#34;&gt;PhD in Data Science : The MaD Group&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@NYUDataScience/phd-in-data-science-application-tips-875750c6ac87#.ee228cxwu&#34;&gt;PhD Application tips!&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to the Mad site!</title>
-      <link>http://mad.cds.nyu.edu/news/first/</link>
-      <pubDate>Thu, 22 Dec 2016 14:51:18 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/news/first/</guid>
-      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
-Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
-Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
-
-&lt;p&gt;We are always in the lookout for highly motivated students interested
-in understanding and developing the fundamental mathematical structures underpinning
-modern data analysis.&lt;/p&gt;
 </description>
     </item>
     
@@ -1745,6 +1701,22 @@ with classical energy minimization models for computer vision and image processi
 &lt;p&gt;In the last decade the mirror descent strategy of Nemirovski and Yudin has emerged as a powerful tool for online learning. I will argue that in fact the reach of this technique is far broader than expected, and that it can be useful for online computation problems in general. I will illustrate this on two classical problems in online decision making, the k-server problem and its generalization to metrical task systems. Both problems have long-standing conjectures about the optimal competitive ratio in arbitrary metric spaces, namely O(log(k)) for k-server and O(log(n)) for MTS. We will show that mirror descent, with a certain multiscale entropy regularization, yields respectively O(log^2(k)) and O(log(n)) for a very general class of metric spaces (namely hierarchically separated trees, which in particular implies the same bounds up to an additional log(n) factor for arbitrary metric spaces).&lt;/p&gt;
 
 &lt;p&gt;Joint work with Michael B. Cohen, James R. Lee, Yin Tat Lee, and Aleksander Madry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Mad site!</title>
+      <link>http://mad.cds.nyu.edu/news/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mad.cds.nyu.edu/news/first/</guid>
+      <description>&lt;p&gt;The Mad (Math and Data) group was created in fall 2016 by
+Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant
+Professors at Courant Institute and the Center for Data Science.&lt;/p&gt;
+
+&lt;p&gt;We are always in the lookout for highly motivated students interested
+in understanding and developing the fundamental mathematical structures underpinning
+modern data analysis.&lt;/p&gt;
 </description>
     </item>
     
