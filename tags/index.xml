@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2017 22:37:44 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
     
 	<atom:link href="http://mad.cds.nyu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,16 @@
     <item>
       <title>Development</title>
       <link>http://mad.cds.nyu.edu/tags/development/</link>
-      <pubDate>Wed, 15 Mar 2017 22:37:44 -0400</pubDate>
+      <pubDate>Wed, 11 Sep 2019 14:51:18 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
+      <title>golang</title>
       <link>http://mad.cds.nyu.edu/tags/golang/</link>
-      <pubDate>Wed, 15 Mar 2017 22:37:44 -0400</pubDate>
+      <pubDate>Wed, 11 Sep 2019 14:51:18 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/tags/golang/</guid>
       <description></description>
