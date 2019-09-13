@@ -47,30 +47,27 @@ Fall 2019 info and schedule Fall 2018 working group schedule High Dimensional Pr
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/people/affiliated/</guid>
-      <description>Gerard Ben Arous Professor, Mathematics, Courant Institute.
-Xi Chen Assistant Professor, IOMS, Stern School.
-Sinan Gunturk Professor, Department of Mathematics, Courant Institute.
-Eyal Lubetzky Associate Professor, Mathematics, Courant Institute.
-Andy Majda Professor, Department of Mathematics and Climate, Atmosphere and Ocean Science, Courant Institute.
-Adi Rangan Associate Professor, Department of Mathematics, Courant Institute.
-Eero Simoncelli Silver Professor, Neural Science, Mathematics and Psychology;
-Investigator, Howard Hughes Medical Institute.
-Esteban Tabak Professor, Department of Mathematics, Courant Institute.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Core Faculty</title>
+      <title>Faculty</title>
       <link>http://mad.cds.nyu.edu/people/corefaculty/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
       <guid>http://mad.cds.nyu.edu/people/corefaculty/</guid>
-      <description>Joan Bruna Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).
+      <description>##Core Faculty
+Joan Bruna Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).
 
 Carlos Fernandez-Granda Assistant Professor, Department of Mathematics and Center for Data Science.
 
 Julia Kempe Professor, Department of Mathematics, Computer Science and Center for Data Science.
 
-Jonathan Niles-Weed Assistant Professor, Department of Mathematics and Center for Data Science.</description>
+Jonathan Niles-Weed Assistant Professor, Department of Mathematics and Center for Data Science.
+
+##Afiliated Faculty
+Gerard Ben Arous Professor, Mathematics, Courant Institute.
+Xi Chen Assistant Professor, IOMS, Stern School.</description>
     </item>
     
     <item>
