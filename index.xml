@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math and Data</title>
@@ -6,20 +6,10 @@
     <description>Recent content on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2017 22:37:44 -0400</lastBuildDate>
     
 	<atom:link href="http://mad.cds.nyu.edu/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Welcome to the Mad site!</title>
-      <link>http://mad.cds.nyu.edu/news/first/</link>
-      <pubDate>Wed, 11 Sep 2019 14:51:18 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/news/first/</guid>
-      <description>The Mad (Math and Data) group was created in fall 2016 by Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant Professors at the Courant Institute and the Center for Data Science.
-We are always in the lookout for highly motivated students interested in understanding and developing the fundamental mathematical structures underpinning modern data analysis, machine learning, deep learning, and their applications.</description>
-    </item>
     
     <item>
       <title>the MIC Seminar</title>
@@ -28,7 +18,7 @@ We are always in the lookout for highly motivated students interested in underst
       
       <guid>http://mad.cds.nyu.edu/micsem/</guid>
       <description>The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
-Schedule Fall 2020    Date Speaker Title Room     Mar 6, 2:30pm Matthew Brennan (MIT) Reducibility and Statistical-Computational Gaps from Secret Leakage CDS 7th floor     Matthew Brennan: Reducibility and Statistical-Computational Gaps from Secret Leakage Inference problems with conjectured statistical-computational gaps are ubiquitous throughout modern statistics, computer science and statistical physics.</description>
+Schedule Fall 2020    Date Speaker Title Room     Mar 6, 2:30pm Matthew Brennan (MIT) Reducibility and Statistical-Computational Gaps from Secret Leakage CDS 7th floor    Matthew Brennan: Reducibility and Statistical-Computational Gaps from Secret Leakage Inference problems with conjectured statistical-computational gaps are ubiquitous throughout modern statistics, computer science and statistical physics.</description>
     </item>
     
     <item>
@@ -39,78 +29,8 @@ Schedule Fall 2020    Date Speaker Title Room     Mar 6, 2:30pm Matthew Brennan 
       <guid>http://mad.cds.nyu.edu/reading/</guid>
       <description>The MaD group hosts semester-long thematic reading groups, which are publicly accessible here.
 Current (Spring 2020) We are running a general group meeting on the broad theme of &amp;ldquo;Information Theory, Old and New.&amp;rdquo;
- Information and schedule are available here.  Previous Fall 2019 We ran a general group meeting on the broad theme of &amp;ldquo;statistical and computational tradeoffs in high-dimensional inference.&amp;rdquo;
+ Information and schedule are available here.   Previous Fall 2019 We ran a general group meeting on the broad theme of &amp;ldquo;statistical and computational tradeoffs in high-dimensional inference.&amp;rdquo;
  Information and schedule are available here.  Spring 2019 We organized three working groups on different topics:</description>
-    </item>
-    
-    <item>
-      <title>Affiliated Faculty</title>
-      <link>http://mad.cds.nyu.edu/people/affiliated/</link>
-      <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/people/affiliated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Faculty</title>
-      <link>http://mad.cds.nyu.edu/people/corefaculty/</link>
-      <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/people/corefaculty/</guid>
-      <description>Core Joan Bruna Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).
-
-Carlos Fernandez-Granda Assistant Professor, Department of Mathematics and Center for Data Science.
-
-Julia Kempe Professor, Department of Mathematics, Computer Science and Center for Data Science.
-
-Jonathan Niles-Weed Assistant Professor, Department of Mathematics and Center for Data Science.
-
-Afiliated Gerard Ben Arous Professor, Mathematics, Courant Institute.
-Xi Chen Assistant Professor, IOMS, Stern School.</description>
-    </item>
-    
-    <item>
-      <title>PhD/MsC Students</title>
-      <link>http://mad.cds.nyu.edu/people/phds/</link>
-      <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/people/phds/</guid>
-      <description>PhD Students Brett Bernstein (Sept 2014 - )  
-David Brandfonbrener (Sept 2018 - )  
-Zhengdao Chen (Sept 2018 - )  
-Carles Domingo (Sept 2019 - )  
-Samy Jelassi (Sept 2018 - )  
-Aakash Kaku (Sept 2019 - )  
-Tim Kunisky (Sept 2017 - )  
-Sheng Liu (Sept 2019 - )  
-Kangning Liu (Sept 2019 - )</description>
-    </item>
-    
-    <item>
-      <title>Postdocs and Fellows</title>
-      <link>http://mad.cds.nyu.edu/people/postdocs/</link>
-      <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/people/postdocs/</guid>
-      <description>Yossi Arjevani (Sept 2019 - ) Postdoc, Center for Data Science; optimization, machine learning.
-
-L&amp;#233;o Miolane (Sept 2019 - ) Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.
-
-Qing Qu (Sept 2018 - ) CDS Moore-Sloan Fellow; signal processing, machine learning, optimization.
-
-Grant Rotskoff (Sept 2017 - ) Postdoc, Courant Institute; statistical mechanics, machine learning.
-
-Matthew Trager (Sept 2018 - ) Postdoc, Center for Data Science; algebraic geometry, deep learning.</description>
-    </item>
-    
-    <item>
-      <title>Visitors and Alumni</title>
-      <link>http://mad.cds.nyu.edu/people/miscpeople/</link>
-      <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/people/miscpeople/</guid>
-      <description> Visitors Past members Afonso Bandeira Shuyang Ling Augustin Cosse </description>
     </item>
     
     <item>
@@ -124,7 +44,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm, Reception will follow.
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Jan 23 Paromita Dubey (UC Davis) Fréchet Change Point Detection    Jan 30 Yaniv Romano (Stanford) Reliability, Equity, and Reproducibility in Modern Machine Learning video   Feb 6 Kaizheng Wang (Princeton) Latent variable models: spectral methods and non-convex optimization    Feb 13 Laure Zanna (NYU) Blending machine learning and physics to improve climate modeling    Feb 20 Yash Deshpande (MIT) Two problems in modern statistical inference video   Feb 27 Rebecca Willett (UChicago) Learning to Solve Inverse Problems in Imaging video   Mar 5 Stefanie Jegelka (MIT) Representation and Learning in Graph Neural Networks video   Mar 12 Samory Kpotufe (Columbia)  video   Mar 19 (spring break)     Mar 26 Weijie Su (UPenn)  video   Apr 2 Flori Bunea (Cornell)  video   Apr 9 Yurii Nesterov (UCLouvain)  video   Apr 23 Jiaming Xu (Duke)  video   Apr 30 Sham Kakade (UW)  video    Schedule Fall 2019</description>
+Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Jan 23 Paromita Dubey (UC Davis) Fréchet Change Point Detection    Jan 30 Yaniv Romano (Stanford) Reliability, Equity, and Reproducibility in Modern Machine Learning video   Feb 6 Kaizheng Wang (Princeton) Latent variable models: spectral methods and non-convex optimization    Feb 13 Laure Zanna (NYU) Blending machine learning and physics to improve climate modeling    Feb 20 Yash Deshpande (MIT) Two problems in modern statistical inference video   Feb 27 Rebecca Willett (UChicago) Learning to Solve Inverse Problems in Imaging video   Mar 5 Stefanie Jegelka (MIT) Representation and Learning in Graph Neural Networks video   Mar 12 Samory Kpotufe (Columbia)  video   Mar 19 (spring break)     Mar 26 Weijie Su (UPenn)  video   Apr 2 Flori Bunea (Cornell)  video   Apr 9 Yurii Nesterov (UCLouvain)  video   Apr 23 Jiaming Xu (Duke)  video   Apr 30 Sham Kakade (UW)  video     Schedule Fall 2019</description>
     </item>
     
     <item>
@@ -137,83 +57,17 @@ Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Jan 23 Pa
 MaD seminars are now recorded and streamed live, starting 11/7/19. Links to the videos are available below.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here</description>
+Subscribe to the Seminar Mailing list here
+Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Sep 5 Facundo Memoli (OSU) Gromov-Wasserstein distances and distributional invariants of datasets    Sep 19 Dustin Mixon (OSU) SqueezeFit: Label aware dimensionality reduction via semidefinite programming    Sep 26 Madeleine Udell (Cornell) Optimal storage SDP    Oct 3 Rahul Mazumder (MIT) Learning Structured Sparse Problems at Scale: Continuous and Mixed Integer Programming Perspectives    Oct 10 Peyman Milanfar (Google Research) Denoising as a Fundamental Building Block: Form, function, and regularization of inverse problems    Oct 17 Ryan Tibshirani (CMU) Surprises in High-Dimensional Ridgeless Least Squares Interpolation    Oct 24 Po-Ling Loh (UW-Madison) Estimating location parameters in entangled single-sample distributions    Oct 25 3:30pm Song Mei (Stanford) Generalization error of linearized neural networks: staircase and double-descent    Oct 31      Nov 7 David Blei (Columbia) The Blessings of Multiple Causes video   Nov 14 Marco Cuturi (Google Brain) Differentiable Ranks and Quantiles using Optimal Transport video   Nov 21 (cancelled)     Dec 5 Lenaic Chizat (Orsay-Paris Sud) Analyses of gradient methods for the optimization of wide two layer neural networks video     Schedule Spring 2019</description>
     </item>
     
     <item>
-      <title>the MaD Seminar Fall 2017</title>
-      <link>http://mad.cds.nyu.edu/seminar_fall2017/</link>
+      <title>the MaD&#43; Seminar</title>
+      <link>http://mad.cds.nyu.edu/madplus/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/seminar_fall2017/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     Sep 14 Yoram Singer (Princeton) Adaptive Regularization   Sep 21 Esteban Tabak (NYU) Conditional Density Estimation through Optimal Transport   Sep 28 Laurent Demanet (MIT) Extrapolation from sparsity   Oct 5 Dustin Mixon (Ohio State) A semidefinite relaxation of k-means clustering   Oct 12 Lorenzo Rosasco (MIT) (un)conventional regularization for efficient large scale machine learning   Oct 19 Francis Bach (INRIA, ENS) Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains   Oct 26 Rachel Ward (UT Austin)    Nov 2 Ivan Selesnick (NYU)    Nov 9 Mauro Maggioni (John Hopkins) Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets   Nov 16 Emmanuel Abbe (Princeton) Graph Powering: mixing Bayesian and spectral methods   Nov 23 THANKSGIVING    Nov 30 Guillermo Sapiro (Duke) Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems   Dec 7 Alexandre d&amp;rsquo;Aspremont (ENS)     Abstracts  Yoram Singer: Adaptive Regularization We describe a framework for deriving and analyzing online optimization algorithms that incorporate adaptive, data dependent regularization, also termed preconditioning.</description>
-    </item>
-    
-    <item>
-      <title>the MaD Seminar Fall 2018</title>
-      <link>http://mad.cds.nyu.edu/seminar_fall2018/</link>
-      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/seminar_fall2018/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     Sep 13 Nate Silver Forecasting the midterm elections   Sep 20 Ivan Selesnick (NYU Tandon) Sparse Regularization via Convex Analysis   Sep 27 Cristopher Moore (Santa Fe Institute) Statistical physics, statistical inference, and community detection in networks   Oct 4 Andrew Blumberg (UT Austin) Topological data analysis for scientific inference   Oct 11 Venkat Chandrasekaran (Caltech) Learning Regularizers from Data   Oct 18 Cathy O&amp;rsquo;Neil Big data, inequality, and democracy: what can mathematics offer?</description>
-    </item>
-    
-    <item>
-      <title>the MaD Seminar Spring 2017</title>
-      <link>http://mad.cds.nyu.edu/seminar_spring2017/</link>
-      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/seminar_spring2017/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:30pm-3:30pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     Jan 26 Dave Donoho (Stanford) Optimal Shrinkage of Covariance Matrices in light of the spiked covariance model   Feb 2 Andrew Gelman (Columbia) Taking Bayesian Inference Seriously   Feb 9 Mar 20 May 11 Leslie Greengard (Courant) Inverse problems in acoustic scattering and cryo-electron microscopy   Feb 16 Ronald Coifman (Yale) Organization and Analysis on data tensors   Feb 23 John Wright (Columbia) Nonconvex Recovery of Low-Complexity Models   Mar 2 Gitta Kutyniok (TU Berlin) Optimal Approximation with Sparse Deep Neural Networks   Mar 9 Philippe Rigollet (MIT) Learning determinantal point processes   Mar 16 SPRING BREAK    Mar 23 Amit Singer (Princeton) PCA from noisy linearly transformed measurements   Mar 30 Stephane Mallat (ENS Ulm) Mathematial Mysteries of Deep Convolutional Networks   Apr 6 11am, 12 Waverly pl, L120 Ben Recht (UC Berkeley) Optimization Challenges in Deep Learning   Apr 13 Waheed Bajwa (Rutgers) Collaborative Dictionary Learning from Big, Distributed Data   Apr 20 Andrea Montanari (Stanford) The Landscape of some Statistical Learning Problems   Apr 27 Joel Tropp (Caltech) Sketchy Decisions: Low-rank matrix optimization with optimal storage   May 4 Thomas Strohmer (UC Davis) Murder, Matrices, and Minima - Adventures in Blind Deconvolution   May 11 4pm Leslie Greengard (Courant) Inverse problems in acoustic scattering and cryo-electron microscopy    Abstracts  Dave Donoho: Optimal Shrinkage of Covariance Matrices in light of the Spiked Covariance Model (joint work with Behrooz Ghorbani, Stanford)</description>
-    </item>
-    
-    <item>
-      <title>the MaD Seminar Spring 2018</title>
-      <link>http://mad.cds.nyu.edu/seminar_spring2018/</link>
-      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/seminar_spring2018/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Note special time and location of the first talk by Sebastien Bubeck
-Schedule with Confirmed Speakers    Date Speaker Title     Jan 30, 3:45pm-5:00pm, WWH 1302 Sebastien Bubeck (Microsoft Research) k-server and metrical task systems on trees   Feb 8 David Rothschild (Microsoft Research) Public Opinion during the 2020 election   Feb 15, 3-4pm, CDS 150 Rachel Ward (UT Austin) Autotuning the learning rate in stochastic gradient methods   Feb 22 Zhou Fan (Stanford) Eigenvalues in multivariate random effects models   Mar 1 Thomas Pock (TU Graz) Learning better models for computer vision   Mar 8 Amir Ali Ahmadi (Princeton) Polynomial Optimization and Dynamical Systems   Mar 15 SPRING BREAK    Mar 22 Mahdi Soltanolkotabi (USC) Learning via Nonconvex Optimization: ReLUs, neural nets and submodular maximization   Mar 29 Alejandro Ribeiro (UPenn) Convolutional Neural Networks Architectures for Signals Supported on Graphs   Apr 5 Justin Romberg (Georgia Tech) Solving Nonlinear Equations using Convex Programming   Apr 12 Wotao Yin (UCLA) Asynchronous Parallel Computing for Optimization   Apr 19 Anirvan Sengupta (Rutgers) Manifold Representation by an Unsupervised Neural Net: Biology, Mathematics and Computation   Apr 26 Ankur Moitra (MIT) Robustness Meets Algorithms   May 3 Rene Vidal (John Hopkins) Global Optimality in Matrix Factorization and Deep Learning    Schedule Fall 2017</description>
-    </item>
-    
-    <item>
-      <title>the MaD Seminar, Spring 19</title>
-      <link>http://mad.cds.nyu.edu/seminar_spring2019/</link>
-      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/seminar_spring2019/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm, Reception will follow.
-Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     Feb 21 Jeffrey Pennington (Google) Dynamical Isometry and a Mean Field Theory of Signal Propagation in Deep Neural Networks   Feb 28 Ahmed El Alaoui (Stanford) Efficient Z_q synchronization on the square lattice   Mar 7 Florent Krzakala (ENS) Passed &amp;amp; Spurious: Descent algorithms and local minima in a spiked matrix-tensor model   Mar 14 Rina Foygel Barber (Chicago) Distribution free prediction: Is conditional inference possible?</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://mad.cds.nyu.edu/about/</link>
-      <pubDate>Thu, 22 Dec 2016 14:29:00 -0500</pubDate>
-      
-      <guid>http://mad.cds.nyu.edu/about/</guid>
-      <description>The Math and Data group is part of New York University&amp;rsquo;s Center for Data Science, and the Courant Institute of Mathematical Sciences.
-Its mission is to advance the Mathematical and Statistical foundations of Data Sciences, specializing in Signal processing and Inverse Problems, Machine Learning and Deep Learning, and High-dimensional statistics and Probability.</description>
+      <guid>http://mad.cds.nyu.edu/madplus/</guid>
+      <description>We are excited to announce the MaD+ (math and data plus) seminar, jointly organized between NYU and ETH. It is now a virtual seminar series, and depending on logistics and interest potentially evolve to a multi-location seminar once the world returns to normal (with talks hosted in one of the locations, and streamed). The topics will be in line with the physical MaD seminar hosted at the Center for Data Science and the Courant Institute (NYU).</description>
     </item>
     
   </channel>
