@@ -3,7 +3,7 @@
 <head>
   <link href="//gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="generator" content="Hugo 0.58.3" />
+  <meta name="generator" content="Hugo 0.68.3" />
 
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -132,19 +132,12 @@
     <main class="content container">
     <div class="post">
   <h1>the MaD Seminar Fall 2017</h1>
-  
-
-<p>The MaD seminar features leading specialists at the interface
+  <p>The MaD seminar features leading specialists at the interface
 of Applied Mathematics, Statistics and Machine Learning.</p>
-
 <p><strong>Room:</strong> Auditorium Hall 150, Center for Data Science, NYU, <a href="https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.9969907,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2599787834ad9:0x5dd8af15d9fbc8a3!8m2!3d40.735016!4d-73.994802">60 5th ave</a>.</p>
-
 <p><strong>Time:</strong> 2:00pm-3:00pm, Reception will follow.</p>
-
 <p><strong>Subscribe to the Seminar Mailing list <a href="http://cims.nyu.edu/mailman/listinfo/mad">here</a></strong></p>
-
 <h3 id="schedule-with-confirmed-speakers">Schedule with Confirmed Speakers</h3>
-
 <table>
 <thead>
 <tr>
@@ -153,80 +146,67 @@ of Applied Mathematics, Statistics and Machine Learning.</p>
 <th align="center">Title</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Sep 14</td>
 <td align="center"><a href="http://www.cs.princeton.edu/~ysinger/">Yoram Singer</a> (Princeton)</td>
 <td align="center"><a href="#yoram">Adaptive Regularization</a></td>
 </tr>
-
 <tr>
 <td>Sep 21</td>
 <td align="center"><a href="http://www.math.nyu.edu/faculty/tabak/">Esteban Tabak</a> (NYU)</td>
 <td align="center"><a href="#esteban">Conditional Density Estimation through Optimal Transport</a></td>
 </tr>
-
 <tr>
 <td>Sep 28</td>
 <td align="center"><a href="http://math.mit.edu/icg/people/laurent.html">Laurent Demanet</a> (MIT)</td>
-<td align="center"><a href="#laurent">Extrapolation from sparsity</a></td>
+<td align="center">[Extrapolation from sparsity] (#laurent)</td>
 </tr>
-
 <tr>
 <td>Oct 5</td>
 <td align="center"><a href="https://people.math.osu.edu/mixon.23/">Dustin Mixon</a> (Ohio State)</td>
-<td align="center"><a href="#dustin">A semidefinite relaxation of k-means clustering</a></td>
+<td align="center">[A semidefinite relaxation of k-means clustering] (#dustin)</td>
 </tr>
-
 <tr>
 <td>Oct 12</td>
 <td align="center"><a href="http://web.mit.edu/lrosasco/www/">Lorenzo Rosasco</a> (MIT)</td>
 <td align="center"><a href="#lorenzo">(un)conventional regularization for efficient large scale machine learning</a></td>
 </tr>
-
 <tr>
 <td>Oct 19</td>
 <td align="center"><a href="http://www.di.ens.fr/~fbach/">Francis Bach</a> (INRIA, ENS)</td>
 <td align="center"><a href="#bach">Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains</a></td>
 </tr>
-
 <tr>
 <td>Oct 26</td>
 <td align="center"><a href="https://www.ma.utexas.edu/users/rachel/">Rachel Ward</a> (UT Austin)</td>
 <td align="center"></td>
 </tr>
-
 <tr>
 <td>Nov 2</td>
 <td align="center"><a href="http://eeweb.poly.edu/iselesni/">Ivan Selesnick</a> (NYU)</td>
 <td align="center"></td>
 </tr>
-
 <tr>
 <td>Nov 9</td>
 <td align="center"><a href="http://www.math.jhu.edu/~mauro/">Mauro Maggioni</a> (John Hopkins)</td>
 <td align="center"><a href="#mauro">Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets</a></td>
 </tr>
-
 <tr>
 <td>Nov 16</td>
 <td align="center"><a href="http://www.ee.princeton.edu/research/eabbe/?q=node/1">Emmanuel Abbe</a> (Princeton)</td>
 <td align="center"><a href="#abbe">Graph Powering: mixing Bayesian and spectral methods</a></td>
 </tr>
-
 <tr>
 <td>Nov 23</td>
 <td align="center"><strong>THANKSGIVING</strong></td>
-<td align="center"></td>
+<td></td>
 </tr>
-
 <tr>
 <td>Nov 30</td>
 <td align="center"><a href="http://ece.duke.edu/faculty/guillermo-sapiro">Guillermo Sapiro</a>  (Duke)</td>
 <td align="center"><a href="#guillermo">Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems</a></td>
 </tr>
-
 <tr>
 <td>Dec 7</td>
 <td align="center"><a href="http://www.di.ens.fr/~aspremon/">Alexandre d&rsquo;Aspremont</a> (ENS)</td>
@@ -234,29 +214,17 @@ of Applied Mathematics, Statistics and Machine Learning.</p>
 </tr>
 </tbody>
 </table>
-
-<hr />
-
+<hr>
 <h3 id="abstracts">Abstracts</h3>
-
-<h4 id="a-name-yoram-a-yoram-singer-adaptive-regularization"><a name="yoram"></a> Yoram Singer: Adaptive Regularization</h4>
-
+<h4 id="a-nameyorama-yoram-singer-adaptive-regularization"><a name="yoram"></a> Yoram Singer: Adaptive Regularization</h4>
 <p>We describe a framework for deriving and analyzing online optimization algorithms that incorporate adaptive, data dependent regularization, also termed preconditioning. Such algorithms have been proven useful in stochastic optimization by reshaping the gradients according to the geometry of the data. Our framework captures and unifies much of the existing literature on adaptive online methods, including the AdaGrad and Online Newton Step algorithms as well as their diagonal versions. As a result, we obtain new convergence proofs for these algorithms that are substantially simpler than previous analyses. Our framework also exposes the rationale for the different preconditioned updates used in common stochastic optimization methods.</p>
-
 <p>Joint work with Tomer Koren and Vineet Gupta (Google)</p>
-
-<h4 id="a-name-esteban-a-esteban-tabak-conditional-density-estimation-through-optimal-transport"><a name="esteban"></a> Esteban Tabak: Conditional Density Estimation through Optimal Transport</h4>
-
+<h4 id="a-nameestebana-esteban-tabak-conditional-density-estimation-through-optimal-transport"><a name="esteban"></a> Esteban Tabak: Conditional Density Estimation through Optimal Transport</h4>
 <p>Conditional probability estimation and simulation provides data-based answers to all kinds of critical questions, such as the response of specific patients to different medical treatments, the effect of political measures on the economy, and weather and climate forecasts. In the complex systems behind these examples, the outcome of a process depends on many and diverse factors and is probabilistic in nature, due in part to our ignorance of other relevant factors and to the chaotic nature of the underlying dynamics.</p>
-
 <p>This talk will describe a general procedure for the estimation and simulation of conditional probabilities based on two complementary ideas: the removal of the effect of covariates through a data-based, generalized version of the optimal transport barycenter problem, and the reduction of complexity through a low-rank tensor factorization/separation of variables procedure extended to variables of any type.</p>
-
-<h4 id="a-name-laurent-a-laurent-demanet-extrapolation-from-sparsity"><a name="laurent"></a> Laurent Demanet: Extrapolation from sparsity</h4>
-
+<h4 id="a-namelaurenta-laurent-demanet-extrapolation-from-sparsity"><a name="laurent"></a> Laurent Demanet: Extrapolation from sparsity</h4>
 <p>This talk considers the basic question of frequency extrapolation of sparse signals observed over some frequency band, such as scattered bandlimited waves. How far, and how stably can we extend? I will review recent progress on the mathematical aspects of this question, which are tied to the notion of super-resolution. I will also discuss the robust “phase tracking” algorithmic approach, which is suitable for imaging modalities where the bandlimiting model is far from accurately known. Joint work with Nam Nguyen and Yunyue Elita Li.</p>
-
-<h4 id="a-name-dustin-a-dustin-mixon-a-semidefinite-relaxation-of-k-means-clustering"><a name="dustin"></a> Dustin Mixon: A semidefinite relaxation of k-means clustering</h4>
-
+<h4 id="a-namedustina-dustin-mixon-a-semidefinite-relaxation-of-k-means-clustering"><a name="dustin"></a> Dustin Mixon: A semidefinite relaxation of k-means clustering</h4>
 <p>Recently, Awasthi et al proved that a semidefinite relaxation of the
 k-means clustering problem is tight under a particular data model
 called the stochastic ball model. This result exhibits two
@@ -271,28 +239,18 @@ the semidefinite relaxation under the Gaussian mixture model. In this
 case, outliers in the data obstruct tightness in the relaxation, and
 so fundamentally different techniques are required. Several open
 problems will be posed throughout.</p>
-
-<h4 id="a-name-lorenzo-a-lorenzo-rosasco-un-conventional-regularization-for-efficient-large-scale-machine-learning"><a name="lorenzo"></a> Lorenzo Rosasco: (Un)conventional regularization for efficient large scale machine learning</h4>
-
+<h4 id="a-namelorenzoa-lorenzo-rosasco-unconventional-regularization-for-efficient-large-scale-machine-learning"><a name="lorenzo"></a> Lorenzo Rosasco: (Un)conventional regularization for efficient large scale machine learning</h4>
 <p>Regularization is classically designed by  penalizing or imposing explicit constraints to an empirical objective function. This approach can be derived from different perspectives and has optimal statistical guarantees. However, it  postpones  computational  considerations to a separate analysis. In large scale scenarios, considering independently statistical and numerical  aspects often leads to prohibitive computational requirements.  It is then natural  to ask whether  different regularization principles exist or can be derived to encompass both aspects at once.
 In this talk, we  will present several ideas in this direction, showing how procedures typically  developed to perform efficient computations  can  often be seen as a form implicit regularization. We will discuss how iterative optimization of an empirical objective  leads to regularization, and analyze the effect of acceleration, preconditioning and stochastic approximations. We will further discuss the regularization effect of sketching/subsampling methods by drawing a connection to classical regularization projection methods common in inverse problems.
 We will show how  these form of  implicit regularization  can obtain  optimal statistical guarantees, with  dramatically reduced computational properties.
 Joint work will Alessandro Rudi, Silvia Villa, Junhong Lin, Luigi Carratino.</p>
-
-<h4 id="a-name-bach-a-francis-bach-bridging-the-gap-between-constant-step-size-stochastic-gradient-descent-and-markov-chains"><a name="bach"></a> Francis Bach: Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains</h4>
-
+<h4 id="a-namebacha-francis-bach-bridging-the-gap-between-constant-step-size-stochastic-gradient-descent-and-markov-chains"><a name="bach"></a> Francis Bach: Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains</h4>
 <p>We consider the minimization of an objective function given access to unbiased estimates of its gradient through stochastic gradient descent (SGD) with constant step-size. While the detailed analysis was only performed for quadratic functions, we provide an explicit asymptotic expansion of the moments of the averaged SGD iterates that outlines the dependence on initial conditions, the effect of noise and the step-size, as well as the lack of convergence in the general (non-quadratic) case. For this analysis, we bring tools from Markov chain theory into the analysis of stochastic gradient and create new ones (similar but different from stochastic MCMC methods).  We then show that Richardson-Romberg extrapolation may be used to get closer to the global optimum and we show empirical improvements of the new extrapolation scheme. (joint work with Aymeric Dieuleveut and Alain Durmus).</p>
-
-<h4 id="a-name-mauro-a-mauro-maggioni-multiscale-methods-for-dictionary-learning-regression-measure-estimation-and-optimal-transport-for-data-near-low-dimensional-sets"><a name="mauro"></a> Mauro Maggioni: Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets</h4>
-
+<h4 id="a-namemauroa-mauro-maggioni-multiscale-methods-for-dictionary-learning-regression-measure-estimation-and-optimal-transport-for-data-near-low-dimensional-sets"><a name="mauro"></a> Mauro Maggioni: Multiscale Methods for Dictionary Learning, Regression, Measure Estimation and Optimal Transport for data near low-dimensional sets</h4>
 <p>We discuss a family of ideas, algorithms, and results for analyzing various new and classical problems in the analysis of high-dimensional data sets. These methods we discuss perform well when data is (nearly) intrinsically low-dimensional. They rely on the idea of performing suitable multiscale geometric decompositions of the data, and exploiting such decompositions to perform a variety of tasks in signal processing and statistical learning. In particular, we discuss the problem of dictionary learning, where one is interested in constructing, given a training set of signals, a set of vectors (dictionary) such that the signals admit a sparse representation in terms of the dictionary vectors. We then discuss the problem of regressing a function on a low-dimensional unknown manifold, and learning a probability measure with nearly low-dimensional support. For these problems we introduce multiscale estimators, fast algorithms for constructing them, and give finite sample guarantees for its performance, and discuss their optimality. Finally, we discuss an application of these multiscale decompositions to the fast calculation of optimal transportation plans, introduce a multiscale version of optimal transportation distances, and discuss preliminary applications. These are joint works with W. Liao, S. Vigogna and S. Gerber.</p>
-
-<h4 id="a-name-abbe-a-emmanuel-abbe-graph-powering-mixing-bayesian-and-spectral-methods"><a name="abbe"></a> Emmanuel Abbe: Graph Powering: mixing Bayesian and Spectral Methods</h4>
-
+<h4 id="a-nameabbea-emmanuel-abbe-graph-powering-mixing-bayesian-and-spectral-methods"><a name="abbe"></a> Emmanuel Abbe: Graph Powering: mixing Bayesian and Spectral Methods</h4>
 <p>In clustering and other unsupervised tasks, one often seeks information about the data from the top eigenvectors of a graph-based operator. However, these may not always be the informative eigenvectors due to various outliers (e.g., high degree nodes, tangles, branches) that cut-based methods get distracted from. Graph powering is a technique that tries to modify the graph to suppress the effect of such outliers and bring back the informative eigenvectors at the top. It is motivated by a &lsquo;Bayesian&rsquo; rather than worst-case cut metric. We will argue that powering can handle both stochastic block models and some &lsquo;geometric block models&rsquo; where short loops are much more present. Joint work with C. Sandon and E. Boix.</p>
-
-<h4 id="a-name-guillermo-a-guillermo-sapiro-learning-to-succeed-while-teaching-to-fail-privacy-in-machine-learning-systems"><a name="guillermo"></a> Guillermo Sapiro: Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems</h4>
-
+<h4 id="a-nameguillermoa-guillermo-sapiro-learning-to-succeed-while-teaching-to-fail-privacy-in-machine-learning-systems"><a name="guillermo"></a> Guillermo Sapiro: Learning to Succeed while Teaching to Fail: Privacy in Machine Learning Systems</h4>
 <p>Security, privacy, and fairness have become critical in the era of data science and machine learning. More and more we see that achieving universally secure, private, and fair systems is practically impossible. We have seen for example how generative adversarial networks can be used to learn about the expected private training data; how the exploitation of additional data can reveal private information in the original one; and how what looks like unrelated features can teach us about each other. Confronted with this challenge, in this work we open a new line of research, where the security, privacy, and fairness is learned and used in a closed environment. The goal is to ensure that a given entity (e.g., the company or the government), trusted to infer certain information with our data, is blocked from inferring protected information from it. For example, a hospital might be allowed to produce diagnosis on the patient (the positive task), without being able to infer the gender of the subject (negative task). Similarly, a company can guarantee that internally it is not using the provided data for any undesired task, an important goal that is not contradicting the virtually impossible challenge of blocking everybody from the undesired task. We design a system that learns to succeed on the positive task while simultaneously fail at the negative one, and illustrate this with challenging cases where the positive task is actually harder than the negative one being blocked. Fairness, to the information in the negative task, is often automatically obtained as a result of this proposed approach. The particular framework and examples open the door to security, privacy, and fairness in very important closed scenarios, ranging from private data accumulation companies like social networks to law-enforcement and hospitals. The talk will present initial results, connect the mathematics of privacy with continuous learning and explainable AI, and open the discussion of this just starting paradigm in privacy and learning. Joint work with J. Sokolic, Q. Qiu, and M. Rodrigues.</p>
 
 </div>
