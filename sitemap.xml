@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>http://mad.cds.nyu.edu/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mad.cds.nyu.edu/news/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
   </url>
@@ -48,12 +43,22 @@
   </url>
   
   <url>
+    <loc>http://mad.cds.nyu.edu/</loc>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mad.cds.nyu.edu/micsem/</loc>
     <lastmod>2017-03-15T22:37:44-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://mad.cds.nyu.edu/reading/</loc>
+    <lastmod>2017-01-24T15:36:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mad.cds.nyu.edu/thanks/</loc>
     <lastmod>2017-01-24T15:36:26-05:00</lastmod>
   </url>
   
