@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math and Data</title>
-    <link>http://mad.cds.nyu.edu/</link>
+    <link>https://mad.cds.nyu.edu/</link>
     <description>Recent content on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
     
-	<atom:link href="http://mad.cds.nyu.edu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mad.cds.nyu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to the Mad site!</title>
-      <link>http://mad.cds.nyu.edu/news/first/</link>
+      <link>https://mad.cds.nyu.edu/news/first/</link>
       <pubDate>Wed, 11 Sep 2019 14:51:18 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/news/first/</guid>
+      <guid>https://mad.cds.nyu.edu/news/first/</guid>
       <description>The Mad (Math and Data) group was created in fall 2016 by Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant Professors at the Courant Institute and the Center for Data Science.
 We are always in the lookout for highly motivated students interested in understanding and developing the fundamental mathematical structures underpinning modern data analysis, machine learning, deep learning, and their applications.</description>
     </item>
     
     <item>
       <title>the MIC Seminar</title>
-      <link>http://mad.cds.nyu.edu/micsem/</link>
+      <link>https://mad.cds.nyu.edu/micsem/</link>
       <pubDate>Wed, 15 Mar 2017 22:37:44 -0400</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/micsem/</guid>
+      <guid>https://mad.cds.nyu.edu/micsem/</guid>
       <description>The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
 Schedule Summer 2020    Date Speaker Title Room     Jul 27, 2pm Surbhi Goel (MSR) Computational Complexity of Learning Simple Neural Networks over Gaussian Marginals Zoom     Surbhi Goel: Computational Complexity of Learning Simple Neural Networks over Gaussian Marginals A major challenge in the theory of deep learning is to understand the computational complexity of learning simple families of neural networks (NNs).</description>
     </item>
     
     <item>
       <title>Reading Groups</title>
-      <link>http://mad.cds.nyu.edu/reading/</link>
+      <link>https://mad.cds.nyu.edu/reading/</link>
       <pubDate>Tue, 24 Jan 2017 15:36:26 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/reading/</guid>
+      <guid>https://mad.cds.nyu.edu/reading/</guid>
       <description>The MaD group hosts semester-long thematic reading groups, which are publicly accessible here.
 Current (Spring 2020) We are running a general group meeting on the broad theme of &amp;ldquo;Information Theory, Old and New.&amp;rdquo;
  Information and schedule are available here.   Previous Fall 2019 We ran a general group meeting on the broad theme of &amp;ldquo;statistical and computational tradeoffs in high-dimensional inference.&amp;rdquo;
@@ -45,29 +45,29 @@ Current (Spring 2020) We are running a general group meeting on the broad theme 
     
     <item>
       <title>Sponsors</title>
-      <link>http://mad.cds.nyu.edu/thanks/</link>
+      <link>https://mad.cds.nyu.edu/thanks/</link>
       <pubDate>Tue, 24 Jan 2017 15:36:26 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/thanks/</guid>
+      <guid>https://mad.cds.nyu.edu/thanks/</guid>
       <description>We are thankful for the generous financial support of the following institutions:
  National Science Foundation National Institutes of Health Alfred P. Sloan Foundation ARO Vesri Schmidt Futures Samsung Research Samsung Electronics Capital One  </description>
     </item>
     
     <item>
       <title>Affiliated Faculty</title>
-      <link>http://mad.cds.nyu.edu/people/affiliated/</link>
+      <link>https://mad.cds.nyu.edu/people/affiliated/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/people/affiliated/</guid>
+      <guid>https://mad.cds.nyu.edu/people/affiliated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faculty</title>
-      <link>http://mad.cds.nyu.edu/people/corefaculty/</link>
+      <link>https://mad.cds.nyu.edu/people/corefaculty/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/people/corefaculty/</guid>
+      <guid>https://mad.cds.nyu.edu/people/corefaculty/</guid>
       <description>Core  Joan Bruna Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).
  Carlos Fernandez-Granda Assistant Professor, Department of Mathematics and Center for Data Science.
  Julia Kempe Professor, Department of Mathematics, Computer Science and Center for Data Science.
@@ -78,19 +78,19 @@ Xi Chen Assistant Professor, IOMS, Stern School.</description>
     
     <item>
       <title>PhD/MsC Students</title>
-      <link>http://mad.cds.nyu.edu/people/phds/</link>
+      <link>https://mad.cds.nyu.edu/people/phds/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/people/phds/</guid>
+      <guid>https://mad.cds.nyu.edu/people/phds/</guid>
       <description>PhD Students  Brett Bernstein (Sept 2014 - )   David Brandfonbrener (Sept 2018 - )   Zhengdao Chen (Sept 2018 - )   Carles Domingo (Sept 2019 - )   Samy Jelassi (Sept 2018 - )   Aakash Kaku (Sept 2019 - )   Tim Kunisky (Sept 2017 - )   Sheng Liu (Sept 2019 - )   Kangning Liu (Sept 2019 - )   Sreyas Mohan (Sept 2018 - )   Karl Otness (Sept 2019 - )   Cinjon Resnick (Sept 2017 - )   Min Jae Song (Sept 2018 - )   Luca Venturi (Sept 2017 - )   Francis Williams (Sept 2018 - )   Aaron Zweig (Sept 2018 - )   MsC Students  Lei Chen (Sept 2018 - )  </description>
     </item>
     
     <item>
       <title>Postdocs and Fellows</title>
-      <link>http://mad.cds.nyu.edu/people/postdocs/</link>
+      <link>https://mad.cds.nyu.edu/people/postdocs/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/people/postdocs/</guid>
+      <guid>https://mad.cds.nyu.edu/people/postdocs/</guid>
       <description>Yossi Arjevani (Sept 2019 - ) Postdoc, Center for Data Science; optimization, machine learning.
  Léo Miolane (Sept 2019 - ) Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.
  Qing Qu (Sept 2018 - ) CDS Moore-Sloan Fellow; signal processing, machine learning, optimization.
@@ -100,19 +100,19 @@ Xi Chen Assistant Professor, IOMS, Stern School.</description>
     
     <item>
       <title>Visitors and Alumni</title>
-      <link>http://mad.cds.nyu.edu/people/miscpeople/</link>
+      <link>https://mad.cds.nyu.edu/people/miscpeople/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/people/miscpeople/</guid>
+      <guid>https://mad.cds.nyu.edu/people/miscpeople/</guid>
       <description>Visitors  Past members Afonso Bandeira Shuyang Ling Augustin Cosse </description>
     </item>
     
     <item>
       <title>the MAD Seminar</title>
-      <link>http://mad.cds.nyu.edu/seminar/</link>
+      <link>https://mad.cds.nyu.edu/seminar/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/seminar/</guid>
+      <guid>https://mad.cds.nyu.edu/seminar/</guid>
       <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 MaD seminars are recorded and streamed live. Links to the videos are available below.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
@@ -123,10 +123,10 @@ Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Jan 23 Pa
     
     <item>
       <title>the MaD Seminar Fall 2017</title>
-      <link>http://mad.cds.nyu.edu/seminar_fall2017/</link>
+      <link>https://mad.cds.nyu.edu/seminar_fall2017/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/seminar_fall2017/</guid>
+      <guid>https://mad.cds.nyu.edu/seminar_fall2017/</guid>
       <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm, Reception will follow.
@@ -136,10 +136,10 @@ Schedule with Confirmed Speakers    Date Speaker Title     Sep 14 Yoram Singer (
     
     <item>
       <title>the MaD Seminar Fall 2018</title>
-      <link>http://mad.cds.nyu.edu/seminar_fall2018/</link>
+      <link>https://mad.cds.nyu.edu/seminar_fall2018/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/seminar_fall2018/</guid>
+      <guid>https://mad.cds.nyu.edu/seminar_fall2018/</guid>
       <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm, Reception will follow.
@@ -149,10 +149,10 @@ Schedule with Confirmed Speakers    Date Speaker Title     Sep 13 Nate Silver Fo
     
     <item>
       <title>the MaD Seminar fall 2019</title>
-      <link>http://mad.cds.nyu.edu/seminar_fall2019/</link>
+      <link>https://mad.cds.nyu.edu/seminar_fall2019/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/seminar_fall2019/</guid>
+      <guid>https://mad.cds.nyu.edu/seminar_fall2019/</guid>
       <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 MaD seminars are now recorded and streamed live, starting 11/7/19. Links to the videos are available below.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
@@ -163,10 +163,10 @@ Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Sep 5 Fac
     
     <item>
       <title>the MaD Seminar Spring 2017</title>
-      <link>http://mad.cds.nyu.edu/seminar_spring2017/</link>
+      <link>https://mad.cds.nyu.edu/seminar_spring2017/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/seminar_spring2017/</guid>
+      <guid>https://mad.cds.nyu.edu/seminar_spring2017/</guid>
       <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:30pm-3:30pm, Reception will follow.
@@ -176,10 +176,10 @@ Schedule with Confirmed Speakers    Date Speaker Title     Jan 26 Dave Donoho (S
     
     <item>
       <title>the MaD Seminar Spring 2018</title>
-      <link>http://mad.cds.nyu.edu/seminar_spring2018/</link>
+      <link>https://mad.cds.nyu.edu/seminar_spring2018/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/seminar_spring2018/</guid>
+      <guid>https://mad.cds.nyu.edu/seminar_spring2018/</guid>
       <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm, Reception will follow.
@@ -190,10 +190,10 @@ Schedule with Confirmed Speakers    Date Speaker Title     Jan 30, 3:45pm-5:00pm
     
     <item>
       <title>the MaD Seminar, Spring 19</title>
-      <link>http://mad.cds.nyu.edu/seminar_spring2019/</link>
+      <link>https://mad.cds.nyu.edu/seminar_spring2019/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/seminar_spring2019/</guid>
+      <guid>https://mad.cds.nyu.edu/seminar_spring2019/</guid>
       <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm, Reception will follow.
@@ -203,19 +203,19 @@ Schedule with Confirmed Speakers    Date Speaker Title     Feb 21 Jeffrey Pennin
     
     <item>
       <title>the MAD&#43; Seminar</title>
-      <link>http://mad.cds.nyu.edu/madplus/</link>
+      <link>https://mad.cds.nyu.edu/madplus/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/madplus/</guid>
+      <guid>https://mad.cds.nyu.edu/madplus/</guid>
       <description>We are excited to announce the MaD+ (math and data plus) seminar, jointly organized between NYU and ETH. For the time being it is a virtual seminar series, and depending on logistics and interest potentially evolve to a multi-location seminar once the world returns to normal (with talks hosted in one of the locations, and streamed). The topics will be in line with the physical MaD seminar hosted at the Center for Data Science, which features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://mad.cds.nyu.edu/about/</link>
+      <link>https://mad.cds.nyu.edu/about/</link>
       <pubDate>Thu, 22 Dec 2016 14:29:00 -0500</pubDate>
       
-      <guid>http://mad.cds.nyu.edu/about/</guid>
+      <guid>https://mad.cds.nyu.edu/about/</guid>
       <description>The Math and Data group is part of New York University&amp;rsquo;s Center for Data Science, and the Courant Institute of Mathematical Sciences.
 Its mission is to advance the Mathematical and Statistical foundations of Data Sciences, specializing in Signal processing and Inverse Problems, Machine Learning and Deep Learning, and High-dimensional statistics and Probability.</description>
     </item>
