@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peoples on Math and Data</title>
-    <link>https://mad.cds.nyu.edu/people/</link>
+    <link>http://mad.cds.nyu.edu/people/</link>
     <description>Recent content in Peoples on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Dec 2016 14:48:45 -0500</lastBuildDate>
     
-	<atom:link href="https://mad.cds.nyu.edu/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mad.cds.nyu.edu/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Affiliated Faculty</title>
-      <link>https://mad.cds.nyu.edu/people/affiliated/</link>
+      <link>http://mad.cds.nyu.edu/people/affiliated/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>https://mad.cds.nyu.edu/people/affiliated/</guid>
+      <guid>http://mad.cds.nyu.edu/people/affiliated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faculty</title>
-      <link>https://mad.cds.nyu.edu/people/corefaculty/</link>
+      <link>http://mad.cds.nyu.edu/people/corefaculty/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>https://mad.cds.nyu.edu/people/corefaculty/</guid>
+      <guid>http://mad.cds.nyu.edu/people/corefaculty/</guid>
       <description>Core  Joan Bruna Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).
  Carlos Fernandez-Granda Assistant Professor, Department of Mathematics and Center for Data Science.
  Julia Kempe Professor, Department of Mathematics, Computer Science and Center for Data Science.
@@ -36,19 +36,19 @@ Xi Chen Assistant Professor, IOMS, Stern School.</description>
     
     <item>
       <title>PhD/MsC Students</title>
-      <link>https://mad.cds.nyu.edu/people/phds/</link>
+      <link>http://mad.cds.nyu.edu/people/phds/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>https://mad.cds.nyu.edu/people/phds/</guid>
+      <guid>http://mad.cds.nyu.edu/people/phds/</guid>
       <description>PhD Students  Brett Bernstein (Sept 2014 - )   David Brandfonbrener (Sept 2018 - )   Zhengdao Chen (Sept 2018 - )   Carles Domingo (Sept 2019 - )   Samy Jelassi (Sept 2018 - )   Aakash Kaku (Sept 2019 - )   Tim Kunisky (Sept 2017 - )   Sheng Liu (Sept 2019 - )   Kangning Liu (Sept 2019 - )   Sreyas Mohan (Sept 2018 - )   Karl Otness (Sept 2019 - )   Cinjon Resnick (Sept 2017 - )   Min Jae Song (Sept 2018 - )   Luca Venturi (Sept 2017 - )   Francis Williams (Sept 2018 - )   Aaron Zweig (Sept 2018 - )   MsC Students  Lei Chen (Sept 2018 - )  </description>
     </item>
     
     <item>
       <title>Postdocs and Fellows</title>
-      <link>https://mad.cds.nyu.edu/people/postdocs/</link>
+      <link>http://mad.cds.nyu.edu/people/postdocs/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>https://mad.cds.nyu.edu/people/postdocs/</guid>
+      <guid>http://mad.cds.nyu.edu/people/postdocs/</guid>
       <description>Yossi Arjevani (Sept 2019 - ) Postdoc, Center for Data Science; optimization, machine learning.
  Léo Miolane (Sept 2019 - ) Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.
  Qing Qu (Sept 2018 - ) CDS Moore-Sloan Fellow; signal processing, machine learning, optimization.
@@ -58,10 +58,10 @@ Xi Chen Assistant Professor, IOMS, Stern School.</description>
     
     <item>
       <title>Visitors and Alumni</title>
-      <link>https://mad.cds.nyu.edu/people/miscpeople/</link>
+      <link>http://mad.cds.nyu.edu/people/miscpeople/</link>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
-      <guid>https://mad.cds.nyu.edu/people/miscpeople/</guid>
+      <guid>http://mad.cds.nyu.edu/people/miscpeople/</guid>
       <description>Visitors  Past members Afonso Bandeira Shuyang Ling Augustin Cosse </description>
     </item>
     
