@@ -3,31 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mad.cds.nyu.edu/categories/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
   </url><url>
     <loc>https://mad.cds.nyu.edu/tags/development/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
   </url><url>
     <loc>https://mad.cds.nyu.edu/categories/development/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
   </url><url>
     <loc>https://mad.cds.nyu.edu/categories/golang/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
   </url><url>
     <loc>https://mad.cds.nyu.edu/tags/golang/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
   </url><url>
     <loc>https://mad.cds.nyu.edu/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url><url>
-    <loc>https://mad.cds.nyu.edu/news/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
   </url><url>
     <loc>https://mad.cds.nyu.edu/tags/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url><url>
-    <loc>https://mad.cds.nyu.edu/news/first/</loc>
-    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
+    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
   </url><url>
     <loc>https://mad.cds.nyu.edu/micsem/</loc>
     <lastmod>2017-03-15T22:37:44-04:00</lastmod>
@@ -83,7 +77,8 @@
     <loc>https://mad.cds.nyu.edu/madplus/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
   </url><url>
-    <loc>https://mad.cds.nyu.edu/about/</loc>
-    <lastmod>2016-12-22T14:29:00-05:00</lastmod>
+    <loc>https://mad.cds.nyu.edu/news/</loc>
+  </url><url>
+    <loc>https://mad.cds.nyu.edu/news/first/</loc>
   </url>
 </urlset>
