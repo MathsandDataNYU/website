@@ -6,7 +6,21 @@
     <description>Recent content in Development on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2017 22:37:44 -0400</lastBuildDate><atom:link href="https://mad.cds.nyu.edu/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
+    
+	<atom:link href="https://mad.cds.nyu.edu/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to the Mad site!</title>
+      <link>https://mad.cds.nyu.edu/news/first/</link>
+      <pubDate>Wed, 11 Sep 2019 14:51:18 -0500</pubDate>
+      
+      <guid>https://mad.cds.nyu.edu/news/first/</guid>
+      <description>The Mad (Math and Data) group was created in fall 2016 by Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant Professors at the Courant Institute and the Center for Data Science.
+We are always in the lookout for highly motivated students interested in understanding and developing the fundamental mathematical structures underpinning modern data analysis, machine learning, deep learning, and their applications.</description>
+    </item>
+    
     <item>
       <title>the MIC Seminar</title>
       <link>https://mad.cds.nyu.edu/micsem/</link>
@@ -24,8 +38,8 @@ Schedule Summer 2020    Date Speaker Title Room     Jul 27, 2pm Surbhi Goel (MSR
       
       <guid>https://mad.cds.nyu.edu/reading/</guid>
       <description>The MaD group hosts semester-long thematic reading groups, which are publicly accessible here.
- Previous Spring 2020 We ran general group meeting on the broad theme of &amp;ldquo;Information Theory, Old and New.&amp;rdquo;
- Information and schedule are available here.  Fall 2019 We ran a general group meeting on the broad theme of &amp;ldquo;statistical and computational tradeoffs in high-dimensional inference.&amp;rdquo;
+Current (Spring 2020) We are running a general group meeting on the broad theme of &amp;ldquo;Information Theory, Old and New.&amp;rdquo;
+ Information and schedule are available here.   Previous Fall 2019 We ran a general group meeting on the broad theme of &amp;ldquo;statistical and computational tradeoffs in high-dimensional inference.&amp;rdquo;
  Information and schedule are available here.  Spring 2019 We organized three working groups on different topics:</description>
     </item>
     
@@ -68,7 +82,7 @@ Xi Chen Assistant Professor, IOMS, Stern School.</description>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
       <guid>https://mad.cds.nyu.edu/people/phds/</guid>
-      <description>PhD Students  Brett Bernstein (Sept 2014 - )   David Brandfonbrener (Sept 2018 - )   Zhengdao Chen (Sept 2018 - )   Carles Domingo (Sept 2019 - )   Samy Jelassi (Sept 2018 - )   Aakash Kaku (Sept 2019 - )   Tim Kunisky (Sept 2017 - )   Sheng Liu (Sept 2019 - )   Kangning Liu (Sept 2019 - )   Sreyas Mohan (Sept 2018 - )   Karl Otness (Sept 2019 - )   Cinjon Resnick (Sept 2017 - )   Min Jae Song (Sept 2018 - )   Luca Venturi (Sept 2017 - )   Francis Williams (Sept 2018 - )   Aaron Zweig (Sept 2018 - )   MsC Students  Lei Chen (Sept 2018 - )  </description>
+      <description>PhD Students  Brett Bernstein (Sept 2014 - )   David Brandfonbrener (Sept 2018 - )   Zhengdao Chen (Sept 2018 - )   Carles Domingo (Sept 2019 - )   Samy Jelassi (Sept 2018 - )   Aakash Kaku (Sept 2019 - )   Tim Kunisky (Sept 2017 - )   Sheng Liu (Sept 2019 - )   Kangning Liu (Sept 2019 - )   Sreyas Mohan (Sept 2018 - )   Karl Otness (Sept 2019 - )   Cinjon Resnick (Sept 2017 - )   Min Jae Song (Sept 2018 - )   Aaron Zweig (Sept 2018 - )   Lei Chen (Sept 2019 - )   Alumni Francis Williams (Sept 2018 - 2021, now NVIDIA)   Luca Venturi (Sept 2017 - 2021, now Facebook)   </description>
     </item>
     
     <item>
@@ -205,16 +219,6 @@ Schedule with Confirmed Speakers    Date Speaker Title     Feb 21 Jeffrey Pennin
       
       <guid>https://mad.cds.nyu.edu/madplus/</guid>
       <description>We are excited to announce the MaD+ (math and data plus) seminar, jointly organized between NYU and ETH. For the time being it is a virtual seminar series, and depending on logistics and interest potentially evolve to a multi-location seminar once the world returns to normal (with talks hosted in one of the locations, and streamed). The topics will be in line with the physical MaD seminar hosted at the Center for Data Science, which features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to the Mad site!</title>
-      <link>https://mad.cds.nyu.edu/news/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mad.cds.nyu.edu/news/first/</guid>
-      <description>The Mad (Math and Data) group was created in fall 2016 by Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant Professors at the Courant Institute and the Center for Data Science.
-We are always in the lookout for highly motivated students interested in understanding and developing the fundamental mathematical structures underpinning modern data analysis, machine learning, deep learning, and their applications.</description>
     </item>
     
   </channel>
