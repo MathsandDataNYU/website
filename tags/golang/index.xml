@@ -6,11 +6,7 @@
     <description>Recent content in golang on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
-    
-	<atom:link href="https://mad.cds.nyu.edu/tags/golang/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate><atom:link href="https://mad.cds.nyu.edu/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the Mad site!</title>
       <link>https://mad.cds.nyu.edu/news/first/</link>
@@ -38,8 +34,8 @@ Schedule Summer 2020    Date Speaker Title Room     Jul 27, 2pm Surbhi Goel (MSR
       
       <guid>https://mad.cds.nyu.edu/reading/</guid>
       <description>The MaD group hosts semester-long thematic reading groups, which are publicly accessible here.
-Current (Spring 2020) We are running a general group meeting on the broad theme of &amp;ldquo;Information Theory, Old and New.&amp;rdquo;
- Information and schedule are available here.   Previous Fall 2019 We ran a general group meeting on the broad theme of &amp;ldquo;statistical and computational tradeoffs in high-dimensional inference.&amp;rdquo;
+ Previous Spring 2020 We ran general group meeting on the broad theme of &amp;ldquo;Information Theory, Old and New.&amp;rdquo;
+ Information and schedule are available here.  Fall 2019 We ran a general group meeting on the broad theme of &amp;ldquo;statistical and computational tradeoffs in high-dimensional inference.&amp;rdquo;
  Information and schedule are available here.  Spring 2019 We organized three working groups on different topics:</description>
     </item>
     
@@ -115,7 +111,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Oct 14 Florentina Bunea (Cornell)     Oct 21 Tim Roughgarden (Columbia)     Oct 28 Gemma Moran (Columbia)     Nov 4 Yanjun Han (Simons Institute)     Nov 11 Alnur Ali (Stanford)       Schedule Spring 2020</description>
+Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Oct 14 Florentina Bunea (Cornell) Surprises in topic model estimation and new Wasserstein document-distance calculations zoom   Oct 21 Tim Roughgarden (Columbia)     Oct 28 Gemma Moran (Columbia)     Nov 4 Yanjun Han (Simons Institute)     Nov 11 Alnur Ali (Stanford)       Schedule Spring 2020</description>
     </item>
     
     <item>
