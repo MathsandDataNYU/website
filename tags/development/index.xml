@@ -6,7 +6,11 @@
     <description>Recent content in Development on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate><atom:link href="https://mad.cds.nyu.edu/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
+    
+	<atom:link href="https://mad.cds.nyu.edu/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Welcome to the Mad site!</title>
       <link>https://mad.cds.nyu.edu/news/first/</link>
@@ -111,7 +115,7 @@ MaD seminars are recorded and streamed live. Links to the videos are available b
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Oct 14 Florentina Bunea (Cornell) Surprises in topic model estimation and new Wasserstein document-distance calculations recording   Oct 21 Tim Roughgarden (Columbia) Smoothed Analysis of Online Learning    Oct 28 Gemma Moran (Columbia)     Nov 4 Yanjun Han (Simons Institute)     Nov 11 Alnur Ali (Stanford)       Schedule Spring 2020</description>
+Schedule with Confirmed Speakers    Date Speaker Title Live Stream     Oct 14 Florentina Bunea (Cornell) Surprises in topic model estimation and new Wasserstein document-distance calculations recording   Oct 21 Tim Roughgarden (Columbia) Smoothed Analysis of Online Learning zoom   Oct 28 Gemma Moran (Columbia)     Nov 4 Yanjun Han (Simons Institute)     Nov 11 Alnur Ali (Stanford)       Schedule Spring 2020</description>
     </item>
     
     <item>
