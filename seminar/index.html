@@ -3,7 +3,7 @@
 <head>
   <link href="//gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="generator" content="Hugo 0.88.1" />
+  <meta name="generator" content="Hugo 0.96.0" />
 
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -97,6 +97,15 @@
       
          
                 <li>
+                    <a href="/seminar_fall2021/">
+                        
+                        <span>the MAD Seminar Fall 2021</span>
+                    </a>
+                </li>
+        
+      
+         
+                <li>
                     <a href="/madplus/">
                         
                         <span>the MAD&#43; Seminar</span>
@@ -150,28 +159,28 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 </thead>
 <tbody>
 <tr>
-<td>Mar 10</td>
-<td style="text-align:center"><a href="http://sbubeck.com/">Sébastien Bubeck (MSR)</a></td>
-<td style="text-align:center"><a href="#bubeck">Shortest Path Without a Map, but with an Entropic Regularization (online)</a></td>
-<td style="text-align:center"> </td>
-</tr>
-<tr>
 <td>Mar 31</td>
 <td style="text-align:center"><a href="https://www.wisdom.weizmann.ac.il/~ronene/">Ronen Eldan (Weizmann Institute of Science)</a></td>
-<td style="text-align:center">TBA</td>
+<td style="text-align:center"><a href="#eldan">Localization schemes: A framework for the analysis of sampling algorithms</a></td>
+<td style="text-align:center"><a href="https://nyu.zoom.us/j/94332538693">zoom link</a></td>
+</tr>
+<tr>
+<td>Apr 14</td>
+<td style="text-align:center"><a href="http://sbubeck.com/">Sébastien Bubeck (MSR)</a></td>
+<td style="text-align:center"><a href="#bubeck">Shortest Path Without a Map, but with an Entropic Regularization </a></td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
 <td>Apr 21</td>
 <td style="text-align:center"><a href="https://rinafb.github.io/">Rina Foygel Barber (U Chicago)</a></td>
-<td style="text-align:center">TBA</td>
-<td style="text-align:center"></td>
+<td style="text-align:center"><a href="#barber">TBA</a></td>
+<td></td>
 </tr>
 <tr>
-<td>May 4</td>
+<td>May 5</td>
 <td style="text-align:center"><a href="https://math.mit.edu/~nsun/">Nike Sun (MIT)</a></td>
-<td style="text-align:center">TBA</td>
-<td style="text-align:center"></td>
+<td style="text-align:center"><a href="#sun">TBA</a></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -185,21 +194,14 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 <p><a href="https://mathsanddatanyu.github.io/website/seminar_fall2017/">Schedule Fall 2017</a></p>
 <p><a href="https://mathsanddatanyu.github.io/website/seminar_spring2017/">Schedule Spring 2017</a></p>
 <h3 id="abstracts">Abstracts</h3>
-<h4 id="a-namebubeck"><a name='bubeck'></a> Sébastien Bubeck: Shortest Path Without a Map, but with an Entropic Regularization</h4>
+<h4 id="a-nameeldana-ronen-eldan-localization-schemes-a-framework-for-the-analysis-of-sampling-algorithms"><a name='eldan'></a> Ronen Eldan: Localization schemes: A framework for the analysis of sampling algorithms</h4>
+<p>Two recent and seemingly-unrelated techniques for proving mixing bounds for Markov chains are: (i) the framework of “Spectral Independence”, introduced by Anari, Liu and Oveis Gharan, and its numerous extensions, which have given rise to several breakthroughs in the analysis of mixing times of discrete Markov chains and (ii) the Stochastic Localization technique which has proven useful in establishing mixing and expansion bounds for both log-concave measures and for measures on the discrete hypercube. In this talk, I’ll present a framework which aims to both unify and extend those techniques, thus providing an approach that gives bounds for sampling algorithms in both discrete and continuous settings. In its center is the concept of a &ldquo;localization scheme&rdquo; which, to every probability measure on some space $\Omega$ (which will usually be either the discrete hypercube or R^n), assigns a martingale of probability measures which &ldquo;localize&rdquo; in space as time evolves. As it turns out, every such scheme can be associated with a Markov chain, and many chains of interest (such as Glauber dynamics) appear naturally in this framework. This viewpoint provides tools for deriving mixing bounds for the dynamics through the analysis of the corresponding localization process. Generalizations of the concept of Spectral Independence naturally arise from our definitions, and in particular we will show how to recover the main theorems in the spectral independence framework via simple martingale arguments (completely bypassing the need to use the theory of high-dimensional expanders). We demonstrate how to apply our machinery towards simple proofs to many mixing bounds in the recent literature. We will briefly discuss some applications, among which are obtaining the first $O(n \log n)$ bound for mixing time of the hardcore-model (of arbitrary degree) in the tree-uniqueness regime, under Glauber dynamics and to proving a KL-divergence decay bound for log-concave sampling via the Restricted Gaussian Oracle, which achieves optimal mixing under any $\exp(n)$-warm start.</p>
+<p>Based on a joint work with Yuansi Chen.</p>
+<h4 id="a-namebubecka-sébastien-bubeck-shortest-path-without-a-map-but-with-an-entropic-regularization"><a name='bubeck'></a> Sébastien Bubeck: Shortest Path Without a Map, but with an Entropic Regularization</h4>
 <p>In 1989, a paper titled Shortest Path Without a Map, Papadimitriou and Yannakakis introduced a simple model of search under uncertainty: find the shortest path in an unknown​ graph that is being revealed sequentially (think of a robot exploring an unknown environment). Rather quickly it was shown that the competitive ratio for this problem is polynomial in the size k of the revealed neighborhoods. Namely, in 1993, Ramesh showed that the optimal competitive ratio is between k^2 and k^13. Progress on this problem stopped there, despite many advances in related questions in the last 3 decades (e.g., k-server, metrical task systems). In this talk I will present an optimal k^2 algorithm based on the mirror descent framework. At a high level the key technical innovation is the use of a time-evolving mirror map to represent the geometry of the space that is being discovered.</p>
 <p>Joint work with Christian Coester and Yuval Rabani.</p>
-
-<!--
-#### <a name='gilbert'></a> Anna Gilbert: Metric representations: Algorithms and Geometry, *Wednesday, Nov 3, 4:30 pm, 7th Floor Open Space, 60 5th Avenue*
-
-Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we focus on 3 specific metric constrained problems, a class of optimization problems with metric constraints: metric nearness (Brickell et al. (2008)), weighted correlation clustering on general graphs (Bansal et al. (2004)), and metric learning (Bellet et al. (2013); Davis et al. (2007)). 
-
-Because of the large number of constraints in these problems, however, these and other researchers have been forced to restrict either the kinds of metrics learned or the size of the problem that can be solved. We provide an algorithm, PROJECT AND FORGET, that uses Bregman projections with cutting planes, to solve metric constrained problems with many (possibly exponentially) inequality constraints. We also prove that our algorithm converges to the global optimal solution. Additionally, we show that the optimality error decays asymptotically at an exponential rate. We show that using our method we can solve large problem instances of three types of metric constrained problems, out-performing all state of the art methods with respect to CPU times and problem sizes. 
-
-Finally, we discuss the adaptation of PROJECT AND FORGET to specific types of metric constraints, namely tree and hyperbolic metrics.
-
--->
-
+<h4 id="a-namebarbera-rina-foygel-barber--tba"><a name='barber'></a> Rina Foygel Barber:  TBA</h4>
+<h4 id="a-namesuna-nike-sun--tba"><a name='sun'></a> Nike Sun:  TBA</h4>
 
 </div>
 
