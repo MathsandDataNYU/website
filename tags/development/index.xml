@@ -114,19 +114,6 @@ Subscribe to the Seminar Mailing list here</description>
     </item>
     
     <item>
-      <title>the MAD Seminar</title>
-      <link>https://mad.cds.nyu.edu/seminar_spring2022/</link>
-      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
-      
-      <guid>https://mad.cds.nyu.edu/seminar_spring2022/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
-We have resumed in-person MaD seminars. The seminars are also recorded and streamed live. Links to the videos are available below.
-Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
-Time: 2:00pm-3:00pm
-Subscribe to the Seminar Mailing list here</description>
-    </item>
-    
-    <item>
       <title>the MaD Seminar Fall 2017</title>
       <link>https://mad.cds.nyu.edu/seminar_fall2017/</link>
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
@@ -218,6 +205,19 @@ Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm, Reception will follow.
 Subscribe to the Seminar Mailing list here
 Schedule with Confirmed Speakers Date Speaker Title Live Stream Jan 23 Paromita Dubey (UC Davis) Fréchet Change Point Detection Jan 30 Yaniv Romano (Stanford) Reliability, Equity, and Reproducibility in Modern Machine Learning video Feb 6 Kaizheng Wang (Princeton) Latent variable models: spectral methods and non-convex optimization Feb 13 Laure Zanna (NYU) Blending machine learning and physics to improve climate modeling Feb 20 Yash Deshpande (MIT) Two problems in modern statistical inference video Feb 27 Rebecca Willett (UChicago) Learning to Solve Inverse Problems in Imaging video Mar 5 Stefanie Jegelka (MIT) Representation and Learning in Graph Neural Networks video Schedule Fall 2019</description>
+    </item>
+    
+    <item>
+      <title>the MAD Seminar Spring 2022</title>
+      <link>https://mad.cds.nyu.edu/seminar_spring2022/</link>
+      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
+      
+      <guid>https://mad.cds.nyu.edu/seminar_spring2022/</guid>
+      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
+We have resumed in-person MaD seminars. The seminars are also recorded and streamed live. Links to the videos are available below.
+Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
+Time: 2:00pm-3:00pm
+Subscribe to the Seminar Mailing list here</description>
     </item>
     
     <item>
