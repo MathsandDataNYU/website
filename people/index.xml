@@ -22,12 +22,13 @@
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
       <guid>https://mad.cds.nyu.edu/people/corefaculty/</guid>
-      <description>Core  Joan Bruna Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).
- Carlos Fernandez-Granda Assistant Professor, Department of Mathematics and Center for Data Science.
- Julia Kempe Professor, Department of Mathematics, Computer Science and Center for Data Science.
- Jonathan Niles-Weed Assistant Professor, Department of Mathematics and Center for Data Science.
- Afiliated Gerard Ben Arous Professor, Mathematics, Courant Institute.
-Xi Chen Assistant Professor, IOMS, Stern School.</description>
+      <description>Core Joan Bruna Assistant Professor, Department of Computer Science, Center for Data Science and Mathematics (affiliated).
+Carlos Fernandez-Granda Assistant Professor, Department of Mathematics and Center for Data Science.
+Julia Kempe Professor, Department of Mathematics, Computer Science and Center for Data Science.
+Jonathan Niles-Weed Assistant Professor, Department of Mathematics and Center for Data Science.
+Afiliated Gerard Ben Arous Professor, Mathematics, Courant Institute.
+Xi Chen Assistant Professor, IOMS, Stern School.
+Sinan Gunturk Professor, Department of Mathematics, Courant Institute.</description>
     </item>
     
     <item>
@@ -36,7 +37,7 @@ Xi Chen Assistant Professor, IOMS, Stern School.</description>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
       <guid>https://mad.cds.nyu.edu/people/phds/</guid>
-      <description>PhD Students  Brett Bernstein (Sept 2014 - )   David Brandfonbrener (Sept 2018 - )   Zhengdao Chen (Sept 2018 - )   Carles Domingo (Sept 2019 - )   Samy Jelassi (Sept 2018 - )   Aakash Kaku (Sept 2019 - )   Tim Kunisky (Sept 2017 - )   Sheng Liu (Sept 2019 - )   Kangning Liu (Sept 2019 - )   Sreyas Mohan (Sept 2018 - )   Karl Otness (Sept 2019 - )   Cinjon Resnick (Sept 2017 - )   Min Jae Song (Sept 2018 - )   Aaron Zweig (Sept 2018 - )   Lei Chen (Sept 2019 - )   Alumni Francis Williams (Sept 2018 - 2021, now NVIDIA)   Luca Venturi (Sept 2017 - 2021, now Facebook)   </description>
+      <description>PhD Students Brett Bernstein (Sept 2014 - ) David Brandfonbrener (Sept 2018 - ) Zhengdao Chen (Sept 2018 - ) Carles Domingo (Sept 2019 - ) Samy Jelassi (Sept 2018 - ) Aakash Kaku (Sept 2019 - ) Tim Kunisky (Sept 2017 - ) Sheng Liu (Sept 2019 - ) Kangning Liu (Sept 2019 - ) Sreyas Mohan (Sept 2018 - ) Karl Otness (Sept 2019 - ) Cinjon Resnick (Sept 2017 - ) Min Jae Song (Sept 2018 - ) Aaron Zweig (Sept 2018 - ) Lei Chen (Sept 2019 - ) Alumni Francis Williams (Sept 2018 - 2021, now NVIDIA) Luca Venturi (Sept 2017 - 2021, now Facebook) </description>
     </item>
     
     <item>
@@ -45,8 +46,7 @@ Xi Chen Assistant Professor, IOMS, Stern School.</description>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
       <guid>https://mad.cds.nyu.edu/people/postdocs/</guid>
-      <description>Yossi Arjevani (Sept 2019 - ) Postdoc, Center for Data Science; optimization, machine learning.
- #### [L&amp;#233;o Miolane](https://leomiolane.github.io/) (Sept 2019 - ) Postdoc, Department of Mathematics and Center for Data Science; probability, statistics.  #### [Qing Qu](https://qingqu06.github.io/) (Sept 2018 - ) CDS Moore-Sloan Fellow; signal processing, machine learning, optimization.  #### [Grant Rotskoff](https://cims.nyu.edu/~rotskoff/index.html) (Sept 2017 - ) Postdoc, Courant Institute; statistical mechanics, machine learning.  #### [Matthew Trager](https://www.matthewtrager.com) (Sept 2018 - ) Postdoc, Center for Data Science; algebraic geometry, deep learning.</description>
+      <description>Yossi Arjevani (Sept 2019 - ) Postdoc, Center for Data Science; optimization, machine learning.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ Xi Chen Assistant Professor, IOMS, Stern School.</description>
       <pubDate>Thu, 22 Dec 2016 14:48:45 -0500</pubDate>
       
       <guid>https://mad.cds.nyu.edu/people/miscpeople/</guid>
-      <description>Visitors  Past members Afonso Bandeira Shuyang Ling Augustin Cosse </description>
+      <description>Visitors Past members Afonso Bandeira Shuyang Ling Augustin Cosse </description>
     </item>
     
   </channel>
