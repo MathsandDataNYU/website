@@ -3,7 +3,7 @@
 <head>
   <link href="//gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="generator" content="Hugo 0.96.0" />
+  <meta name="generator" content="Hugo 0.68.3" />
 
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -142,48 +142,48 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 <table>
 <thead>
 <tr>
-<th style="text-align:center">Date</th>
-<th style="text-align:center">Speaker</th>
-<th style="text-align:center">Title</th>
-<th style="text-align:center">Recording</th>
+<th align="center">Date</th>
+<th align="center">Speaker</th>
+<th align="center">Title</th>
+<th align="center">Recording</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">September 15</td>
-<td style="text-align:center"><a href="https://www.mit.edu/~jasonalt/">Jason Altschuler (NYU)</a></td>
-<td style="text-align:center"><a href="#altschuler">Privacy of Noisy SGD</a></td>
-<td style="text-align:center"></td>
+<td align="center">September 15</td>
+<td align="center"><a href="https://www.mit.edu/~jasonalt/">Jason Altschuler (NYU)</a></td>
+<td align="center"><a href="#altschuler">Privacy of Noisy SGD</a></td>
+<td align="center"></td>
 </tr>
 <tr>
-<td style="text-align:center">September 22</td>
-<td style="text-align:center"><a href="https://cecilialeiqi.github.io/">Qi Lei (NYU)</a></td>
-<td style="text-align:center"><a href="#lei">Optimal Gradient-based Algorithms for Non-concave Bandit Optimization</a></td>
-<td style="text-align:center"></td>
+<td align="center">September 22</td>
+<td align="center"><a href="https://cecilialeiqi.github.io/">Qi Lei (NYU)</a></td>
+<td align="center"><a href="#lei">Optimal Gradient-based Algorithms for Non-concave Bandit Optimization</a></td>
+<td align="center"></td>
 </tr>
 <tr>
-<td style="text-align:center">September 28 <strong>special date</strong></td>
-<td style="text-align:center">Nati Srebro (TTIC)</td>
-<td style="text-align:center">TBA</td>
-<td style="text-align:center"></td>
+<td align="center">September 28 <strong>special date</strong></td>
+<td align="center"><a href="https://nati.ttic.edu/">Nati Srebro (TTIC)</a></td>
+<td align="center"><a href="#nati">Learning by Overfitting: A Statistical Learning View on Benign Overfitting</a></td>
+<td align="center"></td>
 </tr>
 <tr>
-<td style="text-align:center">October 6</td>
-<td style="text-align:center">Boris Hanin (Princeton)</td>
-<td style="text-align:center">TBA</td>
-<td style="text-align:center"></td>
+<td align="center">October 6</td>
+<td align="center">Boris Hanin (Princeton)</td>
+<td align="center">TBA</td>
+<td align="center"></td>
 </tr>
 <tr>
-<td style="text-align:center">November 3</td>
-<td style="text-align:center">Anna Gilbert (Yale)</td>
-<td style="text-align:center">TBA</td>
-<td style="text-align:center"></td>
+<td align="center">November 3</td>
+<td align="center">Anna Gilbert (Yale)</td>
+<td align="center">TBA</td>
+<td align="center"></td>
 </tr>
 <tr>
-<td style="text-align:center">December 1</td>
-<td style="text-align:center">Soledad Villar (Johns Hopkins University)</td>
-<td style="text-align:center">TBA</td>
-<td style="text-align:center"></td>
+<td align="center">December 1</td>
+<td align="center">Soledad Villar (Johns Hopkins University)</td>
+<td align="center">TBA</td>
+<td align="center"></td>
 </tr>
 </tbody>
 </table>
@@ -204,6 +204,9 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 <p>Joint work with Kunal Talwar</p>
 <h4 id="a-nameleia-qi-lei-optimal-gradient-based-algorithms-for-non-concave-bandit-optimization"><a name='lei'></a> Qi Lei: Optimal Gradient-based Algorithms for Non-concave Bandit Optimization</h4>
 <p>Bandit problems with linear or concave reward have been extensively studied, but relatively few works have studied bandits with non-concave reward. In this talk, we consider a large family of bandit problems where the unknown underlying reward function is non-concave, including the low-rank generalized linear bandit problems and two-layer neural network with polynomial activation bandit problem. For the low-rank generalized linear bandit problem, we provide a minimax-optimal algorithm in the dimension, refuting both conjectures in (Lu et al. 2021) and (Jun et al. 2019). Our algorithms are based on a unified zeroth-order optimization paradigm that applies in great generality and attains optimal rates in several structured polynomial settings (in the dimension). We further demonstrate the applicability of our algorithms in RL in the generative model setting, resulting in improved sample complexity over prior approaches. Finally, we show that the standard optimistic algorithms (e.g., UCB) are sub-optimal by dimension factors. In the neural net setting (with polynomial activation functions) with noiseless reward, we provide a bandit algorithm with sample complexity equal to the intrinsic algebraic dimension. Again, we show that optimistic approaches have worse sample complexity, polynomial in the extrinsic dimension (which could be exponentially worse in the polynomial degree).</p>
+<h4 id="a-namenatia-nati-srebro-learning-by-overfitting-a-statistical-learning-view-of-benign-overfitting"><a name='nati'></a> Nati Srebro: Learning by Overfitting: A Statistical Learning view of Benign Overfitting</h4>
+<p>The classic view of statistical learning tells us that we should balance model fit with model complexity instead of insisting on training error that&rsquo;s much lower than what we can expect to generalize to, or even lower than the noise level or Bayes error.  And that this balance, and control on model complexity ensures good generalization.  But in recent years we have seen that in many situations we can learn and generalize without such a balance, and despite (over?) fitting the training set well below the noise level.  This has caused us to rethink the basic principles underlying statistical learning theory.  In this talk I will discuss how much of our theory we can salvage and how much of it needs to be revised, focusing on the role of uniform convergence in understanding interpolation learning.</p>
+<p>Based on joint work with Lijia Zhou, Fred Koehler, Danica Sutherland and Pragya Sur</p>
 
 </div>
 
