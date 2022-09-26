@@ -180,6 +180,12 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 <td></td>
 </tr>
 <tr>
+<td style="text-align:center">October 27</td>
+<td style="text-align:center"><a href="https://www.math.uci.edu/~jxin/">Jack Xin (UCI)</a></td>
+<td style="text-align:center"><a href="#xin">DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods</a></td>
+<td></td>
+</tr>
+<tr>
 <td style="text-align:center">November 3</td>
 <td style="text-align:center">Anna Gilbert (Yale)</td>
 <td style="text-align:center">TBA</td>
@@ -221,6 +227,29 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 <p>Based on joint work with Lijia Zhou, Fred Koehler, Danica Sutherland and Pragya Sur</p>
 <h4 id="a-nameborisa-boris-hanin-exact-solutions-to-bayesian-interpolation-with-deep-linear-networks"><a name='boris'></a> Boris Hanin: Exact Solutions to Bayesian Interpolation with Deep Linear Networks</h4>
 <p>This talk concerns Bayesian interpolation with an overparameterized linear neural networks (products of matrices) with quadratic log-likelihood and Gaussian prior on model parameters. I will present ongoing work, joint with Alexander Zlokapa (MIT Physics), in which we obtain an exact representation - in terms of special functions known as Meijer G-functions - for the posterior distribution of the predictor which holds for any fixed choice of input dimension, layer widths, depth, and number of training datapoints. Analyzing these expressions reveals that at finite depth, in the limit of infinite width and number of datapoints, networks are never Bayes optimal. However, in the triple scaling limit of large number of datapoint, width, and depththe posterior becomes independent of the prior and is the same as the Bayes optimal predictor at finite depth. In particular, at infinite depth, the prior does not need to be fine-tuned to achieve optimality, either in the Bayesian or the L_2-sense.</p>
+<h4 id="a-namexina-jack-xin-deepparticle-learning-multiscale-pdes-by-minimizing-wasserstein-distance-on-data-generated-from-interacting-particle-methods"><a name='xin'></a> Jack Xin: DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods</h4>
+<p>Multiscale time dependent partial differential equations (PDE) are challenging to compute by traditional mesh based methods especially when their solutions develop large gradients or concentrations at unknown locations. Particle methods, based on microscopic aspects of the PDEs, are mesh free and self-adaptive, yet still expensive when a
+long time or a resolved computation is necessary.</p>
+<p>We present DeepParticle, an integrated deep learning, optimal transport (OT), and interacting particle (IP) approach, to speed up
+generation and prediction of PDE dynamics of interest through two case studies.
+One is on large time front speeds of Fisher-Kolmogorov-Petrovsky-Piskunov equation (FKPP) modeling flames in fluid flows with chaotic streamlines; the other is
+on a Keller-Segel (KS) chemotaxis system modeling bacteria evolution in fluid flows
+in the presence of a chemical attractant.</p>
+<p>Analysis of FKPP reduces the problem to a computation of principal eigenvalue of
+an advection-diffusion operator. A normalized Feynman-Kac representation
+makes possible a genetic IP algorithm that
+evolves the initial uniform particle distribution to a large time invariant measure
+from which to extract the front speeds. The invariant measure is parameterized
+by a physical parameter (the Peclet number). We train a
+light weight deep neural network with local and global skip connections to learn this family of invariant measures. The training data come from affordable IP computation in three dimensions at a few sample Peclet numbers. The training objective being minimized
+is a discrete Wasserstein distance in OT theory. The trained network predicts a more concentrated invariant measure at a larger Peclet number
+and also serves as a warm start to accelerate IP computation.</p>
+<p>The KS is formulated as a McKean-Vlasov equation (macroscopic limit) of
+a stochastic IP system. The DeepParticle framework extends and
+learns to generate finite time bacterial aggregation patterns
+in three dimensional laminar and chaotic flows.</p>
+<p>Joint work with Zhongjian Wang (University of Chicago)
+and Zhiwen Zhang (University of Hong Kong).</p>
 
 </div>
 
