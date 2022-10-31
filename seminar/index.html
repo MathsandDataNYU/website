@@ -3,7 +3,7 @@
 <head>
   <link href="//gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="generator" content="Hugo 0.104.3" />
+  <meta name="generator" content="Hugo 0.96.0" />
 
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -193,8 +193,8 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 </tr>
 <tr>
 <td style="text-align:center">November 3</td>
-<td style="text-align:center">Anna Gilbert (Yale)</td>
-<td style="text-align:center">TBA</td>
+<td style="text-align:center"><a href="https://annacgilbert.github.io/">Anna Gilbert (Yale)</a></td>
+<td style="text-align:center"><a href="#anna">Metric representations: Algorithms and Geometry</a></td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
@@ -241,28 +241,30 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 <p>Joint work with Steven Yin (Columbia) and
 Assaf Zeevi (Columbia)</p>
 <h4 id="a-namexina-jack-xin-deepparticle-learning-multiscale-pdes-by-minimizing-wasserstein-distance-on-data-generated-from-interacting-particle-methods"><a name='xin'></a> Jack Xin: DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods</h4>
-<p>Multiscale time dependent partial differential equations (PDE) are challenging to compute by traditional mesh based methods especially when their solutions develop large gradients or concentrations at unknown locations. Particle methods, based on microscopic aspects of the PDEs, are mesh free and self-adaptive, yet still expensive when a 
+<p>Multiscale time dependent partial differential equations (PDE) are challenging to compute by traditional mesh based methods especially when their solutions develop large gradients or concentrations at unknown locations. Particle methods, based on microscopic aspects of the PDEs, are mesh free and self-adaptive, yet still expensive when a
 long time or a resolved computation is necessary.</p>
-<p>We present DeepParticle, an integrated deep learning, optimal transport (OT), and interacting particle (IP) approach, to speed up 
-generation and prediction of PDE dynamics of interest through two case studies. 
-One is on large time front speeds of Fisher-Kolmogorov-Petrovsky-Piskunov equation (FKPP) modeling flames in fluid flows with chaotic streamlines; the other is 
-on a Keller-Segel (KS) chemotaxis system modeling bacteria evolution in fluid flows 
+<p>We present DeepParticle, an integrated deep learning, optimal transport (OT), and interacting particle (IP) approach, to speed up
+generation and prediction of PDE dynamics of interest through two case studies.
+One is on large time front speeds of Fisher-Kolmogorov-Petrovsky-Piskunov equation (FKPP) modeling flames in fluid flows with chaotic streamlines; the other is
+on a Keller-Segel (KS) chemotaxis system modeling bacteria evolution in fluid flows
 in the presence of a chemical attractant.</p>
-<p>Analysis of FKPP reduces the problem to a computation of principal eigenvalue of 
-an advection-diffusion operator. A normalized Feynman-Kac representation 
-makes possible a genetic IP algorithm that 
-evolves the initial uniform particle distribution to a large time invariant measure 
-from which to extract the front speeds. The invariant measure is parameterized 
-by a physical parameter (the Peclet number). We train a 
-light weight deep neural network with local and global skip connections to learn this family of invariant measures. The training data come from affordable IP computation in three dimensions at a few sample Peclet numbers. The training objective being minimized 
-is a discrete Wasserstein distance in OT theory. The trained network predicts a more concentrated invariant measure at a larger Peclet number 
+<p>Analysis of FKPP reduces the problem to a computation of principal eigenvalue of
+an advection-diffusion operator. A normalized Feynman-Kac representation
+makes possible a genetic IP algorithm that
+evolves the initial uniform particle distribution to a large time invariant measure
+from which to extract the front speeds. The invariant measure is parameterized
+by a physical parameter (the Peclet number). We train a
+light weight deep neural network with local and global skip connections to learn this family of invariant measures. The training data come from affordable IP computation in three dimensions at a few sample Peclet numbers. The training objective being minimized
+is a discrete Wasserstein distance in OT theory. The trained network predicts a more concentrated invariant measure at a larger Peclet number
 and also serves as a warm start to accelerate IP computation.</p>
-<p>The KS is formulated as a McKean-Vlasov equation (macroscopic limit) of 
-a stochastic IP system. The DeepParticle framework extends and 
-learns to generate finite time bacterial aggregation patterns 
+<p>The KS is formulated as a McKean-Vlasov equation (macroscopic limit) of
+a stochastic IP system. The DeepParticle framework extends and
+learns to generate finite time bacterial aggregation patterns
 in three dimensional laminar and chaotic flows.</p>
-<p>Joint work with Zhongjian Wang (University of Chicago) 
+<p>Joint work with Zhongjian Wang (University of Chicago)
 and Zhiwen Zhang (University of Hong Kong).</p>
+<h4 id="a-nameannaa-anna-gilbert-metric-representations-algorithms-and-geometry"><a name='anna'></a> Anna Gilbert: Metric representations: Algorithms and Geometry</h4>
+<p>Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we discuss a number of variants of this problem, from convex optimization problems with metric constraints to sparse metric repair.</p>
 
 </div>
 
