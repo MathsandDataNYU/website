@@ -198,6 +198,12 @@ of Applied Mathematics, Statistics and Machine Learning. It is partly supported 
 <td align="center"></td>
 </tr>
 <tr>
+<td align="center">November 9 <strong>special date</strong></td>
+<td align="center"><a href="https://www.mit.edu/~parrilo/">Pablo Parrilo (MIT)</a></td>
+<td align="center"><a href="#pablo">Shortest Paths in Graphs of Convex Sets, and their Applications</a></td>
+<td></td>
+</tr>
+<tr>
 <td align="center">November 10</td>
 <td align="center">Arthur Jacot (NYU)</td>
 <td align="center">TBA</td>
@@ -271,6 +277,9 @@ in three dimensional laminar and chaotic flows.</p>
 and Zhiwen Zhang (University of Hong Kong).</p>
 <h4 id="a-nameannaa-anna-gilbert-metric-representations-algorithms-and-geometry"><a name='anna'></a> Anna Gilbert: Metric representations: Algorithms and Geometry</h4>
 <p>Given a set of distances amongst points, determining what metric representation is most “consistent” with the input distances or the metric that best captures the relevant geometric features of the data is a key step in many machine learning algorithms. In this talk, we discuss a number of variants of this problem, from convex optimization problems with metric constraints to sparse metric repair.</p>
+<h4 id="a-namepabloa-pablo-parrilo-shortest-paths-in-graphs-of-convex-sets-and-their-applications"><a name='pablo'></a> Pablo Parrilo: Shortest Paths in Graphs of Convex Sets, and their Applications</h4>
+<p>Given a graph, the shortest-path problem requires finding a sequence of edges of minimum cost connecting a source vertex to a target vertex. In this talk we introduce a generalization of this classical problem in which the position of each vertex in the graph is a continuous decision variable, constrained to lie in a corresponding convex set, and the cost of an edge is a convex function of the positions of the vertices it connects. Problems of this form arise naturally in motion planning of autonomous vehicles, robot navigation, and even optimal control of hybrid dynamical systems. The price for such a wide applicability is the complexity of this problem, which is easily seen to be NP-hard. We discuss this novel formulation along with different solution approaches, including a strong mixed-integer convex formulation based on perspective functions. This formulation has a very tight convex relaxation and makes it possible to efficiently find globally-optimal paths in large graphs and in high-dimensional spaces.</p>
+<p>Based on joint work with Tobia Marcucci, Jack Umenberger and Russ Tedrake (MIT).</p>
 <h4 id="a-nametheodora-theodor-misiakiewicz-learning-sparse-functions-with-sgd-on-neural-networks-in-high-dimension"><a name='theodor'></a> Theodor Misiakiewicz: Learning sparse functions with SGD on neural networks in high-dimension</h4>
 <p>Abstract: Major research activity has recently been devoted to understanding what function classes can be learned by SGD on neural networks. Two extreme parametrizations are relatively well understood: neural networks in the linear regime, and neural networks with no structural constraints. However, for the main parametrization of interest —non-linear but regular networks— no general characterization has yet been achieved. Such networks are known to go beyond linear learning and seem to exploit structure of the target functions in order to efficiently build their features.</p>
 <p>In this talk, we take a step in this direction by considering learning sparse functions (a function that depends on a latent low-dimensional subspace) with SGD on two-layer neural networks. We identify a structural property —small-leap staircase—  which allows for efficient learning in this setting, and provide evidence for its necessity and sufficiency. For small-leap staircases, SGD sequentially learns the sparse support, using low-degree monomials to reach higher-degree monomials. We characterize tightly the number of SGD steps to align to each new monomial, and show how a saddle-to-saddle dynamics emerges naturally in this setting. In particular, this work illustrates how non-linear training of neural networks can perform hierarchical learning and vastly outperform fixed-feature methods.</p>
