@@ -6,7 +6,11 @@
     <description>Recent content in Development on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate><atom:link href="https://mad.cds.nyu.edu/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
+    
+	<atom:link href="https://mad.cds.nyu.edu/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Welcome to the Mad site!</title>
       <link>https://mad.cds.nyu.edu/news/first/</link>
@@ -111,7 +115,7 @@ We have resumed in-person MaD seminars. The seminars are also recorded. Links to
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title Recording     September 15 Jason Altschuler (NYU) Privacy of Noisy SGD    September 22 Qi Lei (NYU) Optimal Gradient-based Algorithms for Non-concave Bandit Optimization    September 28 special date Nati Srebro (TTIC) Learning by Overfitting: A Statistical Learning View on Benign Overfitting    October 6 Boris Hanin (Princeton) Exact Solutions to Bayesian Interpolation with Deep Linear Networks    October 13 Quentin Berthet (Google) Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm    October 20 Shipra Agrawal (Columbia) Dynamic Pricing and Learning under the Bass Model Link Passcode: yG%*7ekY   October 27 Jack Xin (UCI) DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods    November 3 Anna Gilbert (Yale) Metric representations: Algorithms and Geometry    November 9 special date and time 4pm Pablo Parrilo (MIT) Shortest Paths in Graphs of Convex Sets, and their Applications    November 10 Arthur Jacot (NYU) TBA    November 11 special date and time 11am Theodor Misiakiewicz (Stanford) Learning sparse functions with SGD on neural networks in high-dimension    December 1 Soledad Villar (Johns Hopkins University) TBA      Schedule Spring 2022</description>
+Schedule with Confirmed Speakers    Date Speaker Title Recording     September 15 Jason Altschuler (NYU) Privacy of Noisy SGD    September 22 Qi Lei (NYU) Optimal Gradient-based Algorithms for Non-concave Bandit Optimization    September 28 special date Nati Srebro (TTIC) Learning by Overfitting: A Statistical Learning View on Benign Overfitting    October 6 Boris Hanin (Princeton) Exact Solutions to Bayesian Interpolation with Deep Linear Networks    October 13 Quentin Berthet (Google) Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm    October 20 Shipra Agrawal (Columbia) Dynamic Pricing and Learning under the Bass Model Link Passcode: yG%*7ekY   October 27 Jack Xin (UCI) DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods    November 3 Anna Gilbert (Yale) Metric representations: Algorithms and Geometry    November 9 special date and time 4pm Pablo Parrilo (MIT) Shortest Paths in Graphs of Convex Sets, and their Applications    November 10 Arthur Jacot (NYU) Implicit Bias of Large Depth Networks: the Bottleneck Rank    November 11 special date and time 11am Theodor Misiakiewicz (Stanford) Learning sparse functions with SGD on neural networks in high-dimension    December 1 Soledad Villar (Johns Hopkins University) TBA      Schedule Spring 2022</description>
     </item>
     
     <item>
