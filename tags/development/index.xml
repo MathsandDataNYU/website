@@ -6,11 +6,7 @@
     <description>Recent content in Development on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
-    
-	<atom:link href="https://mad.cds.nyu.edu/tags/development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate><atom:link href="https://mad.cds.nyu.edu/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the Mad site!</title>
       <link>https://mad.cds.nyu.edu/news/first/</link>
@@ -111,11 +107,24 @@ Schedule Fall 2022    Date Speaker Title Room     October 3, 2pm Ilias Zadik (MI
       
       <guid>https://mad.cds.nyu.edu/seminar/</guid>
       <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
+Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
+Time: 2:00pm-3:00pm
+Subscribe to the Seminar Mailing list here
+Schedule with Confirmed Speakers    Date Speaker Title     February 9 Cynthia Rush (Columbia) Exact Asymptotics with Approximate Message Passing and a Study of the Type 1-Type 2 Error Trade-off for SLOPE   February 16 Sarah Dean    February 23 Brice Ménard    March 2 Andre Wibisono    March 16 Maxim Raginski    March 23 Jose Blanchet    March 30 Jason Lee    April 6 Surbhi Goel    April 13 Lenka Zdeborova    April 27 Jean Ponce      Schedule Fall 2022</description>
+    </item>
+    
+    <item>
+      <title>the MAD Seminar</title>
+      <link>https://mad.cds.nyu.edu/seminar_fall2022/</link>
+      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
+      
+      <guid>https://mad.cds.nyu.edu/seminar_fall2022/</guid>
+      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
 We have resumed in-person MaD seminars. The seminars are also recorded. Links to the videos are available below.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title Recording     September 15 Jason Altschuler (NYU) Privacy of Noisy SGD    September 22 Qi Lei (NYU) Optimal Gradient-based Algorithms for Non-concave Bandit Optimization    September 28 special date Nati Srebro (TTIC) Learning by Overfitting: A Statistical Learning View on Benign Overfitting    October 6 Boris Hanin (Princeton) Exact Solutions to Bayesian Interpolation with Deep Linear Networks    October 13 Quentin Berthet (Google) Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm    October 20 Shipra Agrawal (Columbia) Dynamic Pricing and Learning under the Bass Model Link Passcode: yG%*7ekY   October 27 Jack Xin (UCI) DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods    November 3 Anna Gilbert (Yale) Metric representations: Algorithms and Geometry    November 9 special date and time 4pm Pablo Parrilo (MIT) Shortest Paths in Graphs of Convex Sets, and their Applications    November 10 Arthur Jacot (NYU) Implicit Bias of Large Depth Networks: the Bottleneck Rank    November 11 special date and time 11am Theodor Misiakiewicz (Stanford) Learning sparse functions with SGD on neural networks in high-dimension    November 17 Bharath Sriperumbudur (Penn State) Regularized Stein Variational Gradient Flow    December 1 Soledad Villar (Johns Hopkins University) TBA      Schedule Spring 2022</description>
+Schedule with Confirmed Speakers    Date Speaker Title Recording     September 15 Jason Altschuler (NYU) Privacy of Noisy SGD    September 28 special date Nati Srebro (TTIC) Learning by Overfitting: A Statistical Learning View on Benign Overfitting    October 6 Boris Hanin (Princeton) Exact Solutions to Bayesian Interpolation with Deep Linear Networks    October 13 Quentin Berthet (Google) Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm    October 20 Shipra Agrawal (Columbia) Dynamic Pricing and Learning under the Bass Model Link Passcode: yG%*7ekY   October 27 Jack Xin (UCI) DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods    November 3 Anna Gilbert (Yale) Metric representations: Algorithms and Geometry    November 9 special date and time 4pm Pablo Parrilo (MIT) Shortest Paths in Graphs of Convex Sets, and their Applications    November 10 Arthur Jacot (NYU) Implicit Bias of Large Depth Networks: the Bottleneck Rank    November 11 special date and time 11am Theodor Misiakiewicz (Stanford) Learning sparse functions with SGD on neural networks in high-dimension    November 17 Bharath Sriperumbudur (Penn State) Regularized Stein Variational Gradient Flow    December 1 Soledad Villar (Johns Hopkins University) Random graph models and graph neural networks    December 8 Qi Lei (NYU) Reconstructing Training Data from Model Gradient, Provably      Schedule Spring 2022</description>
     </item>
     
     <item>

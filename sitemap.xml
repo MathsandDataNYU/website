@@ -1,150 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mad.cds.nyu.edu/categories/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/tags/development/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/categories/development/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/categories/golang/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/tags/golang/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://mad.cds.nyu.edu/</loc>
+    <lastmod>2019-09-11T14:51:18-05:00</lastmod>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/news/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/tags/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/news/first/</loc>
     <lastmod>2019-09-11T14:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mad.cds.nyu.edu/</loc>
-    <lastmod>2017-03-15T22:37:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/micsem/</loc>
     <lastmod>2017-03-15T22:37:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/reading/</loc>
     <lastmod>2017-01-24T15:36:26-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/thanks/</loc>
     <lastmod>2017-01-24T15:36:26-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/people/affiliated/</loc>
     <lastmod>2016-12-22T14:48:45-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/people/corefaculty/</loc>
     <lastmod>2016-12-22T14:48:45-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/people/</loc>
     <lastmod>2016-12-22T14:48:45-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/people/phds/</loc>
     <lastmod>2016-12-22T14:48:45-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/people/postdocs/</loc>
     <lastmod>2016-12-22T14:48:45-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/people/miscpeople/</loc>
     <lastmod>2016-12-22T14:48:45-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://mad.cds.nyu.edu/seminar_fall2022/</loc>
+    <lastmod>2016-12-22T14:45:56-05:00</lastmod>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_fall2017/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_fall2018/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_fall2019/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_fall2021/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_spring2017/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_spring2018/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_spring2020/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_spring2022/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/seminar_spring2019/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mad.cds.nyu.edu/madplus/</loc>
     <lastmod>2016-12-22T14:45:56-05:00</lastmod>
   </url>
-  
 </urlset>
