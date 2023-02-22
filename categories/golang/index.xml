@@ -6,7 +6,11 @@
     <description>Recent content in GoLang on Math and Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate><atom:link href="https://mad.cds.nyu.edu/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2019 14:51:18 -0500</lastBuildDate>
+    
+	<atom:link href="https://mad.cds.nyu.edu/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Welcome to the Mad site!</title>
       <link>https://mad.cds.nyu.edu/news/first/</link>
@@ -110,7 +114,7 @@ Schedule Fall 2022    Date Speaker Title Room     October 3, 2pm Ilias Zadik (MI
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     February 9 Cynthia Rush (Columbia) Exact Asymptotics with Approximate Message Passing and a Study of the Type 1-Type 2 Error Trade-off for SLOPE   February 16 Sarah Dean    February 23 Brice Ménard    March 2 Andre Wibisono    March 16 Maxim Raginski    March 23 Jose Blanchet    March 30 Jason Lee    April 6 Surbhi Goel    April 13 Lenka Zdeborova    April 27 Jean Ponce      Schedule Fall 2022</description>
+Schedule with Confirmed Speakers    Date Speaker Title     February 9 Cynthia Rush (Columbia) Exact Asymptotics with Approximate Message Passing and a Study of the Type 1-Type 2 Error Trade-off for SLOPE   February 16 Sarah Dean (Cornell) Participation Dynamics in Learning Systems   February 23 Brice Ménard (JHU) Opening the neural network black box   March 2 Andre Wibisono    March 16 Maxim Raginski    March 23 Jose Blanchet    March 30 Jason Lee    April 6 Surbhi Goel    April 13 Lenka Zdeborova    April 27 Jean Ponce      Schedule Fall 2022</description>
     </item>
     
     <item>
