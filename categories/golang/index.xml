@@ -106,11 +106,17 @@ Schedule Fall 2022    Date Speaker Title Room     October 3, 2pm Ilias Zadik (MI
       <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
       
       <guid>https://mad.cds.nyu.edu/seminar/</guid>
-      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
+      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers    Date Speaker Title     February 9 Cynthia Rush (Columbia) Exact Asymptotics with Approximate Message Passing and a Study of the Type 1-Type 2 Error Trade-off for SLOPE   February 16 Sarah Dean (Cornell) Participation Dynamics in Learning Systems   February 23 Brice Ménard (JHU) Opening the neural network black box   March 16 Maxim Raginsky (UIUC) Variational Principles for Mirror Descent and Mirror Langevin Dynamics   March 23 Jose Blanchet (Stanford) A Unified View of Distributional Robust Decision Making   March 30 Jason Lee (Princeton) Feature Learning with SGD   April 6 Surbhi Goel (UPenn) Thinking Fast with Transformers: Algorithmic Reasoning via Shortcuts   April 13 Lenka Zdeborova (EPFL) Analysis of algorithms in high-dimensions: When proofs inspire physics   April 20 Andre Wibisono (Yale) Convergence Analysis of Langevin Algorithms for Sampling in Continuous and Discrete Times   April 27 Jean Ponce (Inria/NYU) Beyond the Computer Vision Comfort Zone     Schedule Fall 2022</description>
+Schedule with Confirmed Speakers    Date Speaker Title     Schedule Spring 2023
+Schedule Fall 2022
+Schedule Spring 2022
+Schedule Fall 2021
+Schedule Spring 2020
+Schedule Fall 2019
+Schedule Spring 2019</description>
     </item>
     
     <item>
@@ -125,6 +131,19 @@ Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
 Schedule with Confirmed Speakers    Date Speaker Title Recording     September 15 Jason Altschuler (NYU) Privacy of Noisy SGD    September 28 special date Nati Srebro (TTIC) Learning by Overfitting: A Statistical Learning View on Benign Overfitting    October 6 Boris Hanin (Princeton) Exact Solutions to Bayesian Interpolation with Deep Linear Networks    October 13 Quentin Berthet (Google) Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm    October 20 Shipra Agrawal (Columbia) Dynamic Pricing and Learning under the Bass Model Link Passcode: yG%*7ekY   October 27 Jack Xin (UCI) DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods    November 3 Anna Gilbert (Yale) Metric representations: Algorithms and Geometry    November 9 special date and time 4pm Pablo Parrilo (MIT) Shortest Paths in Graphs of Convex Sets, and their Applications    November 10 Arthur Jacot (NYU) Implicit Bias of Large Depth Networks: the Bottleneck Rank    November 11 special date and time 11am Theodor Misiakiewicz (Stanford) Learning sparse functions with SGD on neural networks in high-dimension    November 17 Bharath Sriperumbudur (Penn State) Regularized Stein Variational Gradient Flow    December 1 Soledad Villar (Johns Hopkins University) Random graph models and graph neural networks    December 8 Qi Lei (NYU) Reconstructing Training Data from Model Gradient, Provably      Schedule Spring 2022</description>
+    </item>
+    
+    <item>
+      <title>the MAD Seminar</title>
+      <link>https://mad.cds.nyu.edu/seminar_spring2023/</link>
+      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
+      
+      <guid>https://mad.cds.nyu.edu/seminar_spring2023/</guid>
+      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning. It is partly supported by the Moore-Sloan Data Science Environment at NYU.
+Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
+Time: 2:00pm-3:00pm
+Subscribe to the Seminar Mailing list here
+Schedule with Confirmed Speakers    Date Speaker Title     February 9 Cynthia Rush (Columbia) Exact Asymptotics with Approximate Message Passing and a Study of the Type 1-Type 2 Error Trade-off for SLOPE   February 16 Sarah Dean (Cornell) Participation Dynamics in Learning Systems   February 23 Brice Ménard (JHU) Opening the neural network black box   March 16 Maxim Raginsky (UIUC) Variational Principles for Mirror Descent and Mirror Langevin Dynamics   March 23 Jose Blanchet (Stanford) A Unified View of Distributional Robust Decision Making   March 30 Jason Lee (Princeton) Feature Learning with SGD   April 6 Surbhi Goel (UPenn) Thinking Fast with Transformers: Algorithmic Reasoning via Shortcuts   April 13 Lenka Zdeborova (EPFL) Analysis of algorithms in high-dimensions: When proofs inspire physics   April 20 Andre Wibisono (Yale) Convergence Analysis of Langevin Algorithms for Sampling in Continuous and Discrete Times   April 27 Jean Ponce (Inria/NYU) Beyond the Computer Vision Comfort Zone     Schedule Fall 2022</description>
     </item>
     
     <item>
