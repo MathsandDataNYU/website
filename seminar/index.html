@@ -159,33 +159,33 @@ of Applied Mathematics, Statistics and Machine Learning.</p>
 </tr>
 <tr>
 <td style="text-align:center">October 12</td>
-<td style="text-align:center">Yuting Wei</td>
-<td style="text-align:center"></td>
+<td style="text-align:center"><a href="https://yutingwei.github.io/">Yuting Wei (UPenn)</a></td>
+<td style="text-align:center"><a href="#wei">Approximate message passing: A non-asymptotic framework and beyond</a></td>
 </tr>
 <tr>
 <td style="text-align:center">October 19</td>
-<td style="text-align:center">Florent Krzakala</td>
-<td style="text-align:center"></td>
+<td style="text-align:center"><a href="https://florentkrzakala.com/">Florent Krzakala (EPFL)</a></td>
+<td style="text-align:center"><a href="#krzakala">How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time</a></td>
 </tr>
 <tr>
 <td style="text-align:center">October 26</td>
-<td style="text-align:center">Philippe Rigollet</td>
+<td style="text-align:center"><a href="https://math.mit.edu/~rigollet/">Philippe Rigollet (MIT)</a></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">November 2</td>
+<td style="text-align:center"><a href="http://stat.wharton.upenn.edu/~suw/">Weijie Su (UPenn)</a></td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
 <td style="text-align:center">November 9</td>
-<td style="text-align:center">Qing Qu</td>
+<td style="text-align:center"><a href="https://qingqu.engin.umich.edu/">Qing Qu (UMich)</a></td>
 <td style="text-align:center"></td>
 </tr>
 <tr>
 <td style="text-align:center">November 16</td>
-<td style="text-align:center">Dana Yang</td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:center">November 30</td>
-<td style="text-align:center">Weijie Su</td>
-<td></td>
+<td style="text-align:center"><a href="https://danayang.github.io/">Dana Yang (Cornell)</a></td>
+<td style="text-align:center"></td>
 </tr>
 </tbody>
 </table>
@@ -195,9 +195,14 @@ of Applied Mathematics, Statistics and Machine Learning.</p>
 <p>In this talk I will present two general lower bound techniques for interactive decision making. First, we introduce a complexity measure, called the Constrained Decision-Estimation Coefficient, which is an interactive counterpart of the Donoho-Liu type modulus of continuity in statistical estimation. This complexity measure provides a lower bound of the optimal regret for general interactive problems, as well as a matching upper bound up to an online estimation error. Second, we attempt to close this gap via a generalization of the Fano type arguments, using a suitable notion of information for interactive problems. In a special class of problems called ridge bandits, our new tool leads to lower bounds on the entire learning trajectory via differential equations. We also provide upper bounds that evolve with similar differential equations, and thereby showcase the complication of finding a unified complexity measure in general.</p>
 <p>Based on recent work <a href="https://arxiv.org/abs/2301.08215">https://arxiv.org/abs/2301.08215</a> and <a href="https://arxiv.org/abs/2302.06025">https://arxiv.org/abs/2302.06025</a>, jointly with Dylan Foster, Noah Golowich, Jiantao Jiao, Nived Rajaraman, and Kannan Ramchandran.</p>
 
-<h3 id="abstracts">Abstracts</h3>
 <h4 id="a-nameemmanuel-abbe-logic-reasonsing-and-generalization-on-the-unseena"><a name="abbe"> Emmanuel Abbe: Logic reasoning and generalization on the unseen</a></h4>
 <p>Transformers have become the dominant neural network architecture in deep learning. While they are state of the art in language and vision tasks, their performance is less convincing in so-called “reasoning” tasks. In this talk, we consider the “generalization on the unseen (GOTU)” objective to test the reasoning capabilities of neural networks, primarily Transformers on Boolean/logic tasks. We first give experimental results showing that such networks have a strong “minimal degree bias”: they tend to find specific interpolators having low degree, in agreement with the “leap complexity” picture derived for classic generalization. Using basic concepts from Boolean Fourier analysis and algebraic geometry, we then characterize such minimal degree profile interpolators and prove two theorems about the convergence of (S)GD to such interpolators on basic architectures. Since the minimal degree profile is not desirable in many reasoning tasks, we discuss methods to correct this bias and improve consequently the reasoning capabilities. Based on joint works with S. Bengio, A. Lotfi, K. Rizk and E. Adsera-Boix, T. Misiakiewicz.</p>
+
+<h4 id="a-nameyuting-wei-approximate-message-passing-a-non-asymptotic-framework-and-beyonda"><a name="wei"> Yuting Wei: Approximate message passing: A non-asymptotic framework and beyond</a></h4>
+<p>Approximate message passing (AMP) emerges as an effective iterative algorithm for solving high-dimensional statistical problems. However, prior AMP theory, which focused mostly on high-dimensional asymptotics, fell short of predicting the AMP dynamics when the number of iterations surpasses o(log n / log log n) (with n the problem dimension). To address this inadequacy, this talk introduces a non-asymptotic framework towards understanding AMP. Built upon a new decomposition of AMP updates in conjunction with well-controlled residual terms, we lay out an analysis recipe to characterize the finite-sample convergence of AMP up to O(n / polylog(n)) iterations. We will discuss concrete consequences of the proposed analysis recipe in the Z2 synchronization problem; more specifically, we predict the behavior of randomly initialized AMP for up to O(n/poly(\log n)) iterations, showing that the algorithm succeeds without the need of a careful spectral initialization and also a subsequent refinement stage (as conjectured recently by Celentano et al.)</p>
+
+<h4 id="a-nameflorent-krzakala-how-two-layer-neural-networks-learn-functions-one-giant-step-at-a-timea"><a name="krzakala"> Florent Krzakala: How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time</a></h4>
+<p>How do two-layer neural networks learn complex functions from data over time? In this talk, I will delve into the interaction between batch size, number of iterations, and task complexity, shedding light on neural network adaptation to data features. I will particularly discuss three key findings: i) The significant impact of a single gradient step on feature learning, emphasizing the relationship between batch size and the target's information exponent (or complexity). ii) The enhancement of the network's approximation ability over multiple gradient steps, enabling the learning of more intricate functions over time. iii) The improvement in generalization compared to the basic random feature/kernel regime. Our theoretical approach combines techniques from statistical physics, concentration of measure, projection-based conditioning, and Gaussian equivalence, which we believe hold standalone significance. By identifying the prerequisites for specialization and learning, our results offer a comprehensive mathematical theory on two-layer neural network data representation learning during training and its influence on generalization.</p>
 
 <hr>
 <h3 id="archive">Archive</h3>
