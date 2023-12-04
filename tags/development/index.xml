@@ -24,7 +24,7 @@ We are always in the lookout for highly motivated students interested in underst
       
       <guid>https://mad.cds.nyu.edu/micsem/</guid>
       <description>The Mathematics, Information and Computation (MIC) Seminar runs at irregular intervals and covers specific aspects at the interface of applied maths, information theory and theory of computation.
-Schedule Fall 2023 Date Speaker Title Room October 3, 2pm Vladimir Spokoiny (Weierstrass Institute) Bayesian inference using mixed Laplace approximation with applications to error-in-operator models. Room 650, 60 Fifth Avenue Vladimir Spokoiny: Title: Bayesian inference using mixed Laplace approximation with applications to error-in-operator models Abstract: Many statistical problems can be viewed as an error-in-operator model when a linear operator is not known precisely.</description>
+Schedule Fall 2023 Date Speaker Title Room November 1, 3pm Hadi Daneshmand (MIT) Algorithmic view on neural information processing Room 650, 60 Fifth Avenue October 3, 2pm Vladimir Spokoiny (Weierstrass Institute) Bayesian inference using mixed Laplace approximation with applications to error-in-operator models. Room 650, 60 Fifth Avenue Hadi Daneshmand: Algorithmic view on neural information processing Abstract: Deep neural networks are powerful tools for processing data, but their data processing mechanism remains enigmatic.</description>
     </item>
     
     <item>
@@ -110,7 +110,7 @@ Vincent Divol (Sept 2021 - ) CDS Faculty Fellow, Center for Data Science.</descr
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers Date Speaker Title September 21 Yanjun Han (NYU) Two recent lower bounds for interactive decision making October 5 Emmanuel Abbe (EPFL) Logic reasoning and generalization on the unseen October 12 Yuting Wei (UPenn) Approximate message passing: A non-asymptotic framework and beyond October 19 Florent Krzakala (EPFL) How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time October 26 Philippe Rigollet (MIT) A mathematical perspective on transformers November 2 Weijie Su (UPenn) November 9 Qing Qu (UMich) November 16 Dana Yang (Cornell) December 7 Arian Maleki (Columbia) Abstracts Yanjun Han: Two recent lower bounds for interactive decision making A fundamental problem in interactive decision making, ranging from bandit problems to reinforcement learning, is to understand what modeling assumptions lead to sample-efficient learning guarantees, and what algorithm design principles achieve optimal sample complexity.</description>
+Schedule with Confirmed Speakers Date Speaker Title September 21 Yanjun Han (NYU) Two recent lower bounds for interactive decision making October 5 Emmanuel Abbe (EPFL) Logic reasoning and generalization on the unseen October 12 Yuting Wei (UPenn) Approximate message passing: A non-asymptotic framework and beyond October 19 Florent Krzakala (EPFL) How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time October 26 Philippe Rigollet (MIT) A mathematical perspective on transformers November 2 Weijie Su (UPenn) An (Empirical) Law of Data Separation in Deep Learning November 9 Qing Qu (UMich) On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks November 16 Dana Yang (Cornell) Is it easier to count communities than find them?</description>
     </item>
     
     <item>
