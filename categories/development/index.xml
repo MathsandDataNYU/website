@@ -110,7 +110,7 @@ Vincent Divol (Sept 2021 - ) CDS Faculty Fellow, Center for Data Science.</descr
 Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
-Schedule with Confirmed Speakers Date Speaker Title September 21 Yanjun Han (NYU) Two recent lower bounds for interactive decision making October 5 Emmanuel Abbe (EPFL) Logic reasoning and generalization on the unseen October 12 Yuting Wei (UPenn) Approximate message passing: A non-asymptotic framework and beyond October 19 Florent Krzakala (EPFL) How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time October 26 Philippe Rigollet (MIT) A mathematical perspective on transformers November 2 Weijie Su (UPenn) An (Empirical) Law of Data Separation in Deep Learning November 9 Qing Qu (UMich) On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks November 16 Dana Yang (Cornell) Is it easier to count communities than find them?</description>
+Schedule with Confirmed Speakers Date Speaker Title February 8 Jin-Peng Liu (MIT) Quantum for Science: Efficient Quantum Algorithms for Linear and Nonlinear Dynamics February 15 Yaqi duan (NYU) February 22 Cun-Hui Zhang (Rutgers) March 28 Zach Izzo (NEC Labs) April 18 Tristan Buckmaster (NYU) May 9 Guy Bresler (MIT) Abstracts Jin-Peng Liu: Quantum for Science: Efficient Quantum Algorithms for Linear and Nonlinear Dynamics Fault-tolerant quantum computers are expected to excel in simulating unitary dynamics, such as the dynamics of a quantum state under a Hamiltonian.</description>
     </item>
     
     <item>
@@ -125,6 +125,19 @@ Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
 Time: 2:00pm-3:00pm
 Subscribe to the Seminar Mailing list here
 Schedule with Confirmed Speakers Date Speaker Title Recording September 15 Jason Altschuler (NYU) Privacy of Noisy SGD September 28 special date Nati Srebro (TTIC) Learning by Overfitting: A Statistical Learning View on Benign Overfitting October 6 Boris Hanin (Princeton) Exact Solutions to Bayesian Interpolation with Deep Linear Networks October 13 Quentin Berthet (Google) Perturbed optimizers and an Accelerated Frank-Wolfe Algorithm October 20 Shipra Agrawal (Columbia) Dynamic Pricing and Learning under the Bass Model Link Passcode: yG%*7ekY October 27 Jack Xin (UCI) DeepParticle: learning multiscale PDEs by minimizing Wasserstein distance on data generated from interacting particle methods November 3 Anna Gilbert (Yale) Metric representations: Algorithms and Geometry November 9 special date and time 4pm Pablo Parrilo (MIT) Shortest Paths in Graphs of Convex Sets, and their Applications November 10 Arthur Jacot (NYU) Implicit Bias of Large Depth Networks: the Bottleneck Rank November 11 special date and time 11am Theodor Misiakiewicz (Stanford) Learning sparse functions with SGD on neural networks in high-dimension November 17 Bharath Sriperumbudur (Penn State) Regularized Stein Variational Gradient Flow December 1 Soledad Villar (Johns Hopkins University) Random graph models and graph neural networks December 8 Qi Lei (NYU) Reconstructing Training Data from Model Gradient, Provably Schedule Spring 2022</description>
+    </item>
+    
+    <item>
+      <title>the MAD Seminar</title>
+      <link>https://mad.cds.nyu.edu/seminar_fall2023/</link>
+      <pubDate>Thu, 22 Dec 2016 14:45:56 -0500</pubDate>
+      
+      <guid>https://mad.cds.nyu.edu/seminar_fall2023/</guid>
+      <description>The MaD seminar features leading specialists at the interface of Applied Mathematics, Statistics and Machine Learning.
+Room: Auditorium Hall 150, Center for Data Science, NYU, 60 5th ave.
+Time: 2:00pm-3:00pm
+Subscribe to the Seminar Mailing list here
+Schedule with Confirmed Speakers Date Speaker Title September 21 Yanjun Han (NYU) Two recent lower bounds for interactive decision making October 5 Emmanuel Abbe (EPFL) Logic reasoning and generalization on the unseen October 12 Yuting Wei (UPenn) Approximate message passing: A non-asymptotic framework and beyond October 19 Florent Krzakala (EPFL) How Two-Layer Neural Networks Learn Functions, One (Giant) Step at a Time October 26 Philippe Rigollet (MIT) A mathematical perspective on transformers November 2 Weijie Su (UPenn) An (Empirical) Law of Data Separation in Deep Learning November 9 Qing Qu (UMich) On the Emergence of Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Networks November 16 Dana Yang (Cornell) Is it easier to count communities than find them?</description>
     </item>
     
     <item>
